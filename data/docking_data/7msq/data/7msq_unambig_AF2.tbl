@@ -1,0 +1,6 @@
+assign (segid A and resi 110 and name CA) (segid A and resi 225 and name CA) 18.587 0.0 0.0
+assign (segid A and resi 67 and name CA) (segid A and resi 229 and name CA) 28.926 0.0 0.0
+
+assign (segid B and resi 158 and name CA) (segid B and resi 189 and name CA) 46.520 0.0 0.0
+assign (segid B and resi 96 and name CA) (segid B and resi 185 and name CA) 18.573 0.0 0.0
+
