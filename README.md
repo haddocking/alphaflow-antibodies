@@ -2,11 +2,12 @@
 
 ![image](analysis/figures/violinplot_figure/7MSQ_afl.png)
 
-repository for the paper "Improved structural modelling of antibodies and their complexes with clustered diffusion ensembles"
+This repository contains the input data and scripts related to the following manuscript: "Improved structural modelling of antibodies and their complexes with clustered diffusion ensembles"
 
 All the data files used in the paper are available at [ZENODO](). You can download them and place them in the `data` directory.
 
-**Important**: all the scripts available in this repository assume that the numbering of the residues in the PDB files is consistent, as no checks on that are performed.
+**Important**: all the scripts available in this repository assume that the numbering of the residues in the PDB files is consistent (meaning there is no overlap in residue numbering, insertions, duplicate side chains, ...), as no checks on that are performed.
+
 
 ## Installation
 
@@ -106,7 +107,7 @@ This will iterate over the models described in the `cluster_centers_h3_rmsd.csv`
 ## Refinement using the command line
 
 To refine the clustered diffusion ensembles, you can follow this pipeline:
-1. install [HADDOCK3](https://github.com/haddocking/haddock3/blob/main/docs/INSTALL.md) and activate the environment
+1. install [HADDOCK3](https://github.com/haddocking/haddock3/blob/main/docs/INSTALL.md) and activate the environment. E.g. if installed using conda:
 ```bash
 conda activate haddock3
 ```
@@ -116,11 +117,11 @@ cd ../example/7msq_docking
 pdb_selmodel -1 ensemble_7msq_top50_cl20_noclash.pdb | pdb_tidy > 7msq_model1.pdb
 haddock3-restraints restrain_bodies 7msq_model1.pdb > 7msq_unambig.tbl
 ```
-3. run the refinement using the HADDOCK3 command line interface (now it is using a precalculate unambiguous restraints file but you can easily change it to use the file you just generated):
+3. run the refinement using the HADDOCK3 command line interface (now it is using a precalculated unambiguous restraints file but you can easily edit it to use the file you just generated):
 ```bash
 haddock3 emref-alphaflow_ensemble.cfg
 ```
-4. generate the ensemble of the refined structures
+4. generate a PDB ensemble from the refined structures
 ```bash
 pdb_mkensemble AFL-emref/1_emref/*pdb | pdb_tidy > ensemble_7msq_emref.pdb
 ```
@@ -137,7 +138,7 @@ echo 36 41 42 43 44 45 46 47 49 50 51 52 71 72 74 75 81 170 171 175 > 7msq_antig
 echo "" >> 7msq_antigen.actpass
 ```
 
-The second and fourth line (the ones with `echo "" >> ...`) are used to specify that no passive residues are defined for the antibody and the antigen, respectively.
+The second and fourth line (the ones with `echo "" >> ...`) are empty lines that are used to specify that no passive residues are defined for the antibody and the antigen, respectively.
 
 2. generate the ambiguous restraints
 ```bash
