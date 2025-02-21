@@ -140,24 +140,24 @@ for i, pc in enumerate(plots['bodies']):
 #ax.set_title(title)
 ax[0].set_ylabel("RMSD [$\AA$]", fontsize=18)
 ax[0].set_xticks([1, 2, 3, 4, 5, 6])
-ax[0].set_xticklabels(["H1", "H2", "H3", "L1", "L2", "L3"], fontsize=15)
+ax[0].set_xticklabels(["H1", "H2", "H3", "L1", "L2", "L3"], fontsize=16)
 ax[0].set_xlabel("Loop", fontsize=18)
 ## Set the color of the violin patches
 averages = [np.mean(el) for el in data]
 for i, mean in enumerate(averages):
-    ax[0].text(i + 1, mean, f'${mean:.2f}\ \AA$', ha='center', va='bottom', color='black', fontsize=15)
+    ax[0].text(i + 1, mean, f'${mean:.2f}\ \AA$', ha='center', va='bottom', color='black', fontsize=16)
 ## change the fontsize of the y labels
-ax[0].tick_params(axis='y', labelsize=15)
+ax[0].tick_params(axis='y', labelsize=16)
 ax[1].scatter(best_ranked_h3plddt, best_ranked_h3rmsd, c=h3_lengths, cmap="cividis")
 # ax[1].set_ylabel("RMSD [$\AA$]")
 ax[1].set_xlabel("H3 pLDDT", fontsize=18)
 cbar = plt.colorbar(ax[1].scatter(best_ranked_h3plddt, best_ranked_h3rmsd, c=h3_lengths, cmap="cividis"), ax=ax[1])
-cbar.set_label('Number of residues', loc="center", rotation=90, fontsize=15)
+cbar.set_label('Number of residues', loc="center", rotation=90, fontsize=16)
 # cbar ticks fontsize
-cbar.ax.tick_params(labelsize=15)
+cbar.ax.tick_params(labelsize=16)
 # x labels : starting from 65 to 100 spaced by 5
 ax[1].set_xticks(np.arange(65, 101, 5))
-ax[1].tick_params(axis='x', labelsize=15)
+ax[1].tick_params(axis='x', labelsize=16)
 # no y ticks
 ax[1].set_yticks([])
 # adding a and b labels 

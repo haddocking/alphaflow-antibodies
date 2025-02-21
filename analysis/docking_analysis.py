@@ -85,13 +85,13 @@ ax[1,1].bar(ns_aranged+width/2, bars_afens_epivag_emref_u_high, width, color='da
 for i in range(2):
     ax[0,i].set_ylim(0,1.01)
     ax[1,i].set_ylim(0,1.01)
-    ax[i,0].set_ylabel('Success Rate (%)', fontsize=18)
+    ax[i,0].set_ylabel('Success Rate (%)', fontsize=20)
     ax[1,i].set_xticks(ns_aranged)
-    ax[1,i].set_xticklabels(tns, fontsize=14)
+    ax[1,i].set_xticklabels(tns, fontsize=16)
     # for ax[0,i] delete xticks
     ax[0,i].set_xticks([])
     ax[i,0].set_yticks(np.arange(0,1.01,0.2))
-    ax[i,0].set_yticklabels([f"{el}" for el in np.arange(0,101,20)], fontsize=14)
+    ax[i,0].set_yticklabels([f"{el}" for el in np.arange(0,101,20)], fontsize=16)
     # for ax[i,1] delete yticks
     ax[i,1].set_yticks([])
     # horizontal bars at 20-40-60-80
@@ -99,18 +99,18 @@ for i in range(2):
         ax[i,0].axhline(j*0.2, color='grey', linestyle='dashed', linewidth=1)
         ax[i,1].axhline(j*0.2, color='grey', linestyle='dashed', linewidth=1)
 
-ax[0,0].set_title('Bound antigen', fontsize=18)
-ax[0,1].set_title('Unbound antigen', fontsize=18)
+ax[0,0].set_title('Bound antigen', fontsize=20)
+ax[0,1].set_title('Unbound antigen', fontsize=20)
 # put a y label on the right side of ax[0,1]
-ax[0,1].set_ylabel('Para-Epi', fontsize=18)
+ax[0,1].set_ylabel('Para-Epi', fontsize=20)
 ax[0,1].yaxis.set_label_position("right")
-ax[1,1].set_ylabel('CDR-EpiVag', fontsize=18)
+ax[1,1].set_ylabel('CDR-EpiVag', fontsize=20)
 ax[1,1].yaxis.set_label_position("right")
 # I would like these two labels to be a bit more to the right
 ax[0,1].yaxis.set_label_coords(1.03,0.5)
 ax[1,1].yaxis.set_label_coords(1.03,0.5)
 
-fig.legend(loc='lower center', bbox_to_anchor=(0.5, -0.055), ncol=3, fontsize=14, bbox_transform=fig.transFigure)
+fig.legend(loc='lower center', bbox_to_anchor=(0.5, -0.07), ncol=3, fontsize=16, bbox_transform=fig.transFigure)
 
 plt.tight_layout()
 plt.savefig("figures/docking_table.png", bbox_inches='tight', dpi=400)
