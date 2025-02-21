@@ -113,4 +113,4 @@ ax[1,1].yaxis.set_label_coords(1.03,0.5)
 fig.legend(loc='lower center', bbox_to_anchor=(0.5, -0.07), ncol=3, fontsize=16, bbox_transform=fig.transFigure)
 
 plt.tight_layout()
-plt.savefig("figures/docking_table.png", bbox_inches='tight', dpi=400)
+plt.savefig(Path("figures", "docking", "docking_table.png"), bbox_inches='tight', dpi=400)
