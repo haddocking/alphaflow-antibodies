@@ -4,7 +4,7 @@
 
 This repository contains the input data and scripts related to the following manuscript: "Improved structural modelling of antibodies and their complexes with clustered diffusion ensembles"
 
-All the data files used in the paper are available at [ZENODO](). You can download them and place them in the `data` directory.
+All the data files used in the paper are available at [ZENODO](https://zenodo.org/records/14906314). You can download them and place them in the `data` directory.
 
 **Important**: all the scripts available in this repository assume that the numbering of the residues in the PDB files is consistent (meaning there is no overlap in residue numbering, insertions, duplicate side chains, ...), as no checks on that are performed.
 
