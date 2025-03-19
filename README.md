@@ -2,7 +2,9 @@
 
 ![image](analysis/figures/violinplot_figure/7MSQ_afl.png)
 
-This repository contains the input data and scripts related to the following manuscript: "Improved structural modelling of antibodies and their complexes with clustered diffusion ensembles"
+This repository contains the input data and scripts related to the following manuscript: 
+
+**M Giulini, X Xu, AMJJ Bonvin**, [*Improved structural modelling of antibodies and their complexes with clustered diffusion ensembles*](https://www.biorxiv.org/content/10.1101/2025.02.24.639865v1.)
 
 All the data files used in the paper are available at [ZENODO](https://zenodo.org/records/14906314). You can download them and place them in the `data` directory.
 
