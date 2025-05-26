@@ -1,0 +1,1701 @@
+model	rmsd_full	rmsd_framework	rmsd_h1	rmsd_h2	rmsd_h3	rmsd_l1	rmsd_l2	rmsd_l3	pdbmodel	rmsd_full	rmsd_framework	rmsd_h1	rmsd_h2	rmsd_h3	rmsd_l1	rmsd_l2	rmsd_l3
+7bnv_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_001	0.967	0.49	0.672	0.575	2.749	2.254	0.465	2.203	7bnv
+7bnv_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_000	0.962	0.458	0.699	0.633	3.136	2.256	0.511	2.203	7bnv
+7bnv_unrelaxed_rank_012_alphafold2_multimer_v3_model_2_seed_004	0.971	0.473	0.668	0.564	4.569	2.281	0.436	2.191	7bnv
+7bnv_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_003	0.951	0.42	0.56	0.557	4.461	2.207	0.402	2.177	7bnv
+7bnv_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_002	0.958	0.468	0.647	0.593	2.879	2.248	0.441	2.186	7bnv
+7bnv_unrelaxed_rank_009_alphafold2_multimer_v3_model_3_seed_004	0.947	0.433	0.633	0.638	5.589	2.215	0.456	2.229	7bnv
+7bnv_unrelaxed_rank_025_alphafold2_multimer_v3_model_3_seed_003	0.83	0.409	0.586	0.581	4.495	1.07	0.327	2.253	7bnv
+7bnv_unrelaxed_rank_011_alphafold2_multimer_v3_model_2_seed_002	0.969	0.471	0.676	0.585	4.567	2.288	0.457	2.185	7bnv
+7bnv_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_001	0.952	0.422	0.565	0.553	4.133	2.2	0.402	2.192	7bnv
+7bnv_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_004	0.949	0.42	0.575	0.572	4.201	2.206	0.401	2.179	7bnv
+7bnv_unrelaxed_rank_020_alphafold2_multimer_v3_model_5_seed_003	0.961	0.459	0.697	0.642	3.195	2.264	0.502	2.193	7bnv
+7bnv_unrelaxed_rank_013_alphafold2_multimer_v3_model_2_seed_001	0.971	0.473	0.702	0.598	4.461	2.277	0.47	2.193	7bnv
+7bnv_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_002	0.926	0.431	0.621	0.614	6.528	2.181	0.428	2.144	7bnv
+7bnv_unrelaxed_rank_019_alphafold2_multimer_v3_model_3_seed_000	0.93	0.444	0.659	0.636	4.892	2.218	0.448	2.163	7bnv
+7bnv_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_000	0.947	0.402	0.532	0.562	4.231	2.187	0.385	2.163	7bnv
+7bnv_unrelaxed_rank_022_alphafold2_multimer_v3_model_3_seed_001	0.82	0.403	0.534	0.54	5.052	1.09	0.326	2.194	7bnv
+7bnv_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_004	0.957	0.463	0.678	0.633	3.404	2.241	0.477	2.191	7bnv
+7bnv_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_004	0.959	0.473	0.691	0.603	2.808	2.264	0.473	2.191	7bnv
+7bnv_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_000	0.959	0.477	0.686	0.609	3.567	2.252	0.476	2.201	7bnv
+7bnv_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_003	0.972	0.449	0.676	0.628	4.533	2.282	0.435	2.205	7bnv
+7bnv_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_001	0.961	0.461	0.67	0.613	3.118	2.25	0.511	2.186	7bnv
+7bnv_unrelaxed_rank_010_alphafold2_multimer_v3_model_2_seed_000	0.976	0.472	0.675	0.581	4.478	2.284	0.457	2.21	7bnv
+7bnv_unrelaxed_rank_017_alphafold2_multimer_v3_model_1_seed_003	0.966	0.485	0.682	0.588	2.711	2.26	0.447	2.208	7bnv
+7bnv_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_002	0.952	0.424	0.564	0.544	3.958	2.196	0.407	2.188	7bnv
+7bnv_unrelaxed_rank_008_alphafold2_multimer_v3_model_5_seed_002	0.952	0.446	0.689	0.657	3.114	2.234	0.464	2.204	7bnv
+7dk2_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_003	0.473	0.843	0.724	0.538	8.273	0.515	0.739	0.537	7dk2
+7dk2_unrelaxed_rank_018_alphafold2_multimer_v3_model_4_seed_001	0.487	0.881	0.861	0.596	8.502	0.445	0.689	0.575	7dk2
+7dk2_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_001	0.474	0.875	0.71	0.569	8.56	0.557	0.752	0.592	7dk2
+7dk2_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_002	0.478	0.854	0.843	0.413	8.023	0.532	0.741	0.533	7dk2
+7dk2_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_002	0.492	0.885	0.769	0.61	8.379	0.528	0.773	0.58	7dk2
+7dk2_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_004	0.479	0.869	0.693	0.584	8.612	0.499	0.704	0.55	7dk2
+7dk2_unrelaxed_rank_011_alphafold2_multimer_v3_model_3_seed_001	0.474	0.858	0.719	0.604	8.378	0.633	0.821	0.596	7dk2
+7dk2_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_001	0.493	0.883	0.816	0.502	8.362	0.451	0.711	0.61	7dk2
+7dk2_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_003	0.468	0.87	0.727	0.525	8.465	0.533	0.737	0.609	7dk2
+7dk2_unrelaxed_rank_014_alphafold2_multimer_v3_model_2_seed_002	0.486	0.866	0.752	0.568	8.364	0.483	0.763	0.573	7dk2
+7dk2_unrelaxed_rank_003_alphafold2_multimer_v3_model_3_seed_000	0.473	0.861	0.701	0.586	8.525	0.631	0.809	0.584	7dk2
+7dk2_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_000	0.475	0.881	0.704	0.564	8.522	0.569	0.773	0.581	7dk2
+7dk2_unrelaxed_rank_001_alphafold2_multimer_v3_model_3_seed_004	0.474	0.862	0.656	0.627	8.628	0.611	0.844	0.575	7dk2
+7dk2_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_002	0.49	0.891	0.855	0.398	8.197	0.555	0.795	0.624	7dk2
+7dk2_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_004	0.477	0.875	0.743	0.561	8.472	0.546	0.746	0.618	7dk2
+7dk2_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_002	0.48	0.862	0.672	0.639	8.485	0.657	0.852	0.595	7dk2
+7dk2_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_003	0.487	0.878	0.758	0.524	8.311	0.48	0.765	0.587	7dk2
+7dk2_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_004	0.49	0.885	0.805	0.566	8.39	0.474	0.753	0.587	7dk2
+7dk2_unrelaxed_rank_019_alphafold2_multimer_v3_model_4_seed_003	0.499	0.89	0.837	0.547	8.445	0.514	0.758	0.578	7dk2
+7dk2_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_000	0.47	0.856	0.716	0.498	8.359	0.483	0.74	0.57	7dk2
+7dk2_unrelaxed_rank_007_alphafold2_multimer_v3_model_5_seed_004	0.471	0.848	0.695	0.523	8.374	0.508	0.749	0.536	7dk2
+7dk2_unrelaxed_rank_021_alphafold2_multimer_v3_model_4_seed_000	0.5	0.895	0.858	0.558	8.645	0.497	0.717	0.581	7dk2
+7dk2_unrelaxed_rank_010_alphafold2_multimer_v3_model_5_seed_001	0.473	0.852	0.703	0.56	8.385	0.484	0.719	0.537	7dk2
+7dk2_unrelaxed_rank_002_alphafold2_multimer_v3_model_3_seed_003	0.475	0.861	0.658	0.604	8.542	0.659	0.853	0.592	7dk2
+7dk2_unrelaxed_rank_024_alphafold2_multimer_v3_model_2_seed_000	0.507	0.909	0.797	0.568	8.382	0.497	0.745	0.588	7dk2
+7f7e_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_003	1.596	1.314	0.56	0.972	3.324	1.261	0.411	2.593	7f7e
+7f7e_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_000	1.593	1.34	0.645	1.332	3.519	1.218	0.283	2.598	7f7e
+7f7e_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_004	1.528	1.377	0.69	1.163	2.535	1.567	0.747	2.22	7f7e
+7f7e_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_001	1.549	1.357	0.648	1.025	1.883	1.619	0.723	2.2	7f7e
+7f7e_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_002	1.52	1.311	0.735	1.13	4.434	1.481	0.69	2.076	7f7e
+7f7e_unrelaxed_rank_014_alphafold2_multimer_v3_model_3_seed_004	1.5	1.363	0.777	1.223	3.445	1.524	0.718	1.967	7f7e
+7f7e_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_001	1.518	1.328	0.782	1.133	4.303	1.574	0.754	2.182	7f7e
+7f7e_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_002	1.603	1.293	0.598	1.239	3.725	1.226	0.371	2.734	7f7e
+7f7e_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_003	1.554	1.382	0.65	1.013	4.845	1.56	0.687	2.359	7f7e
+7f7e_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_001	1.437	1.42	0.697	0.974	1.856	1.733	0.824	1.894	7f7e
+7f7e_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_000	1.536	1.368	0.705	1.254	2.931	1.57	0.738	2.297	7f7e
+7f7e_unrelaxed_rank_003_alphafold2_multimer_v3_model_2_seed_000	1.551	1.37	0.638	1.078	3.102	1.631	0.759	2.317	7f7e
+7f7e_unrelaxed_rank_011_alphafold2_multimer_v3_model_3_seed_002	1.493	1.357	0.791	1.226	3.346	1.539	0.715	1.91	7f7e
+7f7e_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_000	1.517	1.365	0.827	1.298	4.101	1.488	0.671	2.186	7f7e
+7f7e_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_004	1.562	1.36	0.557	1.221	2.824	1.485	0.607	2.482	7f7e
+7f7e_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_002	1.552	1.378	0.612	1.003	1.795	1.608	0.725	2.313	7f7e
+7f7e_unrelaxed_rank_013_alphafold2_multimer_v3_model_3_seed_003	1.495	1.359	0.811	1.189	3.509	1.566	0.731	1.938	7f7e
+7f7e_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_003	1.535	1.388	0.755	1.339	2.995	1.605	0.797	2.293	7f7e
+7f7e_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_002	1.502	1.438	0.714	1.101	2.293	1.76	0.886	2.074	7f7e
+7f7e_unrelaxed_rank_015_alphafold2_multimer_v3_model_3_seed_001	1.499	1.361	0.808	1.234	3.634	1.525	0.689	1.973	7f7e
+7f7e_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_004	1.57	1.312	0.551	0.952	3.595	1.238	0.442	2.381	7f7e
+7f7e_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_000	1.533	1.324	0.701	1.163	4.887	1.498	0.699	2.209	7f7e
+7f7e_unrelaxed_rank_010_alphafold2_multimer_v3_model_5_seed_003	1.575	1.328	0.523	1.159	3.782	1.219	0.374	2.519	7f7e
+7f7e_unrelaxed_rank_008_alphafold2_multimer_v3_model_5_seed_001	1.607	1.311	0.516	0.998	1.835	1.319	0.446	2.641	7f7e
+7f7e_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_004	1.604	1.336	0.546	1.217	3.758	1.21	0.391	2.642	7f7e
+7kez_unrelaxed_rank_020_alphafold2_multimer_v3_model_3_seed_003	1.322	0.559	0.377	0.671	2.798	4.353	0.261	0.489	7kez
+7kez_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_004	1.307	0.519	0.356	0.722	2.17	4.389	0.283	0.564	7kez
+7kez_unrelaxed_rank_003_alphafold2_multimer_v3_model_5_seed_002	1.25	0.528	0.366	0.592	3.129	4.115	0.3	0.528	7kez
+7kez_unrelaxed_rank_014_alphafold2_multimer_v3_model_2_seed_004	1.425	0.719	0.347	0.686	3.039	4.68	0.386	0.453	7kez
+7kez_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_000	1.279	0.524	0.357	0.72	2.438	4.245	0.247	0.542	7kez
+7kez_unrelaxed_rank_005_alphafold2_multimer_v3_model_5_seed_003	1.255	0.534	0.356	0.605	3.302	4.141	0.307	0.519	7kez
+7kez_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_000	1.352	0.671	0.356	0.711	2.847	4.472	0.346	0.482	7kez
+7kez_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_003	1.359	0.544	0.364	0.722	2.993	4.545	0.326	0.449	7kez
+7kez_unrelaxed_rank_017_alphafold2_multimer_v3_model_3_seed_002	1.303	0.55	0.36	0.686	2.854	4.298	0.262	0.501	7kez
+7kez_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_000	1.424	0.556	0.358	0.663	2.855	4.744	0.302	0.476	7kez
+7kez_unrelaxed_rank_012_alphafold2_multimer_v3_model_2_seed_001	1.255	0.583	0.372	0.701	3.023	4.047	0.311	0.426	7kez
+7kez_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_001	1.276	0.522	0.358	0.719	2.448	4.248	0.249	0.524	7kez
+7kez_unrelaxed_rank_007_alphafold2_multimer_v3_model_2_seed_003	1.436	0.582	0.367	0.725	3.047	4.75	0.348	0.444	7kez
+7kez_unrelaxed_rank_002_alphafold2_multimer_v3_model_5_seed_000	1.248	0.525	0.363	0.627	3.042	4.137	0.32	0.551	7kez
+7kez_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_004	1.354	0.543	0.339	0.683	2.762	4.516	0.325	0.438	7kez
+7kez_unrelaxed_rank_008_alphafold2_multimer_v3_model_2_seed_002	1.44	0.574	0.367	0.71	2.769	4.783	0.382	0.459	7kez
+7kez_unrelaxed_rank_015_alphafold2_multimer_v3_model_2_seed_000	1.278	0.719	0.343	0.706	3.388	4.139	0.388	0.497	7kez
+7kez_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_002	1.252	0.544	0.357	0.705	2.844	4.135	0.343	0.476	7kez
+7kez_unrelaxed_rank_001_alphafold2_multimer_v3_model_5_seed_004	1.261	0.523	0.359	0.61	2.871	4.179	0.326	0.54	7kez
+7kez_unrelaxed_rank_019_alphafold2_multimer_v3_model_3_seed_001	1.358	0.546	0.333	0.673	2.816	4.512	0.291	0.498	7kez
+7kez_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_003	1.313	0.521	0.362	0.761	2.523	4.389	0.242	0.522	7kez
+7kez_unrelaxed_rank_004_alphafold2_multimer_v3_model_5_seed_001	1.278	0.525	0.349	0.612	2.938	4.234	0.298	0.529	7kez
+7kez_unrelaxed_rank_022_alphafold2_multimer_v3_model_3_seed_004	1.784	0.561	0.364	0.704	2.606	6.174	0.306	0.489	7kez
+7kez_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_001	1.241	0.532	0.351	0.703	2.912	4.075	0.332	0.464	7kez
+7kez_unrelaxed_rank_013_alphafold2_multimer_v3_model_4_seed_002	1.27	0.516	0.329	0.735	2.418	4.235	0.265	0.538	7kez
+7kql_unrelaxed_rank_024_alphafold2_multimer_v3_model_2_seed_001	0.778	0.591	0.973	1.125	2.293	2.129	0.419	0.397	7kql
+7kql_unrelaxed_rank_021_alphafold2_multimer_v3_model_2_seed_004	0.769	0.594	0.951	1.202	2.078	2.151	0.479	0.443	7kql
+7kql_unrelaxed_rank_002_alphafold2_multimer_v3_model_3_seed_003	0.548	0.559	1.087	1.411	1.483	0.513	0.287	0.576	7kql
+7kql_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_001	0.732	0.589	1.099	1.533	2.191	2.152	0.514	0.375	7kql
+7kql_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_001	0.748	0.608	1.05	1.768	2.144	2.154	0.532	0.512	7kql
+7kql_unrelaxed_rank_008_alphafold2_multimer_v3_model_3_seed_004	0.551	0.556	1.043	1.251	1.49	0.525	0.292	0.552	7kql
+7kql_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_003	0.563	0.555	1.021	1.676	2.253	0.518	0.255	0.584	7kql
+7kql_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_001	0.552	0.563	1.014	1.333	1.444	0.553	0.302	0.586	7kql
+7kql_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_003	0.775	0.66	0.987	1.095	2.379	2.111	0.376	0.378	7kql
+7kql_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_000	0.568	0.57	1.023	1.407	2.221	0.497	0.321	0.52	7kql
+7kql_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_004	0.692	0.573	1.01	1.534	1.944	1.764	0.524	0.484	7kql
+7kql_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_002	0.751	0.606	1.058	1.813	1.814	2.156	0.513	0.505	7kql
+7kql_unrelaxed_rank_006_alphafold2_multimer_v3_model_3_seed_002	0.544	0.554	0.996	1.512	1.427	0.548	0.297	0.562	7kql
+7kql_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_002	0.722	0.572	1.042	1.538	2.141	1.957	0.458	0.476	7kql
+7kql_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_003	0.728	0.585	1.089	1.53	2.13	2.128	0.531	0.325	7kql
+7kql_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_002	0.774	0.594	1.028	1.205	2.437	2.128	0.426	0.398	7kql
+7kql_unrelaxed_rank_014_alphafold2_multimer_v3_model_3_seed_000	0.556	0.561	0.988	1.596	1.533	0.542	0.304	0.537	7kql
+7kql_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_003	0.751	0.543	0.995	1.208	2.043	1.982	0.43	0.434	7kql
+7kql_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_002	0.721	0.603	1.06	1.65	2.152	2.13	0.519	0.381	7kql
+7kql_unrelaxed_rank_023_alphafold2_multimer_v3_model_2_seed_000	0.771	0.598	0.986	1.258	2.236	2.145	0.471	0.438	7kql
+7kql_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_000	0.761	0.621	1.19	1.447	2.225	2.183	0.52	0.493	7kql
+7kql_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_001	0.565	0.586	0.968	1.506	2.107	0.547	0.415	0.627	7kql
+7kql_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_004	0.726	0.598	1.125	1.577	2.095	2.157	0.507	0.369	7kql
+7kql_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_000	0.721	0.581	1.087	1.561	2.074	2.114	0.495	0.357	7kql
+7kql_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_004	0.753	0.601	1.161	1.415	2.292	2.174	0.525	0.448	7kql
+7msq_unrelaxed_rank_008_alphafold2_multimer_v3_model_4_seed_002	0.455	0.504	1.088	0.864	9.306	0.812	0.392	0.653	7msq
+7msq_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_002	0.497	0.678	0.765	0.758	8.966	0.632	0.314	0.554	7msq
+7msq_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_000	0.499	0.543	1.178	0.753	9.58	0.642	0.335	0.723	7msq
+7msq_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_000	0.487	0.657	0.996	0.719	9.217	0.684	0.3	0.594	7msq
+7msq_unrelaxed_rank_010_alphafold2_multimer_v3_model_5_seed_003	0.486	0.533	0.788	0.73	9.798	0.693	0.3	0.564	7msq
+7msq_unrelaxed_rank_015_alphafold2_multimer_v3_model_2_seed_001	0.508	0.575	1.186	0.818	9.591	0.635	0.358	0.695	7msq
+7msq_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_003	0.451	0.5	1.124	0.889	9.185	0.836	0.432	0.682	7msq
+7msq_unrelaxed_rank_021_alphafold2_multimer_v3_model_2_seed_004	0.516	0.576	1.207	0.786	9.745	0.688	0.366	0.703	7msq
+7msq_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_000	0.455	0.518	1.061	0.867	8.758	0.831	0.422	0.708	7msq
+7msq_unrelaxed_rank_016_alphafold2_multimer_v3_model_3_seed_004	0.5	0.572	0.615	0.742	9.589	0.782	0.359	0.65	7msq
+7msq_unrelaxed_rank_004_alphafold2_multimer_v3_model_5_seed_001	0.485	0.541	0.75	0.815	9.704	0.761	0.333	0.565	7msq
+7msq_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_003	0.516	0.579	1.181	0.751	9.978	0.641	0.36	0.72	7msq
+7msq_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_003	0.509	0.58	0.82	0.698	9.018	0.765	0.294	0.672	7msq
+7msq_unrelaxed_rank_013_alphafold2_multimer_v3_model_3_seed_000	0.498	0.56	0.621	0.772	9.578	0.778	0.389	0.669	7msq
+7msq_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_000	0.486	0.544	0.775	0.769	9.902	0.761	0.325	0.563	7msq
+7msq_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_002	0.515	0.587	1.197	0.784	9.81	0.647	0.35	0.697	7msq
+7msq_unrelaxed_rank_003_alphafold2_multimer_v3_model_5_seed_002	0.491	0.542	0.748	0.843	9.77	0.782	0.343	0.558	7msq
+7msq_unrelaxed_rank_011_alphafold2_multimer_v3_model_3_seed_001	0.499	0.58	0.587	0.699	9.583	0.785	0.376	0.671	7msq
+7msq_unrelaxed_rank_014_alphafold2_multimer_v3_model_3_seed_003	0.495	0.556	0.605	0.789	9.618	0.789	0.362	0.649	7msq
+7msq_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_001	0.489	0.561	0.792	0.822	8.996	0.623	0.301	0.554	7msq
+7msq_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_004	0.454	0.52	1.104	0.809	9.237	0.811	0.404	0.646	7msq
+7msq_unrelaxed_rank_017_alphafold2_multimer_v3_model_3_seed_002	0.504	0.579	0.562	0.758	9.546	0.804	0.385	0.645	7msq
+7msq_unrelaxed_rank_012_alphafold2_multimer_v3_model_5_seed_004	0.497	0.543	0.771	0.683	9.816	0.714	0.298	0.575	7msq
+7msq_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_004	0.51	0.592	0.809	0.799	8.7	0.626	0.256	0.569	7msq
+7msq_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_001	0.463	0.507	1.109	0.801	9.271	0.826	0.413	0.654	7msq
+7n4j_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_003	0.763	0.521	0.882	1.487	2.809	0.52	0.343	1.854	7n4j
+7n4j_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_000	0.768	0.521	0.742	1.508	3.224	0.47	0.302	1.811	7n4j
+7n4j_unrelaxed_rank_008_alphafold2_multimer_v3_model_5_seed_003	0.742	0.495	1.103	1.562	2.812	0.549	0.249	1.789	7n4j
+7n4j_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_003	0.773	0.535	1.064	1.584	2.532	0.534	0.295	1.85	7n4j
+7n4j_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_000	0.746	0.496	1.126	1.563	2.75	0.498	0.287	1.796	7n4j
+7n4j_unrelaxed_rank_010_alphafold2_multimer_v3_model_2_seed_002	0.768	0.532	0.725	1.499	3.305	0.462	0.323	1.792	7n4j
+7n4j_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_004	0.775	0.543	0.822	1.513	3.076	0.478	0.288	1.818	7n4j
+7n4j_unrelaxed_rank_013_alphafold2_multimer_v3_model_4_seed_001	0.791	0.535	0.97	1.541	2.599	0.566	0.31	1.868	7n4j
+7n4j_unrelaxed_rank_019_alphafold2_multimer_v3_model_3_seed_004	0.756	0.511	0.965	1.514	2.398	0.472	0.267	1.791	7n4j
+7n4j_unrelaxed_rank_016_alphafold2_multimer_v3_model_3_seed_002	0.759	0.533	0.999	1.521	2.532	0.464	0.283	1.787	7n4j
+7n4j_unrelaxed_rank_004_alphafold2_multimer_v3_model_2_seed_003	0.772	0.538	0.757	1.496	3.248	0.457	0.299	1.798	7n4j
+7n4j_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_000	0.761	0.514	0.863	1.501	3.278	0.48	0.353	1.838	7n4j
+7n4j_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_004	0.765	0.521	0.869	1.491	3.231	0.505	0.353	1.834	7n4j
+7n4j_unrelaxed_rank_011_alphafold2_multimer_v3_model_5_seed_002	0.75	0.496	1.107	1.568	2.869	0.514	0.259	1.809	7n4j
+7n4j_unrelaxed_rank_003_alphafold2_multimer_v3_model_5_seed_004	0.744	0.496	1.099	1.567	2.64	0.525	0.251	1.799	7n4j
+7n4j_unrelaxed_rank_020_alphafold2_multimer_v3_model_3_seed_003	0.75	0.513	1.006	1.525	2.496	0.434	0.296	1.77	7n4j
+7n4j_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_000	0.757	0.536	0.901	1.538	2.845	0.407	0.327	1.739	7n4j
+7n4j_unrelaxed_rank_009_alphafold2_multimer_v3_model_3_seed_000	0.748	0.514	1.019	1.521	2.191	0.444	0.303	1.783	7n4j
+7n4j_unrelaxed_rank_006_alphafold2_multimer_v3_model_5_seed_001	0.753	0.502	1.098	1.569	2.962	0.513	0.271	1.809	7n4j
+7n4j_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_002	0.778	0.533	1.015	1.544	2.533	0.53	0.287	1.85	7n4j
+7n4j_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_001	0.766	0.591	0.873	1.499	3.061	0.57	0.341	1.861	7n4j
+7n4j_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_002	0.743	0.536	0.781	1.492	3.101	0.45	0.429	1.763	7n4j
+7n4j_unrelaxed_rank_005_alphafold2_multimer_v3_model_2_seed_001	0.778	0.609	0.755	1.511	3.224	0.454	0.314	1.806	7n4j
+7n4j_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_001	0.759	0.534	0.958	1.519	2.603	0.457	0.265	1.793	7n4j
+7n4j_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_004	0.78	0.533	0.97	1.547	2.52	0.493	0.316	1.845	7n4j
+7np1_unrelaxed_rank_007_alphafold2_multimer_v3_model_2_seed_002	0.95	0.825	1.053	1.415	5.136	1.599	0.377	1.945	7np1
+7np1_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_002	0.941	0.811	1.042	1.268	4.846	1.652	0.358	2.002	7np1
+7np1_unrelaxed_rank_008_alphafold2_multimer_v3_model_3_seed_003	0.96	0.823	1.068	1.229	5.01	1.731	0.549	2.035	7np1
+7np1_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_004	0.963	0.864	1.139	1.518	4.946	1.665	0.338	1.987	7np1
+7np1_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_004	0.942	0.819	1.035	1.285	4.848	1.655	0.41	1.975	7np1
+7np1_unrelaxed_rank_021_alphafold2_multimer_v3_model_3_seed_000	0.95	0.795	1.014	1.188	4.911	1.682	0.501	2.024	7np1
+7np1_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_000	0.985	0.835	0.986	1.234	4.67	1.828	0.541	2.143	7np1
+7np1_unrelaxed_rank_019_alphafold2_multimer_v3_model_3_seed_002	0.953	0.808	1.042	1.23	4.954	1.748	0.532	2.015	7np1
+7np1_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_003	0.982	0.843	1.019	1.265	4.67	1.811	0.497	2.139	7np1
+7np1_unrelaxed_rank_013_alphafold2_multimer_v3_model_5_seed_001	0.986	0.829	0.999	1.266	4.71	1.813	0.532	2.156	7np1
+7np1_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_003	0.935	0.809	1.038	1.296	4.868	1.659	0.426	1.973	7np1
+7np1_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_001	0.932	0.799	1.017	1.233	4.846	1.599	0.343	1.984	7np1
+7np1_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_000	0.935	0.885	1.006	1.188	4.832	1.628	0.312	1.976	7np1
+7np1_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_000	0.967	0.869	1.147	1.476	5.148	1.644	0.329	1.993	7np1
+7np1_unrelaxed_rank_006_alphafold2_multimer_v3_model_3_seed_001	0.969	0.818	1.066	1.225	4.998	1.737	0.56	2.098	7np1
+7np1_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_002	0.93	0.796	1.007	1.23	4.847	1.612	0.419	1.936	7np1
+7np1_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_003	0.931	0.797	0.967	1.189	4.837	1.572	0.328	1.992	7np1
+7np1_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_000	0.934	0.806	1.044	1.237	4.828	1.643	0.431	1.955	7np1
+7np1_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_001	0.951	0.806	1.025	1.282	4.835	1.665	0.434	2.034	7np1
+7np1_unrelaxed_rank_003_alphafold2_multimer_v3_model_2_seed_003	0.951	0.838	1.127	1.483	5.215	1.651	0.421	1.981	7np1
+7np1_unrelaxed_rank_005_alphafold2_multimer_v3_model_2_seed_001	0.958	0.84	1.128	1.459	5.176	1.633	0.391	1.964	7np1
+7np1_unrelaxed_rank_012_alphafold2_multimer_v3_model_5_seed_002	0.977	0.818	0.93	1.188	4.722	1.786	0.485	2.119	7np1
+7np1_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_004	0.987	0.829	1.003	1.25	4.674	1.808	0.496	2.15	7np1
+7np1_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_004	0.939	0.883	1.0	1.204	4.823	1.666	0.326	1.99	7np1
+7np1_unrelaxed_rank_017_alphafold2_multimer_v3_model_3_seed_004	0.955	0.811	1.037	1.243	4.883	1.699	0.525	2.006	7np1
+7nx3_unrelaxed_rank_022	0.459	0.847	1.243	1.161	2.781	1.314	0.829	0.791	7nx3
+7nx3_unrelaxed_rank_023	0.462	0.789	1.384	1.167	2.516	1.259	0.821	0.752	7nx3
+7nx3_unrelaxed_rank_021	0.453	0.855	1.263	1.152	3.036	1.293	0.82	0.829	7nx3
+7nx3_unrelaxed_rank_009	0.439	0.779	1.365	1.106	2.136	1.243	0.834	0.724	7nx3
+7nx3_unrelaxed_rank_008	0.44	0.809	1.412	1.128	2.127	1.289	0.839	0.814	7nx3
+7nx3_unrelaxed_rank_020	0.442	0.754	1.307	1.075	2.093	1.173	0.781	0.668	7nx3
+7nx3_unrelaxed_rank_018	0.48	0.789	1.303	1.159	2.155	1.353	0.797	0.692	7nx3
+7nx3_unrelaxed_rank_024	0.441	0.739	1.27	1.053	2.156	1.162	0.771	0.648	7nx3
+7nx3_unrelaxed_rank_025	0.47	0.761	1.419	1.142	2.456	1.353	0.788	0.71	7nx3
+7nx3_unrelaxed_rank_019	0.453	0.86	1.281	1.162	2.901	1.302	0.864	0.879	7nx3
+7nx3_unrelaxed_rank_003	0.423	0.725	1.192	0.89	3.332	1.053	0.758	0.717	7nx3
+7nx3_unrelaxed_rank_017	0.452	0.851	1.291	1.126	2.123	1.382	0.822	0.739	7nx3
+7nx3_unrelaxed_rank_016	0.447	0.825	1.233	1.018	2.348	1.226	0.824	0.792	7nx3
+7nx3_unrelaxed_rank_002	0.425	0.7	1.178	0.939	2.747	1.029	0.739	0.653	7nx3
+7nx3_unrelaxed_rank_014	0.454	0.857	1.277	1.062	2.591	1.295	0.869	0.846	7nx3
+7nx3_unrelaxed_rank_001	0.437	0.766	1.107	0.932	2.633	1.134	0.771	0.663	7nx3
+7nx3_unrelaxed_rank_015	0.457	0.773	1.308	1.088	2.105	1.305	0.79	0.639	7nx3
+7nx3_unrelaxed_rank_011	0.446	0.855	1.264	1.084	2.507	1.161	0.825	0.836	7nx3
+7nx3_unrelaxed_rank_005	0.45	0.837	1.483	1.219	2.191	1.468	0.893	0.716	7nx3
+7nx3_unrelaxed_rank_004	0.42	0.68	1.091	0.849	2.185	1.014	0.7	0.628	7nx3
+7nx3_unrelaxed_rank_010	0.447	0.84	1.264	1.067	2.414	1.16	0.789	0.803	7nx3
+7nx3_unrelaxed_rank_006	0.443	0.84	1.252	1.099	2.687	1.186	0.778	0.735	7nx3
+7nx3_unrelaxed_rank_012	0.423	0.722	1.207	0.949	2.412	0.998	0.71	0.706	7nx3
+7nx3_unrelaxed_rank_013	0.453	0.787	1.273	1.074	2.524	1.124	0.792	0.782	7nx3
+7nx3_unrelaxed_rank_007	0.442	0.826	1.208	1.05	2.787	1.145	0.764	0.71	7nx3
+7phu_unrelaxed_rank_013	0.469	0.524	0.643	0.567	3.507	0.676	0.518	0.902	7phu
+7phu_unrelaxed_rank_007	0.469	0.484	0.524	0.526	4.463	0.738	0.552	0.974	7phu
+7phu_unrelaxed_rank_006	0.457	0.476	0.488	0.524	4.093	0.71	0.544	0.902	7phu
+7phu_unrelaxed_rank_012	0.462	0.479	0.525	0.527	4.624	0.696	0.54	0.922	7phu
+7phu_unrelaxed_rank_004	0.465	0.503	0.637	0.593	2.761	0.668	0.575	0.88	7phu
+7phu_unrelaxed_rank_010	0.462	0.468	0.492	0.516	4.421	0.699	0.531	0.908	7phu
+7phu_unrelaxed_rank_011	0.472	0.482	0.53	0.565	4.26	0.749	0.568	0.992	7phu
+7phu_unrelaxed_rank_005	0.475	0.486	0.537	0.539	4.433	0.722	0.602	0.848	7phu
+7phu_unrelaxed_rank_001	0.46	0.502	0.597	0.605	1.793	0.67	0.56	0.765	7phu
+7phu_unrelaxed_rank_015	0.429	0.486	0.482	0.514	4.055	0.684	0.595	0.769	7phu
+7phu_unrelaxed_rank_014	0.466	0.475	0.553	0.467	4.88	0.583	0.528	0.839	7phu
+7phu_unrelaxed_rank_016	0.475	0.483	0.539	0.506	4.371	0.686	0.584	0.806	7phu
+7phu_unrelaxed_rank_002	0.472	0.474	0.56	0.496	5.022	0.629	0.537	0.859	7phu
+7phu_unrelaxed_rank_003	0.469	0.465	0.565	0.49	5.04	0.619	0.516	0.86	7phu
+7phu_unrelaxed_rank_017	0.431	0.48	0.471	0.487	4.363	0.676	0.53	0.778	7phu
+7phu_unrelaxed_rank_025	0.434	0.488	0.448	0.433	4.278	0.677	0.513	0.797	7phu
+7phu_unrelaxed_rank_019	0.431	0.497	0.456	0.459	4.656	0.707	0.514	0.782	7phu
+7phu_unrelaxed_rank_018	0.435	0.468	0.496	0.6	4.846	0.648	0.587	0.786	7phu
+7phu_unrelaxed_rank_024	0.42	0.449	0.468	0.531	5.125	0.573	0.519	0.701	7phu
+7phu_unrelaxed_rank_008	0.472	0.516	0.633	0.605	3.773	0.687	0.538	0.896	7phu
+7phu_unrelaxed_rank_020	0.417	0.443	0.505	0.514	4.526	0.552	0.509	0.712	7phu
+7phu_unrelaxed_rank_021	0.433	0.486	0.466	0.446	4.015	0.703	0.533	0.762	7phu
+7phu_unrelaxed_rank_009	0.468	0.518	0.625	0.585	3.894	0.707	0.56	0.892	7phu
+7phu_unrelaxed_rank_023	0.444	0.486	0.536	0.597	3.26	0.769	0.62	0.814	7phu
+7phu_unrelaxed_rank_022	0.444	0.488	0.502	0.619	3.63	0.757	0.606	0.81	7phu
+7phw_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_003	1.306	0.825	0.826	1.203	4.63	1.184	0.912	3.699	7phw
+7phw_unrelaxed_rank_012_alphafold2_multimer_v3_model_3_seed_004	1.33	0.803	0.796	1.136	4.714	1.139	0.877	3.83	7phw
+7phw_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_002	1.302	0.874	0.807	1.197	5.385	1.197	0.93	3.67	7phw
+7phw_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_004	1.283	0.919	0.807	1.12	5.115	1.227	0.873	3.598	7phw
+7phw_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_001	1.299	0.888	0.814	1.184	5.309	1.194	0.95	3.631	7phw
+7phw_unrelaxed_rank_005_alphafold2_multimer_v3_model_5_seed_003	1.35	0.803	0.764	1.181	4.841	1.116	0.891	3.899	7phw
+7phw_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_002	1.195	0.888	0.809	1.112	3.946	1.203	0.847	3.259	7phw
+7phw_unrelaxed_rank_003_alphafold2_multimer_v3_model_5_seed_002	1.366	0.792	0.763	1.203	4.891	1.123	0.889	3.955	7phw
+7phw_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_001	1.211	0.778	0.862	1.083	3.393	1.141	0.764	3.324	7phw
+7phw_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_003	1.284	0.881	0.835	1.218	5.284	1.203	0.946	3.581	7phw
+7phw_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_004	1.218	0.777	0.878	1.047	3.541	1.145	0.791	3.371	7phw
+7phw_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_003	1.315	0.795	0.849	1.07	6.441	1.237	0.805	3.687	7phw
+7phw_unrelaxed_rank_014_alphafold2_multimer_v3_model_2_seed_000	1.214	0.904	0.82	1.09	4.73	1.186	0.907	3.343	7phw
+7phw_unrelaxed_rank_001_alphafold2_multimer_v3_model_5_seed_000	1.362	0.792	0.76	1.144	4.464	1.13	0.882	3.928	7phw
+7phw_unrelaxed_rank_013_alphafold2_multimer_v3_model_3_seed_000	1.309	0.796	0.766	1.116	4.835	1.077	0.829	3.799	7phw
+7phw_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_002	1.32	0.798	0.878	1.045	6.497	1.241	0.829	3.707	7phw
+7phw_unrelaxed_rank_019_alphafold2_multimer_v3_model_3_seed_001	1.295	0.903	0.79	1.189	4.509	1.174	0.857	3.635	7phw
+7phw_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_004	1.268	0.882	0.891	1.231	5.265	1.213	0.949	3.536	7phw
+7phw_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_003	1.271	0.809	0.833	1.125	5.02	1.144	0.84	3.588	7phw
+7phw_unrelaxed_rank_015_alphafold2_multimer_v3_model_2_seed_001	1.283	0.94	0.818	1.177	4.91	1.2	0.888	3.593	7phw
+7phw_unrelaxed_rank_002_alphafold2_multimer_v3_model_5_seed_004	1.376	0.799	0.757	1.245	4.935	1.13	0.879	3.984	7phw
+7phw_unrelaxed_rank_010_alphafold2_multimer_v3_model_3_seed_002	1.332	0.779	0.773	1.028	6.257	1.146	0.836	3.882	7phw
+7phw_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_000	1.296	0.882	0.808	1.204	5.519	1.189	0.935	3.649	7phw
+7phw_unrelaxed_rank_008_alphafold2_multimer_v3_model_4_seed_000	1.197	0.764	0.873	1.028	3.281	1.127	0.762	3.309	7phw
+7phw_unrelaxed_rank_007_alphafold2_multimer_v3_model_5_seed_001	1.342	0.8	0.778	1.239	4.807	1.131	0.907	3.846	7phw
+7pr0_unrelaxed_rank_023	1.106	0.782	0.457	0.649	9.351	1.029	0.532	3.206	7pr0
+7pr0_unrelaxed_rank_022	0.859	0.791	0.55	0.679	13.022	0.977	0.51	2.396	7pr0
+7pr0_unrelaxed_rank_020	0.914	0.686	0.42	0.591	12.884	0.923	0.473	2.542	7pr0
+7pr0_unrelaxed_rank_008	0.865	0.664	0.524	0.644	13.021	0.812	0.511	2.402	7pr0
+7pr0_unrelaxed_rank_009	0.918	0.669	0.487	0.615	3.448	0.83	0.522	2.486	7pr0
+7pr0_unrelaxed_rank_021	0.914	0.692	0.49	0.614	3.575	0.862	0.524	2.452	7pr0
+7pr0_unrelaxed_rank_019	0.901	0.798	0.488	0.581	10.228	1.023	0.514	2.385	7pr0
+7pr0_unrelaxed_rank_025	0.918	0.709	0.39	0.637	12.933	0.976	0.471	2.494	7pr0
+7pr0_unrelaxed_rank_024	0.902	0.782	0.489	0.571	12.103	0.908	0.493	2.453	7pr0
+7pr0_unrelaxed_rank_018	0.906	0.634	0.539	0.577	12.733	0.587	0.392	2.52	7pr0
+7pr0_unrelaxed_rank_002	0.931	0.624	0.596	0.611	10.197	0.88	0.555	2.639	7pr0
+7pr0_unrelaxed_rank_016	0.904	0.771	0.494	0.578	11.609	0.867	0.452	2.467	7pr0
+7pr0_unrelaxed_rank_017	0.91	0.801	0.444	0.626	12.754	0.911	0.49	2.475	7pr0
+7pr0_unrelaxed_rank_003	0.906	0.69	0.412	0.566	3.917	0.828	0.419	2.441	7pr0
+7pr0_unrelaxed_rank_015	0.91	0.634	0.582	0.556	12.517	0.657	0.396	2.548	7pr0
+7pr0_unrelaxed_rank_001	0.924	0.654	0.585	0.636	2.936	0.914	0.501	2.472	7pr0
+7pr0_unrelaxed_rank_014	0.908	0.638	0.5	0.577	12.442	0.666	0.422	2.519	7pr0
+7pr0_unrelaxed_rank_010	0.906	0.682	0.399	0.573	3.966	0.746	0.424	2.462	7pr0
+7pr0_unrelaxed_rank_004	1.063	0.666	0.597	0.741	10.653	0.96	0.504	3.098	7pr0
+7pr0_unrelaxed_rank_005	1.054	0.654	0.624	0.719	10.851	0.894	0.52	3.109	7pr0
+7pr0_unrelaxed_rank_011	0.902	0.671	0.377	0.517	3.888	0.986	0.46	2.493	7pr0
+7pr0_unrelaxed_rank_007	0.908	0.642	0.496	0.575	12.035	0.916	0.491	2.567	7pr0
+7pr0_unrelaxed_rank_013	1.067	0.68	0.558	0.712	9.548	0.922	0.49	3.085	7pr0
+7pr0_unrelaxed_rank_012	0.91	0.627	0.491	0.577	13.154	0.654	0.439	2.523	7pr0
+7pr0_unrelaxed_rank_006	0.905	0.634	0.481	0.576	13.743	0.616	0.405	2.522	7pr0
+7ps2_unrelaxed_rank_004_alphafold2_multimer_v3_model_2_seed_000	0.624	0.565	0.593	1.035	5.434	1.206	0.601	1.696	7ps2
+7ps2_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_003	0.693	0.603	0.686	1.01	5.776	1.3	0.665	1.965	7ps2
+7ps2_unrelaxed_rank_016_alphafold2_multimer_v3_model_3_seed_002	0.612	0.549	0.805	0.694	5.53	1.243	0.672	1.656	7ps2
+7ps2_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_003	0.666	0.588	0.747	0.685	6.139	1.188	0.604	1.838	7ps2
+7ps2_unrelaxed_rank_022_alphafold2_multimer_v3_model_5_seed_001	0.612	0.521	0.643	0.531	5.461	0.988	0.398	1.643	7ps2
+7ps2_unrelaxed_rank_013_alphafold2_multimer_v3_model_5_seed_004	0.647	0.565	0.956	0.681	5.784	1.25	0.607	1.795	7ps2
+7ps2_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_000	0.668	0.585	0.775	0.715	6.131	1.189	0.587	1.794	7ps2
+7ps2_unrelaxed_rank_015_alphafold2_multimer_v3_model_4_seed_003	0.681	0.545	0.793	0.59	5.658	1.113	0.587	1.922	7ps2
+7ps2_unrelaxed_rank_007_alphafold2_multimer_v3_model_2_seed_001	0.683	0.607	0.675	1.052	5.634	1.355	0.687	1.906	7ps2
+7ps2_unrelaxed_rank_024_alphafold2_multimer_v3_model_5_seed_003	0.621	0.516	0.643	0.527	5.347	0.951	0.413	1.674	7ps2
+7ps2_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_002	0.665	0.547	0.717	0.574	4.92	1.171	0.564	1.836	7ps2
+7ps2_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_002	0.644	0.595	0.737	0.741	6.285	1.315	0.663	1.721	7ps2
+7ps2_unrelaxed_rank_008_alphafold2_multimer_v3_model_3_seed_003	0.59	0.548	0.748	0.673	5.997	1.122	0.616	1.606	7ps2
+7ps2_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_004	0.692	0.585	0.649	1.055	5.683	1.283	0.653	1.943	7ps2
+7ps2_unrelaxed_rank_005_alphafold2_multimer_v3_model_2_seed_002	0.619	0.555	0.61	1.035	5.254	1.286	0.615	1.673	7ps2
+7ps2_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_000	0.678	0.534	0.723	0.547	4.906	1.114	0.54	1.91	7ps2
+7ps2_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_004	0.652	0.582	0.734	0.661	6.009	1.198	0.614	1.766	7ps2
+7ps2_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_001	0.61	0.562	0.818	0.696	5.773	1.2	0.67	1.66	7ps2
+7ps2_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_002	0.615	0.524	0.663	0.531	5.579	1.017	0.467	1.664	7ps2
+7ps2_unrelaxed_rank_011_alphafold2_multimer_v3_model_5_seed_000	0.617	0.532	0.682	0.574	5.836	1.01	0.44	1.668	7ps2
+7ps2_unrelaxed_rank_006_alphafold2_multimer_v3_model_3_seed_004	0.597	0.526	0.656	0.623	4.402	1.117	0.547	1.582	7ps2
+7ps2_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_001	0.664	0.539	0.795	0.58	5.052	1.176	0.579	1.869	7ps2
+7ps2_unrelaxed_rank_009_alphafold2_multimer_v3_model_3_seed_000	0.621	0.541	0.735	0.659	4.966	1.188	0.614	1.651	7ps2
+7ps2_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_001	0.624	0.583	0.716	0.695	6.339	1.185	0.62	1.651	7ps2
+7ps2_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_004	0.649	0.53	0.701	0.555	5.146	1.159	0.554	1.763	7ps2
+7ps6_unrelaxed_rank_003_alphafold2_multimer_v3_model_3_seed_000	0.511	0.598	0.647	0.806	3.594	1.307	0.505	0.552	7ps6
+7ps6_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_002	0.516	0.619	0.711	0.91	3.585	1.313	0.518	0.562	7ps6
+7ps6_unrelaxed_rank_025_alphafold2_multimer_v3_model_3_seed_001	0.517	0.618	0.641	0.85	3.325	1.272	0.461	0.53	7ps6
+7ps6_unrelaxed_rank_006_alphafold2_multimer_v3_model_2_seed_002	0.509	0.598	1.538	1.173	4.136	1.244	0.533	0.652	7ps6
+7ps6_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_000	0.502	0.596	0.628	0.896	3.335	1.204	0.527	0.614	7ps6
+7ps6_unrelaxed_rank_014_alphafold2_multimer_v3_model_5_seed_004	0.508	0.594	0.617	0.736	3.414	1.309	0.488	0.569	7ps6
+7ps6_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_000	0.485	0.6	0.708	0.892	3.497	1.265	0.521	0.558	7ps6
+7ps6_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_001	0.501	0.697	0.602	0.942	3.351	1.147	0.469	0.633	7ps6
+7ps6_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_003	0.475	0.591	0.685	0.801	3.002	1.278	0.517	0.528	7ps6
+7ps6_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_003	0.511	0.604	0.638	0.753	3.312	1.314	0.514	0.555	7ps6
+7ps6_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_002	0.5	0.602	0.628	0.866	3.512	1.21	0.533	0.632	7ps6
+7ps6_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_001	0.484	0.597	0.686	0.91	3.686	1.314	0.515	0.563	7ps6
+7ps6_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_002	0.479	0.599	0.693	0.796	3.389	1.282	0.527	0.581	7ps6
+7ps6_unrelaxed_rank_007_alphafold2_multimer_v3_model_2_seed_000	0.506	0.593	1.487	1.26	3.028	1.217	0.555	0.645	7ps6
+7ps6_unrelaxed_rank_002_alphafold2_multimer_v3_model_3_seed_004	0.512	0.612	0.679	0.858	3.668	1.34	0.558	0.562	7ps6
+7ps6_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_000	0.51	0.598	0.645	0.819	3.58	1.265	0.48	0.559	7ps6
+7ps6_unrelaxed_rank_008_alphafold2_multimer_v3_model_2_seed_001	0.512	0.601	1.494	1.183	3.453	1.241	0.591	0.645	7ps6
+7ps6_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_003	0.507	0.6	0.616	0.96	4.034	1.182	0.53	0.632	7ps6
+7ps6_unrelaxed_rank_010_alphafold2_multimer_v3_model_2_seed_003	0.511	0.711	1.51	1.317	3.259	1.201	0.544	0.673	7ps6
+7ps6_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_004	0.483	0.584	0.673	0.847	3.671	1.25	0.487	0.589	7ps6
+7ps6_unrelaxed_rank_001_alphafold2_multimer_v3_model_3_seed_002	0.515	0.619	0.685	0.834	3.88	1.303	0.504	0.538	7ps6
+7ps6_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_004	0.5	0.602	0.621	0.886	3.565	1.207	0.523	0.63	7ps6
+7ps6_unrelaxed_rank_004_alphafold2_multimer_v3_model_3_seed_003	0.51	0.613	0.658	0.809	3.547	1.308	0.515	0.539	7ps6
+7ps6_unrelaxed_rank_022_alphafold2_multimer_v3_model_5_seed_001	0.513	0.602	0.629	0.809	3.719	1.261	0.453	0.545	7ps6
+7ps6_unrelaxed_rank_013_alphafold2_multimer_v3_model_2_seed_004	0.507	0.602	0.667	1.164	3.251	1.217	0.511	0.623	7ps6
+7qny_unrelaxed_rank_008	0.428	0.686	0.764	2.094	5.521	0.56	0.571	0.617	7qny
+7qny_unrelaxed_rank_020	0.439	0.702	0.779	2.07	5.465	0.698	0.668	0.584	7qny
+7qny_unrelaxed_rank_021	0.434	0.635	0.713	2.124	5.168	0.386	0.416	0.543	7qny
+7qny_unrelaxed_rank_009	0.422	0.792	0.755	2.072	5.514	0.608	0.586	0.639	7qny
+7qny_unrelaxed_rank_023	0.441	0.685	0.775	2.111	5.493	0.636	0.612	0.579	7qny
+7qny_unrelaxed_rank_022	0.433	0.625	0.683	2.128	5.222	0.428	0.431	0.509	7qny
+7qny_unrelaxed_rank_025	0.437	0.64	0.758	2.099	4.945	0.408	0.396	0.568	7qny
+7qny_unrelaxed_rank_019	0.437	0.623	0.745	2.082	5.356	0.482	0.406	0.507	7qny
+7qny_unrelaxed_rank_018	0.424	0.618	0.691	2.14	5.31	0.451	0.443	0.507	7qny
+7qny_unrelaxed_rank_024	0.429	0.616	0.755	2.144	5.213	0.41	0.371	0.558	7qny
+7qny_unrelaxed_rank_015	0.44	0.622	0.765	2.113	5.43	0.429	0.404	0.538	7qny
+7qny_unrelaxed_rank_001	0.418	0.786	0.751	2.101	5.45	0.603	0.632	0.595	7qny
+7qny_unrelaxed_rank_014	0.435	0.624	0.711	2.097	5.087	0.485	0.415	0.52	7qny
+7qny_unrelaxed_rank_002	0.424	0.672	0.717	2.095	5.404	0.537	0.619	0.569	7qny
+7qny_unrelaxed_rank_016	0.428	0.676	0.792	2.107	5.3	0.64	0.667	0.584	7qny
+7qny_unrelaxed_rank_017	0.429	0.635	0.738	2.118	5.54	0.476	0.378	0.502	7qny
+7qny_unrelaxed_rank_003	0.426	0.66	0.768	2.077	5.32	0.507	0.441	0.559	7qny
+7qny_unrelaxed_rank_007	0.433	0.674	0.814	2.072	5.4	0.519	0.422	0.561	7qny
+7qny_unrelaxed_rank_013	0.432	0.681	0.793	2.121	5.437	0.641	0.635	0.602	7qny
+7qny_unrelaxed_rank_012	0.435	0.68	0.808	2.111	5.352	0.631	0.644	0.61	7qny
+7qny_unrelaxed_rank_006	0.427	0.675	0.775	2.039	5.422	0.517	0.449	0.574	7qny
+7qny_unrelaxed_rank_010	0.417	0.626	0.764	2.099	5.598	0.485	0.41	0.51	7qny
+7qny_unrelaxed_rank_004	0.429	0.664	0.7	2.116	5.47	0.493	0.437	0.557	7qny
+7qny_unrelaxed_rank_005	0.434	0.681	0.785	2.063	5.441	0.511	0.435	0.542	7qny
+7qny_unrelaxed_rank_011	0.422	0.781	0.738	2.091	5.463	0.584	0.571	0.601	7qny
+7rfb_unrelaxed_rank_008	0.476	0.622	0.839	0.58	7.148	0.811	0.581	0.42	7rfb
+7rfb_unrelaxed_rank_020	0.485	0.659	0.914	0.652	2.881	0.825	0.509	0.466	7rfb
+7rfb_unrelaxed_rank_021	0.487	0.662	0.922	0.688	2.848	0.827	0.539	0.472	7rfb
+7rfb_unrelaxed_rank_009	0.481	0.65	0.933	0.58	3.136	0.826	0.501	0.46	7rfb
+7rfb_unrelaxed_rank_023	0.489	0.625	0.823	0.49	7.053	0.881	0.555	0.459	7rfb
+7rfb_unrelaxed_rank_022	0.487	0.618	0.863	0.546	7.369	0.844	0.556	0.42	7rfb
+7rfb_unrelaxed_rank_025	0.494	0.626	0.83	0.597	7.645	0.927	0.53	0.445	7rfb
+7rfb_unrelaxed_rank_019	0.481	0.639	0.825	0.551	7.574	0.891	0.624	0.448	7rfb
+7rfb_unrelaxed_rank_018	0.47	0.66	0.949	0.521	3.171	0.87	0.535	0.494	7rfb
+7rfb_unrelaxed_rank_024	0.486	0.624	0.838	0.493	7.328	0.866	0.549	0.443	7rfb
+7rfb_unrelaxed_rank_015	0.471	0.636	0.891	0.504	3.987	0.851	0.521	0.489	7rfb
+7rfb_unrelaxed_rank_001	0.455	0.638	0.945	0.609	2.996	0.759	0.515	0.467	7rfb
+7rfb_unrelaxed_rank_014	0.477	0.633	0.829	0.713	7.385	0.791	0.552	0.451	7rfb
+7rfb_unrelaxed_rank_002	0.467	0.64	0.974	0.603	2.603	0.821	0.514	0.478	7rfb
+7rfb_unrelaxed_rank_016	0.47	0.65	0.89	0.661	5.064	0.813	0.502	0.495	7rfb
+7rfb_unrelaxed_rank_017	0.51	0.639	0.843	0.456	7.159	0.961	0.58	0.458	7rfb
+7rfb_unrelaxed_rank_003	0.473	0.638	0.947	0.596	4.158	0.844	0.524	0.45	7rfb
+7rfb_unrelaxed_rank_007	0.48	0.616	0.92	0.604	4.156	0.839	0.481	0.463	7rfb
+7rfb_unrelaxed_rank_013	0.469	0.642	0.923	0.538	2.893	0.825	0.514	0.486	7rfb
+7rfb_unrelaxed_rank_012	0.474	0.644	0.895	0.626	4.635	0.821	0.56	0.447	7rfb
+7rfb_unrelaxed_rank_006	0.481	0.615	0.928	0.605	4.568	0.855	0.524	0.443	7rfb
+7rfb_unrelaxed_rank_010	0.48	0.643	0.915	0.612	3.033	0.828	0.54	0.467	7rfb
+7rfb_unrelaxed_rank_004	0.478	0.597	0.877	0.593	5.154	0.824	0.475	0.471	7rfb
+7rfb_unrelaxed_rank_005	0.478	0.636	0.963	0.632	3.945	0.851	0.537	0.428	7rfb
+7rfb_unrelaxed_rank_011	0.478	0.632	0.852	0.593	6.458	0.817	0.555	0.437	7rfb
+7s11_unrelaxed_rank_025	0.616	1.667	1.364	1.522	4.146	1.492	1.793	1.76	7s11
+7s11_unrelaxed_rank_019	0.623	1.463	1.156	1.1	2.338	1.515	1.359	1.343	7s11
+7s11_unrelaxed_rank_018	0.598	1.548	1.201	1.169	4.27	1.563	1.645	1.451	7s11
+7s11_unrelaxed_rank_024	0.614	1.688	1.382	1.475	4.642	1.554	1.857	1.69	7s11
+7s11_unrelaxed_rank_023	0.613	1.68	1.306	1.365	4.59	1.563	1.844	1.666	7s11
+7s11_unrelaxed_rank_022	0.611	1.684	1.314	1.351	4.587	1.586	1.824	1.591	7s11
+7s11_unrelaxed_rank_008	0.602	1.702	1.583	1.699	4.911	1.552	1.982	1.647	7s11
+7s11_unrelaxed_rank_020	0.598	1.543	1.196	1.469	4.1	1.436	1.714	1.642	7s11
+7s11_unrelaxed_rank_021	0.599	1.538	1.212	1.225	4.26	1.577	1.705	1.472	7s11
+7s11_unrelaxed_rank_009	0.603	1.566	1.418	1.54	4.88	1.47	1.796	1.503	7s11
+7s11_unrelaxed_rank_010	0.625	1.457	1.198	1.128	2.351	1.533	1.355	1.293	7s11
+7s11_unrelaxed_rank_004	0.635	1.529	1.292	1.16	4.573	1.739	1.528	1.374	7s11
+7s11_unrelaxed_rank_005	0.629	1.586	1.336	1.22	4.426	1.759	1.62	1.38	7s11
+7s11_unrelaxed_rank_011	0.627	1.444	1.113	1.055	2.196	1.453	1.297	1.308	7s11
+7s11_unrelaxed_rank_007	0.608	1.606	1.429	1.383	4.502	1.716	1.825	1.392	7s11
+7s11_unrelaxed_rank_013	0.602	1.623	1.312	1.272	4.29	1.641	1.777	1.579	7s11
+7s11_unrelaxed_rank_012	0.606	1.653	1.593	1.668	4.946	1.567	1.97	1.588	7s11
+7s11_unrelaxed_rank_006	0.628	1.428	1.105	1.048	2.145	1.407	1.273	1.327	7s11
+7s11_unrelaxed_rank_002	0.628	1.55	1.277	1.201	4.462	1.785	1.62	1.347	7s11
+7s11_unrelaxed_rank_016	0.602	1.435	1.138	1.314	4.541	1.347	1.569	1.431	7s11
+7s11_unrelaxed_rank_017	0.618	1.47	1.191	1.139	4.31	1.56	1.467	1.474	7s11
+7s11_unrelaxed_rank_003	0.624	1.584	1.322	1.154	4.741	1.742	1.58	1.391	7s11
+7s11_unrelaxed_rank_015	0.613	1.604	1.267	1.216	4.343	1.574	1.741	1.438	7s11
+7s11_unrelaxed_rank_001	0.622	1.6	1.327	1.104	4.83	1.727	1.613	1.388	7s11
+7s11_unrelaxed_rank_014	0.605	1.538	1.214	1.212	4.157	1.551	1.69	1.534	7s11
+7s11_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_001	0.637	1.453	1.258	1.187	3.984	1.825	1.569	1.187
+7s11_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_005	0.644	1.469	1.182	1.110	4.011	1.698	1.523	1.285
+7s11_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_008	0.620	1.506	1.203	1.200	4.040	1.575	1.792	1.361
+7s11_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_000	0.645	1.438	1.229	1.109	4.403	1.841	1.497	1.169
+7s11_unrelaxed_rank_030_alphafold2_multimer_v3_model_1_seed_000	0.657	1.413	1.106	1.067	3.944	1.648	1.462	1.252
+7s11_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_004	0.649	1.448	1.146	1.115	3.930	1.574	1.686	1.252
+7s11_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_014	0.717	1.674	1.479	1.672	3.835	1.740	2.699	1.578
+7s11_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_003	0.618	1.353	1.152	1.139	4.137	1.522	1.541	1.212
+7s11_unrelaxed_rank_034_alphafold2_multimer_v3_model_5_seed_014	0.661	1.466	1.124	1.240	3.994	1.468	2.242	1.381
+7s11_unrelaxed_rank_059_alphafold2_multimer_v3_model_5_seed_007	0.656	1.432	1.098	1.123	4.181	1.477	2.031	1.288
+7s11_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_013	0.643	1.453	1.374	1.184	4.451	1.916	1.591	1.088
+7s11_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_011	0.736	1.417	1.127	1.104	4.219	1.617	2.913	1.273
+7s11_unrelaxed_rank_019_alphafold2_multimer_v3_model_2_seed_011	0.642	1.416	1.212	1.154	4.454	1.764	1.479	1.203
+7s11_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_006	0.617	1.472	1.196	1.194	4.077	1.628	1.612	1.369
+7s11_unrelaxed_rank_070_alphafold2_multimer_v3_model_4_seed_009	0.633	1.492	1.284	1.369	3.487	1.567	1.694	1.334
+7s11_unrelaxed_rank_062_alphafold2_multimer_v3_model_1_seed_012	0.770	1.563	1.270	1.242	3.088	1.804	2.884	1.216
+7s11_unrelaxed_rank_031_alphafold2_multimer_v3_model_1_seed_010	0.627	1.444	1.196	1.181	4.012	1.650	1.541	1.263
+7s11_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_012	0.627	1.473	1.183	1.135	4.182	1.608	1.589	1.304
+7s11_unrelaxed_rank_069_alphafold2_multimer_v3_model_2_seed_004	0.656	1.496	1.367	1.187	3.789	1.861	1.603	1.246
+7s11_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_014	0.637	1.439	1.225	1.140	4.284	1.822	1.545	1.142
+7s11_unrelaxed_rank_054_alphafold2_multimer_v3_model_1_seed_009	0.659	1.566	1.236	1.278	3.978	1.701	1.785	1.363
+7s11_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_011	0.643	1.402	1.131	1.054	3.707	1.617	1.483	1.210
+7s11_unrelaxed_rank_020_alphafold2_multimer_v3_model_4_seed_000	0.616	1.295	1.092	1.033	3.994	1.451	1.425	1.154
+7s11_unrelaxed_rank_038_alphafold2_multimer_v3_model_2_seed_012	0.643	1.415	1.256	1.051	4.520	1.842	1.468	1.067
+7s11_unrelaxed_rank_028_alphafold2_multimer_v3_model_2_seed_002	0.641	1.380	1.202	1.073	4.019	1.740	1.410	1.119
+7s11_unrelaxed_rank_046_alphafold2_multimer_v3_model_3_seed_003	0.619	1.461	1.201	1.031	4.160	1.696	1.649	1.303
+7s11_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_009	0.712	1.644	1.424	1.369	3.731	1.825	2.887	1.388
+7s11_unrelaxed_rank_067_alphafold2_multimer_v3_model_2_seed_010	0.652	1.411	1.329	1.086	3.717	1.799	1.510	1.162
+7s11_unrelaxed_rank_064_alphafold2_multimer_v3_model_4_seed_002	0.645	1.458	1.193	1.355	3.647	1.519	1.671	1.353
+7s11_unrelaxed_rank_056_alphafold2_multimer_v3_model_2_seed_005	0.638	1.413	1.248	1.045	3.617	1.749	1.490	1.176
+7s11_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_007	0.622	1.297	1.168	1.087	4.424	1.574	1.352	1.052
+7s11_unrelaxed_rank_072_alphafold2_multimer_v3_model_4_seed_012	0.649	1.419	1.220	1.248	3.777	1.621	1.617	1.212
+7s11_unrelaxed_rank_049_alphafold2_multimer_v3_model_2_seed_009	0.638	1.472	1.243	1.212	4.112	1.840	1.607	1.210
+7s11_unrelaxed_rank_048_alphafold2_multimer_v3_model_1_seed_006	0.659	1.336	1.017	1.010	1.873	1.555	1.237	1.070
+7s11_unrelaxed_rank_044_alphafold2_multimer_v3_model_3_seed_008	0.648	1.476	1.201	1.057	4.077	1.584	2.030	1.358
+7s11_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_003	0.619	1.413	1.086	1.098	3.925	1.475	1.602	1.298
+7s11_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_007	0.674	1.410	1.093	0.982	3.904	1.609	1.421	1.223
+7s11_unrelaxed_rank_042_alphafold2_multimer_v3_model_5_seed_010	0.619	1.421	1.131	1.123	4.103	1.507	1.531	1.349
+7s11_unrelaxed_rank_057_alphafold2_multimer_v3_model_2_seed_003	0.638	1.366	1.110	0.998	4.537	1.760	1.443	1.106
+7s11_unrelaxed_rank_022_alphafold2_multimer_v3_model_3_seed_010	0.609	1.462	1.235	1.062	4.222	1.680	1.632	1.269
+7s11_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_008	0.622	1.326	1.237	1.051	4.275	1.571	1.442	1.111
+7s11_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_007	0.642	1.410	1.189	1.037	4.441	1.821	1.487	1.117
+7s11_unrelaxed_rank_021_alphafold2_multimer_v3_model_3_seed_005	0.615	1.520	1.319	1.280	3.972	1.678	1.702	1.390
+7s11_unrelaxed_rank_065_alphafold2_multimer_v3_model_5_seed_000	0.615	1.452	1.139	1.383	3.704	1.433	1.621	1.505
+7s11_unrelaxed_rank_050_alphafold2_multimer_v3_model_1_seed_008	0.652	1.585	1.317	1.274	3.805	1.719	1.926	1.315
+7s11_unrelaxed_rank_055_alphafold2_multimer_v3_model_3_seed_013	0.621	1.507	1.244	1.231	3.883	1.629	1.706	1.386
+7s11_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_001	0.635	1.449	1.159	1.048	4.231	1.551	1.702	1.321
+7s11_unrelaxed_rank_026_alphafold2_multimer_v3_model_4_seed_004	0.635	1.328	1.312	1.050	4.223	1.660	1.443	1.062
+7s11_unrelaxed_rank_061_alphafold2_multimer_v3_model_1_seed_014	0.740	1.631	1.293	1.326	3.742	1.820	2.966	1.359
+7s11_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_003	0.639	1.416	1.143	1.040	3.924	1.692	1.508	1.206
+7s11_unrelaxed_rank_014_alphafold2_multimer_v3_model_3_seed_004	0.624	1.443	1.202	1.134	4.161	1.585	1.625	1.381
+7s11_unrelaxed_rank_015_alphafold2_multimer_v3_model_4_seed_013	0.607	1.279	1.133	0.980	4.383	1.459	1.383	1.080
+7s11_unrelaxed_rank_024_alphafold2_multimer_v3_model_2_seed_008	0.638	1.509	1.284	1.191	4.408	1.879	1.630	1.286
+7s11_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_013	0.641	1.438	1.184	1.137	4.006	1.637	1.546	1.274
+7s11_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_011	0.620	1.335	1.100	1.149	3.862	1.399	1.504	1.260
+7s11_unrelaxed_rank_010_alphafold2_multimer_v3_model_5_seed_001	0.614	1.432	1.085	1.050	4.373	1.458	1.607	1.313
+7s11_unrelaxed_rank_068_alphafold2_multimer_v3_model_2_seed_006	0.648	1.435	1.283	1.115	3.514	1.905	1.503	1.106
+7s11_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_005	0.613	1.324	1.147	1.144	4.484	1.501	1.417	1.147
+7s11_unrelaxed_rank_013_alphafold2_multimer_v3_model_3_seed_002	0.620	1.453	1.220	1.129	4.144	1.639	1.602	1.340
+7s11_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_006	0.607	1.287	1.144	1.044	3.874	1.459	1.419	1.147
+7s11_unrelaxed_rank_060_alphafold2_multimer_v3_model_5_seed_013	0.611	1.453	1.145	1.314	3.797	1.455	1.630	1.427
+7s11_unrelaxed_rank_066_alphafold2_multimer_v3_model_4_seed_014	0.624	1.396	1.232	1.197	3.591	1.511	1.679	1.194
+7s11_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_000	0.627	1.787	1.586	1.784	3.896	1.877	2.104	1.755
+7s11_unrelaxed_rank_058_alphafold2_multimer_v3_model_5_seed_005	0.675	1.547	1.231	1.483	3.832	1.447	2.680	1.477
+7s11_unrelaxed_rank_032_alphafold2_multimer_v3_model_3_seed_006	0.614	1.477	1.235	1.042	4.169	1.700	1.637	1.301
+7s11_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_007	0.701	1.752	1.526	1.617	3.776	1.824	2.692	1.525
+7s11_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_010	0.623	1.420	1.302	1.222	4.298	1.702	1.575	1.155
+7s11_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_002	0.653	1.480	1.193	1.180	3.988	1.714	1.582	1.277
+7s11_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_002	0.623	1.511	1.235	1.215	4.049	1.625	1.657	1.321
+7s11_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_011	0.743	1.405	1.072	1.069	4.110	1.552	2.969	1.222
+7s11_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_001	0.625	1.310	1.190	0.988	4.100	1.547	1.410	1.140
+7s11_unrelaxed_rank_063_alphafold2_multimer_v3_model_1_seed_001	0.655	1.385	1.081	1.024	1.926	1.611	1.359	1.061
+7s11_unrelaxed_rank_008_alphafold2_multimer_v3_model_5_seed_004	0.621	1.456	1.179	1.125	4.174	1.561	1.589	1.311
+7s11_unrelaxed_rank_039_alphafold2_multimer_v3_model_5_seed_009	0.625	1.433	1.141	1.126	4.328	1.521	1.558	1.295
+7s11_unrelaxed_rank_027_alphafold2_multimer_v3_model_3_seed_012	0.634	1.554	1.350	1.264	4.294	1.755	1.768	1.431
+7kez_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_012	1.286	0.528	0.319	0.515	2.961	4.259	0.257	0.533
+7kez_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_010	1.235	0.531	0.312	0.631	2.662	4.072	0.224	0.510
+7kez_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_012	1.207	0.539	0.352	0.638	2.743	3.914	0.295	0.461
+7kez_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_009	1.206	0.537	0.327	0.623	2.973	3.927	0.229	0.537
+7kez_unrelaxed_rank_031_alphafold2_multimer_v3_model_5_seed_001	1.209	0.522	0.372	0.580	3.161	3.949	0.250	0.511
+7kez_unrelaxed_rank_038_alphafold2_multimer_v3_model_2_seed_005	1.273	0.694	0.288	0.633	3.475	4.109	0.227	0.473
+7kez_unrelaxed_rank_039_alphafold2_multimer_v3_model_5_seed_012	1.207	0.548	0.376	0.574	3.206	3.890	0.263	0.486
+7kez_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_005	1.285	0.524	0.327	0.536	2.820	4.264	0.250	0.514
+7kez_unrelaxed_rank_033_alphafold2_multimer_v3_model_2_seed_012	1.517	0.587	0.296	0.628	3.060	5.033	0.210	0.494
+7kez_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_002	1.223	0.561	0.407	0.630	3.974	3.874	0.244	0.408
+7kez_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_007	1.339	0.548	0.323	0.655	2.469	4.445	0.200	0.476
+7kez_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_010	1.552	0.567	0.330	0.646	3.061	5.173	0.214	0.442
+7kez_unrelaxed_rank_025_alphafold2_multimer_v3_model_5_seed_013	1.228	0.535	0.375	0.642	2.961	3.989	0.246	0.487
+7kez_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_001	1.251	0.524	0.335	0.582	2.908	4.127	0.224	0.535
+7kez_unrelaxed_rank_053_alphafold2_multimer_v3_model_5_seed_011	1.254	0.537	0.390	0.594	3.291	4.098	0.235	0.474
+7kez_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_002	1.277	0.554	0.403	0.681	2.665	4.208	0.250	0.490
+7kez_unrelaxed_rank_045_alphafold2_multimer_v3_model_2_seed_000	1.395	0.557	0.324	0.659	3.015	4.567	0.235	0.508
+7kez_unrelaxed_rank_017_alphafold2_multimer_v3_model_1_seed_004	1.220	0.515	0.301	0.588	2.847	4.096	0.285	0.505
+7kez_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_000	1.244	0.546	0.348	0.640	2.848	4.064	0.224	0.503
+7kez_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_003	1.270	0.549	0.340	0.518	3.231	4.174	0.287	0.572
+7kez_unrelaxed_rank_044_alphafold2_multimer_v3_model_3_seed_006	1.251	0.521	0.341	0.586	3.106	4.110	0.298	0.502
+7kez_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_005	1.248	0.538	0.363	0.683	2.650	4.063	0.264	0.463
+7kez_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_011	1.269	0.529	0.384	0.647	3.113	4.172	0.182	0.547
+7kez_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_007	2.075	0.548	0.342	0.671	2.102	7.229	0.201	0.584
+7kez_unrelaxed_rank_057_alphafold2_multimer_v3_model_4_seed_003	1.257	0.547	0.362	0.626	3.236	4.114	0.225	0.569
+7kez_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_008	1.237	0.545	0.323	0.597	2.915	4.056	0.230	0.492
+7kez_unrelaxed_rank_027_alphafold2_multimer_v3_model_5_seed_006	1.232	0.535	0.378	0.640	3.304	3.990	0.252	0.450
+7kez_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_009	1.255	0.540	0.374	0.570	3.177	4.096	0.258	0.560
+7kez_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_007	2.098	0.565	0.416	0.637	2.069	7.292	0.244	0.532
+7kez_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_013	1.235	0.649	0.333	0.686	2.669	4.015	0.268	0.491
+7kez_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_003	1.230	0.552	0.312	0.645	2.712	4.007	0.272	0.469
+7kez_unrelaxed_rank_048_alphafold2_multimer_v3_model_4_seed_008	1.224	0.528	0.347	0.608	3.055	3.994	0.258	0.562
+7kez_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_010	1.412	0.525	0.384	0.550	3.326	4.726	0.239	0.544
+7kez_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_002	1.226	0.520	0.339	0.631	2.930	4.087	0.225	0.534
+7kez_unrelaxed_rank_058_alphafold2_multimer_v3_model_2_seed_007	2.072	0.579	0.336	0.702	2.581	7.220	0.213	0.499
+7kez_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_002	1.355	0.665	0.334	0.675	3.235	4.466	0.248	0.472
+7kez_unrelaxed_rank_020_alphafold2_multimer_v3_model_5_seed_009	1.222	0.537	0.408	0.620	3.413	3.914	0.240	0.484
+7kez_unrelaxed_rank_042_alphafold2_multimer_v3_model_3_seed_014	1.255	0.521	0.313	0.551	3.148	4.136	0.291	0.523
+7kez_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_010	1.264	0.523	0.347	0.541	3.114	4.195	0.247	0.562
+7kez_unrelaxed_rank_035_alphafold2_multimer_v3_model_4_seed_006	1.226	0.529	0.347	0.663	3.229	3.988	0.250	0.513
+7kez_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_000	1.247	0.526	0.351	0.560	2.995	4.090	0.244	0.491
+7kez_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_008	1.396	0.545	0.321	0.636	3.032	4.621	0.223	0.503
+7kez_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_002	1.288	0.515	0.326	0.536	3.127	4.295	0.222	0.510
+7kez_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_014	1.224	0.533	0.341	0.642	2.861	3.986	0.297	0.480
+7kez_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_001	1.394	0.670	0.303	0.630	2.756	4.571	0.200	0.536
+7kez_unrelaxed_rank_056_alphafold2_multimer_v3_model_4_seed_010	1.239	0.528	0.341	0.628	2.921	4.062	0.235	0.487
+7kez_unrelaxed_rank_043_alphafold2_multimer_v3_model_2_seed_004	1.283	0.569	0.311	0.626	3.174	4.168	0.229	0.456
+7kez_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_005	1.218	0.663	0.268	0.616	2.899	3.987	0.263	0.505
+7kez_unrelaxed_rank_046_alphafold2_multimer_v3_model_2_seed_011	2.090	0.582	0.335	0.680	2.303	7.282	0.231	0.505
+7kez_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_014	1.458	0.697	0.287	0.614	3.331	4.720	0.217	0.471
+7kez_unrelaxed_rank_069_alphafold2_multimer_v3_model_4_seed_009	1.291	0.528	0.392	0.611	3.470	4.229	0.199	0.568
+7kez_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_014	1.237	0.670	0.289	0.627	2.871	4.039	0.262	0.500
+7kez_unrelaxed_rank_067_alphafold2_multimer_v3_model_4_seed_004	1.286	0.554	0.439	0.650	2.357	4.205	0.206	0.465
+7kez_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_008	1.369	0.520	0.346	0.611	3.081	4.577	0.200	0.448
+7kez_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_012	1.262	0.628	0.294	0.622	2.576	4.124	0.246	0.503
+7kez_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_011	1.338	0.530	0.320	0.560	3.077	4.451	0.180	0.543
+7kez_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_003	1.278	0.593	0.300	0.634	2.764	4.178	0.248	0.451
+7kez_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_003	1.209	0.519	0.331	0.544	3.140	3.959	0.245	0.547
+7kez_unrelaxed_rank_029_alphafold2_multimer_v3_model_2_seed_001	1.241	0.615	0.278	0.619	2.888	4.018	0.202	0.483
+7kez_unrelaxed_rank_024_alphafold2_multimer_v3_model_3_seed_007	2.067	0.523	0.344	0.582	2.235	7.244	0.219	0.594
+7kez_unrelaxed_rank_055_alphafold2_multimer_v3_model_5_seed_004	1.244	0.538	0.338	0.569	3.233	4.035	0.214	0.439
+7kez_unrelaxed_rank_052_alphafold2_multimer_v3_model_3_seed_013	1.282	0.519	0.356	0.558	2.966	4.256	0.263	0.531
+7kez_unrelaxed_rank_047_alphafold2_multimer_v3_model_4_seed_000	1.257	0.528	0.347	0.655	2.703	4.150	0.234	0.495
+7kez_unrelaxed_rank_028_alphafold2_multimer_v3_model_5_seed_000	1.391	0.534	0.399	0.668	2.778	4.541	0.280	0.511
+7kez_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_001	1.259	0.565	0.345	0.609	3.042	4.110	0.295	0.487
+7kez_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_004	1.301	0.525	0.329	0.596	2.907	4.289	0.196	0.483
+7kez_unrelaxed_rank_050_alphafold2_multimer_v3_model_2_seed_009	1.358	0.556	0.325	0.674	3.129	4.456	0.240	0.495
+7kez_unrelaxed_rank_034_alphafold2_multimer_v3_model_2_seed_006	1.348	0.545	0.295	0.672	2.813	4.457	0.233	0.455
+7kez_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_008	1.250	0.522	0.343	0.547	2.940	4.128	0.316	0.474
+7kez_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_011	1.215	0.547	0.345	0.656	2.974	3.946	0.301	0.507
+7kez_unrelaxed_rank_049_alphafold2_multimer_v3_model_4_seed_013	1.268	0.536	0.377	0.647	3.039	4.144	0.202	0.509
+7kez_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_005	1.216	0.555	0.420	0.613	4.313	3.891	0.321	0.381
+7kez_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_006	1.241	0.542	0.351	0.706	2.506	4.069	0.295	0.467
+7kez_unrelaxed_rank_037_alphafold2_multimer_v3_model_2_seed_013	1.390	0.562	0.317	0.658	3.206	4.567	0.218	0.456
+7kez_unrelaxed_rank_026_alphafold2_multimer_v3_model_5_seed_014	1.238	0.534	0.380	0.620	3.417	4.034	0.266	0.490
+7f7e_unrelaxed_rank_031_alphafold2_multimer_v3_model_1_seed_011	1.464	1.387	0.603	1.002	3.699	2.136	0.666	1.810
+7f7e_unrelaxed_rank_058_alphafold2_multimer_v3_model_5_seed_009	1.529	1.285	0.506	1.021	1.407	2.030	0.586	2.017
+7f7e_unrelaxed_rank_061_alphafold2_multimer_v3_model_2_seed_001	1.533	1.418	0.581	0.959	1.616	2.272	0.774	1.964
+7f7e_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_006	1.493	1.366	0.625	0.874	1.555	2.246	0.782	1.750
+7f7e_unrelaxed_rank_041_alphafold2_multimer_v3_model_1_seed_014	1.506	1.347	0.544	0.877	3.864	2.153	0.702	1.933
+7f7e_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_006	1.535	1.312	0.702	1.022	4.758	2.164	0.687	1.988
+7f7e_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_007	1.531	1.420	0.643	1.113	3.773	2.274	0.769	1.924
+7f7e_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_009	1.472	1.327	0.776	1.051	4.431	2.252	0.770	1.981
+7f7e_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_001	1.533	1.327	0.687	1.080	3.518	2.066	0.591	1.967
+7f7e_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_000	1.493	1.337	0.646	0.907	4.673	2.160	0.713	1.837
+7f7e_unrelaxed_rank_047_alphafold2_multimer_v3_model_3_seed_013	1.508	1.286	0.687	1.151	4.089	2.084	0.615	1.982
+7f7e_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_001	1.499	1.295	0.709	1.138	3.972	2.114	0.643	1.875
+7f7e_unrelaxed_rank_055_alphafold2_multimer_v3_model_3_seed_008	1.508	1.284	0.661	1.070	4.377	2.064	0.614	1.936
+7f7e_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_003	1.491	1.386	0.565	0.989	3.636	2.121	0.673	1.930
+7f7e_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_003	1.511	1.299	0.764	1.106	4.195	2.181	0.698	1.899
+7f7e_unrelaxed_rank_052_alphafold2_multimer_v3_model_3_seed_009	1.518	1.310	0.827	1.323	4.377	2.211	0.691	2.003
+7f7e_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_014	1.487	1.308	0.721	1.195	3.802	2.143	0.644	1.654
+7f7e_unrelaxed_rank_029_alphafold2_multimer_v3_model_5_seed_002	1.507	1.289	0.656	1.082	4.211	2.087	0.662	1.913
+7f7e_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_012	1.510	1.287	0.682	1.161	3.943	2.115	0.620	1.884
+7f7e_unrelaxed_rank_013_alphafold2_multimer_v3_model_4_seed_007	1.509	1.341	0.819	1.069	3.593	2.151	0.645	2.021
+7f7e_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_005	1.503	1.309	0.732	1.216	3.825	2.087	0.584	1.897
+7f7e_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_003	1.509	1.282	0.619	0.941	3.762	2.061	0.694	1.875
+7f7e_unrelaxed_rank_030_alphafold2_multimer_v3_model_5_seed_000	1.533	1.283	0.644	1.156	3.907	2.043	0.579	2.020
+7f7e_unrelaxed_rank_046_alphafold2_multimer_v3_model_2_seed_013	1.561	1.362	0.611	0.927	1.595	2.237	0.718	2.125
+7f7e_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_010	1.510	1.285	0.669	1.088	4.318	2.096	0.633	1.930
+7f7e_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_007	1.466	1.377	0.617	0.889	1.588	2.216	0.720	1.949
+7f7e_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_010	1.526	1.295	0.617	1.058	3.772	2.049	0.607	2.016
+7f7e_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_004	1.493	1.407	0.649	0.850	1.622	2.282	0.794	1.944
+7f7e_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_000	1.500	1.299	0.711	1.173	3.829	2.097	0.631	1.859
+7f7e_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_004	1.507	1.319	0.771	1.233	3.760	2.134	0.632	1.883
+7f7e_unrelaxed_rank_032_alphafold2_multimer_v3_model_2_seed_002	1.559	1.391	0.487	0.937	1.288	2.196	0.626	2.206
+7f7e_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_004	1.540	1.324	0.707	1.081	1.629	2.159	0.676	2.083
+7f7e_unrelaxed_rank_025_alphafold2_multimer_v3_model_5_seed_014	1.518	1.312	0.712	1.056	4.115	2.136	0.683	1.956
+7f7e_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_005	1.514	1.310	0.733	1.047	3.767	2.107	0.697	1.824
+7f7e_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_003	1.556	1.371	0.613	0.948	1.341	2.230	0.709	2.108
+7f7e_unrelaxed_rank_072_alphafold2_multimer_v3_model_2_seed_014	1.523	1.363	0.678	1.125	3.690	2.256	0.782	1.861
+7f7e_unrelaxed_rank_039_alphafold2_multimer_v3_model_4_seed_004	1.515	1.273	0.549	0.928	3.746	2.034	0.678	1.847
+7f7e_unrelaxed_rank_014_alphafold2_multimer_v3_model_2_seed_008	1.531	1.339	0.599	1.006	1.480	2.182	0.657	2.102
+7f7e_unrelaxed_rank_044_alphafold2_multimer_v3_model_5_seed_007	1.477	1.287	0.661	1.168	3.739	2.045	0.586	1.916
+7f7e_unrelaxed_rank_053_alphafold2_multimer_v3_model_2_seed_009	1.538	1.376	0.590	0.924	1.539	2.240	0.725	1.995
+7f7e_unrelaxed_rank_070_alphafold2_multimer_v3_model_2_seed_000	1.512	1.439	0.786	1.136	3.651	2.432	0.925	1.800
+7f7e_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_001	1.524	1.306	0.603	1.049	2.015	2.078	0.617	1.973
+7f7e_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_009	1.537	1.325	0.612	0.835	1.452	2.103	0.630	2.045
+7f7e_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_004	1.545	1.372	0.636	0.928	1.620	2.238	0.708	2.053
+7f7e_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_011	1.663	1.282	0.403	0.966	3.405	1.785	0.303	2.753
+7f7e_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_001	1.459	1.353	0.646	0.911	1.504	2.236	0.762	1.766
+7f7e_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_002	1.503	1.305	0.686	1.211	3.877	2.091	0.598	1.878
+7f7e_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_013	1.504	1.322	0.581	0.849	1.717	2.131	0.658	2.023
+7f7e_unrelaxed_rank_040_alphafold2_multimer_v3_model_4_seed_010	1.545	1.308	0.597	0.986	3.591	2.009	0.537	2.074
+7f7e_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_012	1.521	1.399	0.570	0.870	1.726	2.199	0.669	2.017
+7f7e_unrelaxed_rank_034_alphafold2_multimer_v3_model_4_seed_008	1.527	1.292	0.567	0.947	3.701	2.036	0.640	1.927
+7f7e_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_013	1.548	1.312	0.628	1.017	1.406	2.115	0.624	2.114
+7f7e_unrelaxed_rank_027_alphafold2_multimer_v3_model_2_seed_012	1.547	1.368	0.722	1.026	1.840	2.297	0.763	2.019
+7f7e_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_006	1.546	1.317	0.673	0.917	3.416	2.118	0.670	2.051
+7f7e_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_006	1.504	1.294	0.675	1.172	4.015	2.086	0.604	1.878
+7f7e_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_000	1.582	1.324	0.633	0.943	3.428	2.011	0.540	2.113
+7f7e_unrelaxed_rank_056_alphafold2_multimer_v3_model_5_seed_011	1.530	1.297	0.590	1.223	3.738	1.961	0.505	2.054
+7f7e_unrelaxed_rank_057_alphafold2_multimer_v3_model_2_seed_006	1.542	1.364	0.601	0.917	1.469	2.246	0.741	2.032
+7f7e_unrelaxed_rank_063_alphafold2_multimer_v3_model_2_seed_010	1.544	1.376	0.632	0.933	1.709	2.263	0.734	2.017
+7f7e_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_013	1.550	1.313	0.645	0.961	3.337	2.077	0.627	2.056
+7f7e_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_002	1.602	1.350	0.673	0.873	1.484	2.138	0.665	2.195
+7f7e_unrelaxed_rank_049_alphafold2_multimer_v3_model_2_seed_005	1.547	1.430	0.598	0.920	1.679	2.283	0.741	2.045
+7f7e_unrelaxed_rank_050_alphafold2_multimer_v3_model_3_seed_007	1.494	1.280	0.660	1.130	3.623	2.047	0.579	2.052
+7f7e_unrelaxed_rank_043_alphafold2_multimer_v3_model_4_seed_014	1.602	1.304	0.474	0.932	3.650	1.823	0.350	2.265
+7f7e_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_011	1.498	1.305	0.663	1.161	3.775	2.033	0.562	1.851
+7f7e_unrelaxed_rank_051_alphafold2_multimer_v3_model_2_seed_011	1.559	1.371	0.642	0.952	1.590	2.268	0.730	2.136
+7f7e_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_008	1.508	1.386	0.638	0.944	4.722	2.215	0.747	1.994
+7f7e_unrelaxed_rank_042_alphafold2_multimer_v3_model_5_seed_005	1.520	1.284	0.626	1.071	3.817	2.035	0.607	1.994
+7f7e_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_002	1.514	1.389	0.557	0.875	1.536	2.159	0.673	2.060
+7f7e_unrelaxed_rank_035_alphafold2_multimer_v3_model_5_seed_008	1.523	1.305	0.668	1.054	4.527	2.103	0.629	1.997
+7f7e_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_005	1.505	1.399	0.684	0.878	4.904	2.276	0.822	1.936
+7f7e_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_003	1.528	1.300	0.676	1.077	4.479	2.120	0.661	1.993
+7f7e_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_012	1.529	1.309	0.504	0.952	3.753	1.969	0.581	1.910
+7f7e_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_010	1.494	1.407	0.755	0.932	4.681	2.322	0.836	1.865
+7f7e_unrelaxed_rank_026_alphafold2_multimer_v3_model_5_seed_012	1.518	1.295	0.695	1.074	4.741	2.121	0.653	1.917
+7kql_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_000	0.748	0.624	0.931	1.609	1.701	2.088	0.566	1.040
+7kql_unrelaxed_rank_046_alphafold2_multimer_v3_model_5_seed_005	0.752	0.619	0.913	1.784	1.735	2.084	0.534	0.977
+7kql_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_010	0.718	0.657	1.081	1.643	1.854	2.094	0.671	0.759
+7kql_unrelaxed_rank_028_alphafold2_multimer_v3_model_2_seed_012	0.764	0.685	1.371	1.700	2.649	2.120	0.528	0.671
+7kql_unrelaxed_rank_055_alphafold2_multimer_v3_model_5_seed_007	0.791	0.629	0.930	1.854	1.480	2.146	0.568	1.447
+7kql_unrelaxed_rank_035_alphafold2_multimer_v3_model_1_seed_004	0.690	0.593	1.005	1.339	2.043	1.699	0.497	0.563
+7kql_unrelaxed_rank_049_alphafold2_multimer_v3_model_2_seed_008	0.762	0.693	1.314	1.600	3.296	2.086	0.473	0.560
+7kql_unrelaxed_rank_065_alphafold2_multimer_v3_model_2_seed_014	0.812	0.630	0.865	1.430	3.479	2.010	0.393	1.268
+7kql_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_010	0.763	0.631	0.969	1.423	1.593	2.075	0.586	1.190
+7kql_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_009	0.671	0.605	0.904	1.433	3.260	1.523	0.524	0.696
+7kql_unrelaxed_rank_016_alphafold2_multimer_v3_model_1_seed_003	0.574	0.620	1.035	1.318	2.158	0.618	0.475	0.813
+7kql_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_002	0.725	0.672	1.069	1.667	2.959	2.174	0.636	0.601
+7kql_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_000	0.740	0.652	1.106	1.470	2.041	2.074	0.610	0.853
+7kql_unrelaxed_rank_063_alphafold2_multimer_v3_model_2_seed_005	0.773	0.646	0.863	1.502	2.974	2.095	0.476	0.812
+7kql_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_006	0.777	0.678	0.977	1.592	2.392	2.137	0.583	0.956
+7kql_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_007	0.797	0.611	1.336	1.684	3.266	2.109	0.517	1.222
+7kql_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_001	0.549	0.630	0.950	1.577	1.960	0.572	0.408	0.611
+7kql_unrelaxed_rank_027_alphafold2_multimer_v3_model_1_seed_011	0.763	0.612	0.871	1.390	1.831	2.020	0.515	1.023
+7kql_unrelaxed_rank_050_alphafold2_multimer_v3_model_3_seed_012	0.590	0.600	1.010	1.591	3.064	0.644	0.424	1.107
+7kql_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_014	0.760	0.626	0.988	1.792	1.570	2.097	0.505	1.066
+7kql_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_004	0.548	0.602	0.997	1.507	1.435	0.611	0.371	0.551
+7kql_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_008	0.682	0.703	1.026	1.475	1.932	1.558	0.555	0.826
+7kql_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_013	0.759	0.639	0.986	1.664	1.515	2.018	0.565	1.342
+7kql_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_002	0.768	0.657	1.369	1.761	3.149	2.173	0.591	0.634
+7kql_unrelaxed_rank_029_alphafold2_multimer_v3_model_1_seed_005	0.787	0.647	1.003	1.537	1.736	2.080	0.568	1.265
+7kql_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_000	0.761	0.681	1.321	1.718	2.276	2.141	0.548	0.640
+7kql_unrelaxed_rank_042_alphafold2_multimer_v3_model_2_seed_001	0.763	0.632	1.323	1.701	2.905	2.138	0.521	0.548
+7kql_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_013	0.711	0.605	1.040	1.518	2.212	2.052	0.564	0.464
+7kql_unrelaxed_rank_019_alphafold2_multimer_v3_model_4_seed_008	0.681	0.648	1.029	1.533	1.893	1.861	0.690	0.584
+7kql_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_000	0.750	0.624	0.929	1.813	1.403	2.079	0.553	1.006
+7kql_unrelaxed_rank_060_alphafold2_multimer_v3_model_2_seed_009	0.774	0.625	0.949	1.369	2.925	2.071	0.485	0.888
+7kql_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_005	0.728	0.667	1.136	1.639	2.694	2.169	0.645	0.710
+7kql_unrelaxed_rank_047_alphafold2_multimer_v3_model_2_seed_013	0.759	0.646	1.224	1.452	2.634	2.078	0.479	0.533
+7kql_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_010	0.622	0.636	0.967	1.515	2.354	0.747	0.497	1.480
+7kql_unrelaxed_rank_030_alphafold2_multimer_v3_model_5_seed_010	0.737	0.634	0.980	1.847	1.946	2.112	0.555	0.785
+7kql_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_003	0.716	0.617	1.035	1.585	2.015	2.058	0.579	0.520
+7kql_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_008	0.559	0.612	1.008	1.628	2.338	0.664	0.410	0.789
+7kql_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_001	0.741	0.641	1.052	1.514	2.128	2.039	0.563	0.792
+7kql_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_014	0.619	0.622	1.015	1.666	1.417	0.645	0.448	1.356
+7kql_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_009	0.732	0.615	0.954	1.807	1.741	2.076	0.549	0.598
+7kql_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_002	0.741	0.601	0.925	1.754	1.570	2.154	0.548	0.886
+7kql_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_006	0.721	0.658	1.138	1.570	2.111	2.151	0.637	0.659
+7kql_unrelaxed_rank_057_alphafold2_multimer_v3_model_5_seed_003	0.682	0.608	0.874	1.775	1.435	1.654	0.540	0.697
+7kql_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_004	0.707	0.658	1.017	1.714	2.414	2.084	0.682	0.575
+7kql_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_009	0.564	0.611	1.006	1.528	2.629	0.622	0.389	0.828
+7kql_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_002	0.728	0.624	1.044	1.485	2.033	1.986	0.546	0.776
+7kql_unrelaxed_rank_031_alphafold2_multimer_v3_model_4_seed_012	0.681	0.653	1.124	1.929	3.375	1.856	0.634	0.639
+7kql_unrelaxed_rank_054_alphafold2_multimer_v3_model_2_seed_004	0.762	0.620	1.297	1.486	2.413	2.127	0.531	0.566
+7kql_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_004	0.730	0.599	0.986	1.759	1.657	2.082	0.535	0.525
+7kql_unrelaxed_rank_056_alphafold2_multimer_v3_model_2_seed_010	0.760	0.613	1.014	1.586	2.914	2.092	0.468	0.525
+7kql_unrelaxed_rank_038_alphafold2_multimer_v3_model_4_seed_011	0.741	0.632	0.980	1.556	1.729	2.115	0.609	0.946
+7kql_unrelaxed_rank_048_alphafold2_multimer_v3_model_5_seed_013	0.741	0.632	0.969	1.872	1.820	2.148	0.561	0.886
+7kql_unrelaxed_rank_062_alphafold2_multimer_v3_model_5_seed_001	0.763	0.633	0.956	1.837	1.183	2.141	0.535	1.054
+7kql_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_012	0.654	0.637	1.002	1.393	2.184	1.365	0.541	0.819
+7kql_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_002	0.587	0.616	1.021	1.587	1.519	1.084	0.501	0.541
+7kql_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_007	0.771	0.623	0.967	1.807	1.416	2.087	0.592	1.381
+7kql_unrelaxed_rank_008_alphafold2_multimer_v3_model_4_seed_014	0.722	0.642	1.106	1.564	2.126	2.117	0.609	0.672
+7kql_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_003	0.760	0.678	1.017	1.299	2.108	2.055	0.472	0.515
+7kql_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_013	0.569	0.622	0.941	1.416	2.023	0.678	0.469	0.723
+7kql_unrelaxed_rank_041_alphafold2_multimer_v3_model_5_seed_011	0.755	0.604	0.900	1.771	1.521	2.118	0.501	0.790
+7kql_unrelaxed_rank_039_alphafold2_multimer_v3_model_2_seed_011	0.764	0.617	1.318	1.573	2.287	2.102	0.469	0.460
+7kql_unrelaxed_rank_034_alphafold2_multimer_v3_model_4_seed_001	0.722	0.628	1.463	1.617	2.011	2.048	0.566	0.836
+7kql_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_006	0.763	0.660	0.960	1.772	1.568	2.166	0.604	1.163
+7kql_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_005	0.560	0.619	0.981	1.526	2.354	0.690	0.433	0.677
+7kql_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_007	0.566	0.609	0.990	1.357	2.105	0.670	0.459	0.768
+7kql_unrelaxed_rank_026_alphafold2_multimer_v3_model_1_seed_014	0.667	0.695	1.005	1.455	2.062	1.468	0.490	0.846
+7kql_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_006	0.597	0.618	1.014	1.414	2.501	0.741	0.425	1.087
+7kql_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_011	0.776	0.620	1.022	1.727	1.759	2.108	0.610	1.368
+7kql_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_008	0.554	0.603	0.892	1.737	1.873	0.669	0.430	0.596
+7kql_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_006	0.691	0.627	0.991	1.324	2.100	1.687	0.561	0.724
+7kql_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_009	0.712	0.624	1.082	1.584	2.206	2.073	0.596	0.489
+7kql_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_007	0.756	0.645	0.985	1.632	1.752	2.125	0.671	1.224
+7kql_unrelaxed_rank_044_alphafold2_multimer_v3_model_5_seed_012	0.582	0.635	0.947	1.789	1.660	0.930	0.488	0.713
+7kql_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_000	0.763	0.606	0.915	1.651	1.572	1.968	0.536	1.383
+7kql_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_003	0.614	0.610	1.029	1.568	2.402	0.649	0.400	1.221
+7ps2_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_010	0.603	0.500	0.715	0.768	4.258	1.111	0.428	1.609
+7ps2_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_010	0.616	0.544	0.815	0.703	5.503	1.359	0.575	1.629
+7ps2_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_001	0.621	0.523	0.702	0.640	5.200	1.278	0.490	1.687
+7ps2_unrelaxed_rank_021_alphafold2_multimer_v3_model_4_seed_012	0.620	0.511	0.792	0.736	5.062	1.248	0.401	1.656
+7ps2_unrelaxed_rank_060_alphafold2_multimer_v3_model_5_seed_014	0.624	0.501	0.755	0.689	5.013	1.130	0.379	1.690
+7ps2_unrelaxed_rank_019_alphafold2_multimer_v3_model_2_seed_012	0.616	0.530	0.730	0.669	5.403	1.299	0.485	1.673
+7ps2_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_002	0.631	0.503	0.757	0.639	4.996	1.140	0.368	1.697
+7ps2_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_000	0.615	0.510	0.601	0.684	4.933	1.242	0.426	1.622
+7ps2_unrelaxed_rank_033_alphafold2_multimer_v3_model_2_seed_009	0.615	0.504	0.605	1.007	5.056	1.265	0.451	1.633
+7ps2_unrelaxed_rank_026_alphafold2_multimer_v3_model_4_seed_005	0.602	0.476	0.694	0.724	4.430	1.162	0.327	1.605
+7ps2_unrelaxed_rank_031_alphafold2_multimer_v3_model_2_seed_002	0.603	0.517	0.687	0.655	4.973	1.311	0.473	1.576
+7ps2_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_011	0.633	0.509	0.790	0.713	5.390	1.179	0.443	1.722
+7ps2_unrelaxed_rank_061_alphafold2_multimer_v3_model_5_seed_003	0.616	0.469	0.692	0.635	5.036	1.068	0.362	1.630
+7ps2_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_011	0.667	0.550	0.786	0.679	5.713	1.333	0.558	1.862
+7ps2_unrelaxed_rank_051_alphafold2_multimer_v3_model_5_seed_001	0.613	0.488	0.761	0.637	5.067	1.069	0.380	1.642
+7ps2_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_012	0.594	0.482	0.627	0.719	4.280	1.118	0.410	1.527
+7ps2_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_004	0.614	0.512	0.666	0.647	4.938	1.314	0.487	1.615
+7ps2_unrelaxed_rank_029_alphafold2_multimer_v3_model_2_seed_006	0.626	0.518	0.684	0.762	5.449	1.306	0.508	1.701
+7ps2_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_014	0.626	0.544	0.704	0.723	5.631	1.295	0.500	1.683
+7ps2_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_014	0.602	0.539	0.756	0.704	5.516	1.408	0.565	1.558
+7ps2_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_008	0.591	0.523	0.763	0.783	4.321	1.296	0.479	1.515
+7ps2_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_005	0.635	0.540	0.802	0.694	5.754	1.423	0.577	1.697
+7ps2_unrelaxed_rank_046_alphafold2_multimer_v3_model_4_seed_009	0.600	0.486	0.688	0.670	4.461	1.114	0.376	1.583
+7ps2_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_009	0.588	0.503	0.686	0.756	4.250	1.157	0.420	1.547
+7ps2_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_013	0.679	0.552	0.837	0.686	5.606	1.577	0.630	1.803
+7ps2_unrelaxed_rank_040_alphafold2_multimer_v3_model_4_seed_000	0.609	0.498	0.734	0.736	5.277	1.121	0.380	1.634
+7ps2_unrelaxed_rank_054_alphafold2_multimer_v3_model_5_seed_004	0.663	0.496	0.756	0.660	5.099	1.125	0.366	1.799
+7ps2_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_003	0.604	0.539	0.777	0.681	5.391	1.397	0.585	1.576
+7ps2_unrelaxed_rank_037_alphafold2_multimer_v3_model_4_seed_003	0.665	0.473	0.668	0.720	4.841	1.181	0.350	1.885
+7ps2_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_006	0.624	0.503	0.745	0.651	5.113	1.155	0.399	1.649
+7ps2_unrelaxed_rank_048_alphafold2_multimer_v3_model_4_seed_002	0.600	0.493	0.716	0.689	4.469	1.193	0.355	1.585
+7ps2_unrelaxed_rank_062_alphafold2_multimer_v3_model_3_seed_006	0.614	0.508	0.698	0.750	4.457	1.149	0.437	1.642
+7ps2_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_011	0.651	0.565	0.860	0.712	6.038	1.476	0.614	1.745
+7ps2_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_001	0.592	0.507	0.748	0.745	4.323	1.186	0.448	1.530
+7ps2_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_007	0.621	0.511	0.600	1.040	5.068	1.285	0.458	1.666
+7ps2_unrelaxed_rank_028_alphafold2_multimer_v3_model_2_seed_008	0.611	0.511	0.658	0.697	4.869	1.281	0.456	1.628
+7ps2_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_014	0.608	0.506	0.766	0.735	4.869	1.198	0.419	1.634
+7ps2_unrelaxed_rank_058_alphafold2_multimer_v3_model_5_seed_011	0.640	0.476	0.718	0.611	4.937	1.069	0.369	1.735
+7ps2_unrelaxed_rank_027_alphafold2_multimer_v3_model_4_seed_001	0.611	0.500	0.756	0.690	5.192	1.104	0.389	1.657
+7ps2_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_007	0.591	0.504	0.743	0.733	4.338	1.243	0.474	1.540
+7ps2_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_000	0.612	0.537	0.736	0.651	5.356	1.423	0.555	1.605
+7ps2_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_007	0.608	0.520	0.693	0.632	5.369	1.383	0.526	1.564
+7ps2_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_002	0.592	0.509	0.681	0.722	4.185	1.184	0.421	1.517
+7ps2_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_013	0.608	0.505	0.731	0.737	4.719	1.339	0.470	1.562
+7ps2_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_005	0.666	0.499	0.683	0.661	5.675	1.287	0.418	1.817
+7ps2_unrelaxed_rank_066_alphafold2_multimer_v3_model_3_seed_011	0.626	0.503	0.724	0.733	4.406	1.133	0.433	1.684
+7ps2_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_004	0.604	0.505	0.739	0.756	4.964	1.211	0.444	1.546
+7ps2_unrelaxed_rank_042_alphafold2_multimer_v3_model_4_seed_008	0.607	0.495	0.766	0.742	4.837	1.201	0.393	1.610
+7ps2_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_008	0.605	0.526	0.743	0.657	5.530	1.423	0.547	1.559
+7ps2_unrelaxed_rank_032_alphafold2_multimer_v3_model_4_seed_004	0.606	0.505	0.777	0.759	5.314	1.222	0.421	1.621
+7ps2_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_009	0.635	0.542	0.779	0.687	5.473	1.420	0.567	1.672
+7ps2_unrelaxed_rank_030_alphafold2_multimer_v3_model_4_seed_006	0.618	0.502	0.747	0.687	5.075	1.108	0.404	1.674
+7ps2_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_005	0.612	0.497	0.742	0.772	4.519	1.174	0.466	1.625
+7ps2_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_006	0.599	0.534	0.755	0.667	5.565	1.428	0.566	1.544
+7ps2_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_002	0.620	0.534	0.783	0.654	5.605	1.431	0.566	1.572
+7ps2_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_001	0.607	0.529	0.763	0.668	5.743	1.350	0.541	1.603
+7ps2_unrelaxed_rank_044_alphafold2_multimer_v3_model_4_seed_007	0.608	0.496	0.748	0.712	4.631	1.196	0.389	1.609
+7ps2_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_014	0.608	0.517	0.716	0.784	4.677	1.167	0.445	1.633
+7ps2_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_000	0.612	0.506	0.692	0.763	4.745	1.117	0.420	1.643
+7ps2_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_004	0.638	0.554	0.842	0.715	5.615	1.503	0.621	1.629
+7ps2_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_005	0.697	0.485	0.708	0.711	5.223	1.117	0.377	1.933
+7ps2_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_008	0.694	0.483	0.752	0.690	5.517	1.149	0.368	1.934
+7ps2_unrelaxed_rank_034_alphafold2_multimer_v3_model_2_seed_013	0.608	0.514	0.691	0.757	5.184	1.306	0.507	1.639
+7ps2_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_013	0.627	0.491	0.778	0.677	5.200	1.156	0.428	1.688
+7ps2_unrelaxed_rank_057_alphafold2_multimer_v3_model_5_seed_013	0.616	0.482	0.725	0.609	5.062	1.110	0.401	1.642
+7ps2_unrelaxed_rank_055_alphafold2_multimer_v3_model_5_seed_009	0.624	0.499	0.767	0.638	5.022	1.114	0.393	1.668
+7ps2_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_003	0.622	0.481	0.644	0.721	4.732	1.102	0.423	1.667
+7ps2_unrelaxed_rank_053_alphafold2_multimer_v3_model_5_seed_000	0.623	0.493	0.724	0.650	5.145	1.118	0.366	1.657
+7ps2_unrelaxed_rank_039_alphafold2_multimer_v3_model_2_seed_003	0.613	0.505	0.650	0.701	5.005	1.291	0.476	1.622
+7ps2_unrelaxed_rank_018_alphafold2_multimer_v3_model_2_seed_010	0.613	0.522	0.688	0.692	5.218	1.281	0.505	1.659
+7ps2_unrelaxed_rank_043_alphafold2_multimer_v3_model_4_seed_010	0.586	0.480	0.722	0.695	4.299	1.114	0.350	1.551
+7ps2_unrelaxed_rank_050_alphafold2_multimer_v3_model_5_seed_012	0.616	0.500	0.760	0.662	4.815	1.138	0.389	1.633
+7ps2_unrelaxed_rank_059_alphafold2_multimer_v3_model_5_seed_007	0.617	0.480	0.702	0.636	5.019	1.064	0.370	1.642
+7ps2_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_012	0.679	0.515	0.718	0.664	5.724	1.530	0.485	1.686
+7ps2_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_010	0.602	0.494	0.769	0.664	5.100	1.111	0.378	1.612
+7dk2_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_010	0.464	1.195	0.808	0.748	8.143	0.502	0.714	0.528
+7dk2_unrelaxed_rank_053_alphafold2_multimer_v3_model_2_seed_011	0.467	1.206	0.786	0.691	8.147	0.467	0.647	0.566
+7dk2_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_007	0.460	1.210	0.747	0.603	8.146	0.478	0.590	0.579
+7dk2_unrelaxed_rank_018_alphafold2_multimer_v3_model_4_seed_001	0.471	1.204	0.857	0.904	8.094	0.538	0.841	0.558
+7dk2_unrelaxed_rank_043_alphafold2_multimer_v3_model_2_seed_001	0.466	1.207	0.697	0.699	8.211	0.535	0.695	0.563
+7dk2_unrelaxed_rank_060_alphafold2_multimer_v3_model_3_seed_001	0.480	1.213	0.811	0.719	8.184	0.566	0.790	0.568
+7dk2_unrelaxed_rank_026_alphafold2_multimer_v3_model_1_seed_008	0.459	1.206	0.726	0.647	8.252	0.540	0.649	0.553
+7dk2_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_007	0.459	1.209	0.811	0.667	8.231	0.559	0.780	0.518
+7dk2_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_014	0.464	1.211	0.780	0.657	8.165	0.583	0.808	0.613
+7dk2_unrelaxed_rank_021_alphafold2_multimer_v3_model_4_seed_011	0.463	1.194	0.909	0.829	8.086	0.464	0.773	0.523
+7dk2_unrelaxed_rank_073_alphafold2_multimer_v3_model_2_seed_004	0.463	1.210	0.739	0.611	8.177	0.442	0.643	0.568
+7dk2_unrelaxed_rank_039_alphafold2_multimer_v3_model_3_seed_003	0.460	1.204	0.786	0.715	8.157	0.567	0.781	0.530
+7dk2_unrelaxed_rank_036_alphafold2_multimer_v3_model_3_seed_011	0.460	1.203	0.825	0.699	8.189	0.530	0.772	0.549
+7dk2_unrelaxed_rank_072_alphafold2_multimer_v3_model_5_seed_005	0.463	1.195	0.857	0.737	8.214	0.483	0.655	0.539
+7dk2_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_003	0.469	1.204	0.804	0.790	8.232	0.546	0.772	0.572
+7dk2_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_009	0.464	1.202	0.786	0.681	8.164	0.551	0.814	0.568
+7dk2_unrelaxed_rank_037_alphafold2_multimer_v3_model_3_seed_008	0.461	1.210	0.810	0.705	8.120	0.556	0.800	0.578
+7dk2_unrelaxed_rank_063_alphafold2_multimer_v3_model_5_seed_014	0.466	1.197	0.799	0.766	8.082	0.514	0.740	0.536
+7dk2_unrelaxed_rank_061_alphafold2_multimer_v3_model_5_seed_009	0.471	1.200	0.791	0.805	8.049	0.527	0.761	0.538
+7dk2_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_005	0.472	1.205	0.789	0.917	8.120	0.546	0.882	0.566
+7dk2_unrelaxed_rank_055_alphafold2_multimer_v3_model_3_seed_000	0.457	1.201	0.780	0.707	8.144	0.576	0.782	0.531
+7dk2_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_005	0.494	1.209	0.992	0.637	8.300	0.524	0.739	0.557
+7dk2_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_002	0.468	1.197	0.785	0.759	8.143	0.542	0.766	0.542
+7dk2_unrelaxed_rank_035_alphafold2_multimer_v3_model_5_seed_013	0.463	1.198	0.849	0.813	8.111	0.516	0.737	0.544
+7dk2_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_014	0.476	1.211	0.741	0.584	8.112	0.573	0.611	0.588
+7dk2_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_000	0.469	1.205	0.800	0.681	8.036	0.533	0.676	0.570
+7dk2_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_002	0.464	1.209	0.688	0.736	8.237	0.513	0.732	0.544
+7dk2_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_008	0.483	1.212	0.635	0.673	8.255	0.544	0.712	0.608
+7dk2_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_013	0.465	1.208	0.852	0.746	8.179	0.562	0.792	0.586
+7dk2_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_002	0.464	1.204	0.823	0.874	8.126	0.518	0.820	0.532
+7dk2_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_006	0.460	1.210	0.683	0.627	8.143	0.556	0.644	0.569
+7dk2_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_002	0.471	1.202	0.757	0.639	8.062	0.535	0.647	0.599
+7dk2_unrelaxed_rank_034_alphafold2_multimer_v3_model_4_seed_007	0.464	1.196	0.865	0.823	8.078	0.460	0.794	0.510
+7dk2_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_009	0.469	1.208	0.724	0.585	8.126	0.492	0.605	0.591
+7dk2_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_000	0.470	1.205	0.816	0.787	8.188	0.554	0.778	0.595
+7dk2_unrelaxed_rank_066_alphafold2_multimer_v3_model_5_seed_004	0.471	1.200	0.828	0.811	8.110	0.559	0.775	0.561
+7dk2_unrelaxed_rank_046_alphafold2_multimer_v3_model_2_seed_000	0.466	1.208	0.678	0.634	8.089	0.498	0.653	0.570
+7dk2_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_012	0.468	1.205	0.693	0.623	8.101	0.506	0.611	0.576
+7dk2_unrelaxed_rank_044_alphafold2_multimer_v3_model_2_seed_005	0.487	1.212	0.672	0.673	8.246	0.474	0.657	0.592
+7dk2_unrelaxed_rank_052_alphafold2_multimer_v3_model_3_seed_012	0.458	1.209	0.808	0.698	8.237	0.506	0.768	0.558
+7dk2_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_009	0.468	1.201	0.805	0.883	8.115	0.539	0.832	0.529
+7dk2_unrelaxed_rank_050_alphafold2_multimer_v3_model_2_seed_006	0.470	1.210	0.728	0.658	8.125	0.482	0.662	0.576
+7dk2_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_008	0.461	1.193	0.879	0.829	8.088	0.492	0.780	0.503
+7dk2_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_001	0.463	1.201	0.727	0.701	8.091	0.528	0.678	0.560
+7dk2_unrelaxed_rank_074_alphafold2_multimer_v3_model_2_seed_007	0.471	1.215	0.793	0.646	8.230	0.450	0.657	0.598
+7dk2_unrelaxed_rank_065_alphafold2_multimer_v3_model_5_seed_007	0.464	1.200	0.833	0.755	8.094	0.485	0.739	0.534
+7dk2_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_003	0.467	1.206	0.760	0.617	8.082	0.561	0.660	0.588
+7dk2_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_010	0.470	1.207	0.711	0.614	8.165	0.442	0.603	0.609
+7dk2_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_010	0.467	1.206	0.708	0.630	8.063	0.527	0.585	0.634
+7dk2_unrelaxed_rank_045_alphafold2_multimer_v3_model_3_seed_004	0.455	1.202	0.780	0.728	8.161	0.559	0.798	0.525
+7dk2_unrelaxed_rank_057_alphafold2_multimer_v3_model_5_seed_006	0.466	1.197	0.838	0.751	8.106	0.495	0.713	0.531
+7dk2_unrelaxed_rank_067_alphafold2_multimer_v3_model_2_seed_012	0.485	1.214	0.728	0.626	8.195	0.443	0.649	0.573
+7dk2_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_002	0.459	1.206	0.758	0.690	8.178	0.588	0.813	0.520
+7dk2_unrelaxed_rank_031_alphafold2_multimer_v3_model_4_seed_013	0.460	1.196	0.886	0.852	8.064	0.475	0.785	0.510
+7dk2_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_005	0.473	1.205	0.708	0.713	8.038	0.522	0.639	0.558
+7dk2_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_003	0.470	1.202	0.870	0.879	8.130	0.542	0.833	0.535
+7dk2_unrelaxed_rank_041_alphafold2_multimer_v3_model_5_seed_011	0.467	1.200	0.900	0.824	8.129	0.517	0.735	0.536
+7dk2_unrelaxed_rank_068_alphafold2_multimer_v3_model_2_seed_009	0.466	1.206	0.685	0.652	8.168	0.471	0.688	0.556
+7dk2_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_013	0.466	1.208	0.696	0.595	8.100	0.523	0.613	0.575
+7dk2_unrelaxed_rank_059_alphafold2_multimer_v3_model_5_seed_012	0.466	1.203	0.837	0.811	8.115	0.508	0.747	0.545
+7dk2_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_008	0.463	1.197	0.842	0.782	8.126	0.516	0.729	0.540
+7dk2_unrelaxed_rank_058_alphafold2_multimer_v3_model_2_seed_013	0.469	1.209	0.697	0.639	8.125	0.470	0.663	0.566
+7dk2_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_011	0.456	1.202	0.796	0.711	8.073	0.494	0.646	0.538
+7dk2_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_006	0.455	1.202	0.771	0.696	8.157	0.560	0.787	0.523
+7dk2_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_000	0.466	1.208	0.821	0.903	8.120	0.541	0.855	0.550
+7dk2_unrelaxed_rank_011_alphafold2_multimer_v3_model_4_seed_010	0.460	1.202	0.809	0.882	8.143	0.530	0.811	0.544
+7dk2_unrelaxed_rank_015_alphafold2_multimer_v3_model_4_seed_004	0.466	1.200	0.915	0.908	8.098	0.518	0.806	0.539
+7dk2_unrelaxed_rank_029_alphafold2_multimer_v3_model_5_seed_001	0.464	1.200	0.845	0.767	8.188	0.511	0.728	0.543
+7dk2_unrelaxed_rank_071_alphafold2_multimer_v3_model_2_seed_014	0.475	1.213	0.708	0.579	8.205	0.484	0.588	0.588
+7dk2_unrelaxed_rank_025_alphafold2_multimer_v3_model_4_seed_006	0.466	1.196	0.896	0.863	8.088	0.465	0.779	0.519
+7dk2_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_012	0.465	1.206	0.898	0.893	8.130	0.501	0.805	0.540
+7dk2_unrelaxed_rank_040_alphafold2_multimer_v3_model_3_seed_010	0.458	1.202	0.777	0.727	8.177	0.564	0.784	0.565
+7dk2_unrelaxed_rank_042_alphafold2_multimer_v3_model_2_seed_003	0.461	1.208	0.708	0.611	8.174	0.492	0.643	0.584
+7dk2_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_014	0.471	1.206	0.846	0.875	8.138	0.539	0.814	0.530
+7dk2_unrelaxed_rank_027_alphafold2_multimer_v3_model_1_seed_004	0.464	1.204	0.787	0.655	8.042	0.527	0.644	0.574
+7bnv_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_012	0.959	0.436	0.606	0.631	6.156	2.200	0.458	2.259
+7bnv_unrelaxed_rank_057_alphafold2_multimer_v3_model_4_seed_001	0.961	0.422	0.520	0.536	6.949	2.213	0.401	2.209
+7bnv_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_005	0.970	0.442	0.520	0.556	7.515	2.190	0.368	2.245
+7bnv_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_005	0.960	0.436	0.583	0.620	6.239	2.217	0.427	2.247
+7bnv_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_011	0.955	0.464	0.548	0.564	7.128	2.146	0.396	2.236
+7bnv_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_010	0.960	0.409	0.527	0.529	5.041	2.191	0.388	2.225
+7bnv_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_004	0.958	0.417	0.548	0.579	6.422	2.223	0.439	2.235
+7bnv_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_014	0.971	0.454	0.546	0.553	5.490	2.202	0.444	2.253
+7bnv_unrelaxed_rank_019_alphafold2_multimer_v3_model_2_seed_003	0.987	0.453	0.592	0.575	5.491	2.246	0.463	2.269
+7bnv_unrelaxed_rank_061_alphafold2_multimer_v3_model_5_seed_004	0.970	0.474	0.555	0.548	5.922	2.270	0.475	2.211
+7bnv_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_009	0.972	0.445	0.562	0.547	5.459	2.256	0.414	2.204
+7bnv_unrelaxed_rank_042_alphafold2_multimer_v3_model_5_seed_012	0.971	0.478	0.609	0.585	5.330	2.249	0.453	2.232
+7bnv_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_006	0.956	0.439	0.562	0.591	6.240	2.185	0.419	2.244
+7bnv_unrelaxed_rank_056_alphafold2_multimer_v3_model_5_seed_011	0.967	0.492	0.599	0.582	5.801	2.254	0.452	2.221
+7bnv_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_004	0.955	0.407	0.489	0.514	4.892	2.164	0.365	2.218
+7bnv_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_002	0.972	0.449	0.563	0.569	6.015	2.226	0.469	2.256
+7bnv_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_002	0.973	0.452	0.566	0.550	5.552	2.252	0.438	2.201
+7bnv_unrelaxed_rank_069_alphafold2_multimer_v3_model_5_seed_006	0.964	0.472	0.574	0.572	5.215	2.220	0.449	2.216
+7bnv_unrelaxed_rank_043_alphafold2_multimer_v3_model_4_seed_014	0.956	0.444	0.503	0.528	6.276	2.153	0.359	2.212
+7bnv_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_010	0.961	0.442	0.635	0.603	6.222	2.232	0.477	2.221
+7bnv_unrelaxed_rank_064_alphafold2_multimer_v3_model_5_seed_000	0.962	0.458	0.585	0.567	5.109	2.232	0.468	2.207
+7bnv_unrelaxed_rank_062_alphafold2_multimer_v3_model_4_seed_000	0.970	0.419	0.529	0.566	6.840	2.231	0.404	2.229
+7bnv_unrelaxed_rank_023_alphafold2_multimer_v3_model_2_seed_000	0.983	0.450	0.556	0.560	5.657	2.250	0.438	2.251
+7bnv_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_001	0.973	0.450	0.557	0.539	5.363	2.211	0.478	2.263
+7bnv_unrelaxed_rank_040_alphafold2_multimer_v3_model_4_seed_011	0.960	0.447	0.491	0.542	6.051	2.204	0.363	2.206
+7bnv_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_007	0.988	0.441	0.546	0.565	5.544	2.251	0.418	2.253
+7bnv_unrelaxed_rank_034_alphafold2_multimer_v3_model_2_seed_011	0.991	0.455	0.566	0.557	5.761	2.246	0.413	2.269
+7bnv_unrelaxed_rank_055_alphafold2_multimer_v3_model_5_seed_013	0.965	0.460	0.591	0.578	5.503	2.234	0.496	2.226
+7bnv_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_009	0.975	0.441	0.554	0.549	5.388	2.212	0.442	2.269
+7bnv_unrelaxed_rank_026_alphafold2_multimer_v3_model_2_seed_004	0.987	0.457	0.577	0.561	5.456	2.246	0.444	2.259
+7bnv_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_012	0.973	0.443	0.542	0.563	5.668	2.215	0.443	2.253
+7bnv_unrelaxed_rank_048_alphafold2_multimer_v3_model_5_seed_014	0.962	0.466	0.597	0.583	5.828	2.231	0.461	2.209
+7bnv_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_013	0.980	0.442	0.553	0.539	5.450	2.243	0.424	2.234
+7bnv_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_008	0.959	0.445	0.558	0.596	6.126	2.217	0.446	2.245
+7bnv_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_004	0.979	0.451	0.566	0.571	5.093	2.220	0.475	2.282
+7bnv_unrelaxed_rank_063_alphafold2_multimer_v3_model_4_seed_009	0.971	0.426	0.534	0.565	7.184	2.217	0.394	2.235
+7bnv_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_009	0.961	0.421	0.567	0.593	6.537	2.211	0.433	2.248
+7bnv_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_006	0.983	0.448	0.537	0.536	5.752	2.243	0.395	2.238
+7bnv_unrelaxed_rank_024_alphafold2_multimer_v3_model_2_seed_014	0.983	0.458	0.560	0.543	5.742	2.240	0.390	2.239
+7bnv_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_002	0.967	0.453	0.588	0.564	5.130	2.249	0.471	2.233
+7bnv_unrelaxed_rank_021_alphafold2_multimer_v3_model_2_seed_001	0.984	0.464	0.590	0.569	5.583	2.246	0.467	2.258
+7bnv_unrelaxed_rank_027_alphafold2_multimer_v3_model_2_seed_008	0.981	0.456	0.545	0.542	5.603	2.245	0.424	2.235
+7bnv_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_010	0.970	0.450	0.559	0.572	5.210	2.221	0.464	2.245
+7bnv_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_013	0.970	0.446	0.546	0.541	5.140	2.213	0.459	2.257
+7bnv_unrelaxed_rank_066_alphafold2_multimer_v3_model_3_seed_007	0.954	0.427	0.628	0.632	6.489	2.188	0.450	2.245
+7bnv_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_010	0.953	0.421	0.598	0.620	6.431	2.187	0.439	2.240
+7bnv_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_006	0.976	0.452	0.523	0.546	5.718	2.209	0.443	2.256
+7bnv_unrelaxed_rank_050_alphafold2_multimer_v3_model_5_seed_005	0.970	0.462	0.582	0.591	5.409	2.253	0.457	2.233
+7bnv_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_000	0.952	0.423	0.588	0.606	6.373	2.190	0.452	2.235
+7bnv_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_007	0.967	0.451	0.570	0.567	5.569	2.237	0.447	2.220
+7bnv_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_003	0.959	0.396	0.493	0.520	4.931	2.180	0.350	2.215
+7bnv_unrelaxed_rank_044_alphafold2_multimer_v3_model_4_seed_006	0.967	0.451	0.513	0.549	7.214	2.203	0.403	2.229
+7bnv_unrelaxed_rank_033_alphafold2_multimer_v3_model_4_seed_002	0.951	0.399	0.466	0.499	5.465	2.176	0.341	2.188
+7bnv_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_013	0.960	0.413	0.477	0.468	5.224	2.176	0.393	2.228
+7bnv_unrelaxed_rank_045_alphafold2_multimer_v3_model_4_seed_007	0.971	0.444	0.515	0.551	6.554	2.218	0.382	2.227
+7bnv_unrelaxed_rank_046_alphafold2_multimer_v3_model_3_seed_003	0.957	0.418	0.597	0.612	6.283	2.212	0.428	2.222
+7bnv_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_002	0.958	0.424	0.582	0.591	6.218	2.215	0.454	2.238
+7bnv_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_005	0.969	0.455	0.581	0.599	4.873	2.218	0.467	2.250
+7bnv_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_008	0.969	0.491	0.581	0.590	6.054	2.263	0.486	2.214
+7bnv_unrelaxed_rank_059_alphafold2_multimer_v3_model_5_seed_009	0.970	0.485	0.585	0.580	5.771	2.248	0.475	2.247
+7bnv_unrelaxed_rank_039_alphafold2_multimer_v3_model_4_seed_012	0.965	0.453	0.517	0.531	7.044	2.201	0.384	2.226
+7bnv_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_000	0.969	0.455	0.547	0.549	4.857	2.220	0.449	2.243
+7bnv_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_013	0.956	0.421	0.596	0.606	6.453	2.181	0.442	2.254
+7bnv_unrelaxed_rank_031_alphafold2_multimer_v3_model_4_seed_008	0.962	0.421	0.502	0.514	4.743	2.192	0.386	2.237
+7bnv_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_007	0.973	0.452	0.579	0.579	5.191	2.220	0.464	2.257
+7bnv_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_012	0.973	0.442	0.560	0.571	5.573	2.249	0.423	2.203
+7bnv_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_001	0.969	0.457	0.625	0.591	5.324	2.237	0.493	2.232
+7bnv_unrelaxed_rank_041_alphafold2_multimer_v3_model_5_seed_003	0.965	0.453	0.626	0.595	5.278	2.248	0.478	2.208
+7bnv_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_003	0.976	0.449	0.554	0.552	5.407	2.211	0.448	2.265
+7bnv_unrelaxed_rank_018_alphafold2_multimer_v3_model_2_seed_010	0.976	0.450	0.564	0.566	5.496	2.243	0.438	2.224
+7bnv_unrelaxed_rank_032_alphafold2_multimer_v3_model_2_seed_005	0.984	0.444	0.558	0.550	5.558	2.251	0.399	2.237
+7bnv_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_008	0.976	0.455	0.552	0.564	5.452	2.229	0.463	2.261
+7bnv_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_001	0.956	0.424	0.598	0.606	6.428	2.185	0.452	2.261
+7bnv_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_011	0.975	0.467	0.639	0.643	4.640	2.257	0.542	2.259
+7bnv_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_014	0.848	0.393	0.530	0.569	6.364	1.162	0.332	2.254
+7n4j_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_003	0.744	0.521	0.838	1.446	2.191	0.392	0.298	1.748
+7n4j_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_002	0.704	0.531	0.955	1.501	1.772	0.328	0.257	1.602
+7n4j_unrelaxed_rank_026_alphafold2_multimer_v3_model_1_seed_014	0.726	0.511	0.900	1.464	2.008	0.398	0.280	1.721
+7n4j_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_007	0.779	0.554	0.741	1.460	2.273	0.378	0.321	1.757
+7n4j_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_009	0.719	0.543	0.972	1.500	2.326	0.317	0.246	1.614
+7n4j_unrelaxed_rank_074_alphafold2_multimer_v3_model_2_seed_006	0.776	0.547	0.785	1.440	2.565	0.794	0.330	1.794
+7n4j_unrelaxed_rank_030_alphafold2_multimer_v3_model_1_seed_012	0.746	0.511	0.876	1.454	4.504	0.402	0.268	1.727
+7n4j_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_007	0.728	0.543	0.981	1.513	2.181	0.316	0.287	1.668
+7n4j_unrelaxed_rank_005_alphafold2_multimer_v3_model_4_seed_013	0.709	0.518	0.977	1.511	2.175	0.324	0.245	1.608
+7n4j_unrelaxed_rank_031_alphafold2_multimer_v3_model_3_seed_013	0.716	0.525	0.930	1.474	2.285	0.370	0.255	1.643
+7n4j_unrelaxed_rank_042_alphafold2_multimer_v3_model_5_seed_012	0.708	0.515	1.021	1.494	2.529	0.372	0.244	1.635
+7n4j_unrelaxed_rank_072_alphafold2_multimer_v3_model_2_seed_001	0.761	0.563	0.736	1.472	2.117	0.371	0.348	1.685
+7n4j_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_005	0.760	0.532	0.713	1.462	2.065	0.438	0.336	1.798
+7n4j_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_002	0.724	0.512	0.905	1.506	2.135	0.314	0.283	1.689
+7n4j_unrelaxed_rank_062_alphafold2_multimer_v3_model_3_seed_001	0.730	0.515	0.924	2.091	2.196	0.483	0.214	1.699
+7n4j_unrelaxed_rank_069_alphafold2_multimer_v3_model_2_seed_009	0.765	0.508	0.736	1.494	3.584	0.494	0.274	1.808
+7n4j_unrelaxed_rank_023_alphafold2_multimer_v3_model_1_seed_000	0.725	0.510	0.860	1.448	2.197	0.398	0.282	1.706
+7n4j_unrelaxed_rank_067_alphafold2_multimer_v3_model_2_seed_013	0.748	0.510	0.757	1.443	2.173	0.499	0.304	1.753
+7n4j_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_003	0.707	0.522	1.004	1.507	1.675	0.323	0.240	1.610
+7n4j_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_010	0.710	0.523	0.930	1.482	2.125	0.405	0.212	1.659
+7n4j_unrelaxed_rank_051_alphafold2_multimer_v3_model_5_seed_011	0.698	0.495	1.009	1.500	2.325	0.475	0.230	1.654
+7n4j_unrelaxed_rank_073_alphafold2_multimer_v3_model_2_seed_008	0.863	0.527	0.666	1.455	2.223	1.690	0.326	1.770
+7n4j_unrelaxed_rank_071_alphafold2_multimer_v3_model_2_seed_012	0.744	0.528	0.753	1.451	2.212	0.522	0.342	1.757
+7n4j_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_009	0.717	0.523	0.953	1.497	2.209	0.327	0.270	1.672
+7n4j_unrelaxed_rank_041_alphafold2_multimer_v3_model_5_seed_008	0.687	0.483	0.952	1.486	2.324	0.399	0.243	1.616
+7n4j_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_009	0.716	0.507	0.855	1.469	2.263	0.384	0.273	1.695
+7n4j_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_006	0.734	0.542	0.959	1.480	2.413	0.514	0.297	1.710
+7n4j_unrelaxed_rank_013_alphafold2_multimer_v3_model_4_seed_005	0.882	0.539	0.954	1.494	2.132	1.938	0.306	1.724
+7n4j_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_003	0.692	0.499	1.083	1.510	2.153	0.484	0.241	1.632
+7n4j_unrelaxed_rank_046_alphafold2_multimer_v3_model_5_seed_009	0.703	0.518	1.020	1.507	2.208	0.348	0.244	1.638
+7n4j_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_012	0.743	0.549	1.018	1.513	1.970	0.449	0.207	1.685
+7n4j_unrelaxed_rank_034_alphafold2_multimer_v3_model_3_seed_004	0.705	0.516	0.943	1.477	2.363	0.362	0.222	1.593
+7n4j_unrelaxed_rank_075_alphafold2_multimer_v3_model_2_seed_002	0.903	0.523	0.702	1.493	2.244	1.973	0.335	1.795
+7n4j_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_002	0.725	0.524	0.830	1.454	2.184	0.343	0.302	1.681
+7n4j_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_010	0.698	0.503	0.951	1.504	2.181	0.370	0.268	1.650
+7n4j_unrelaxed_rank_068_alphafold2_multimer_v3_model_2_seed_014	0.751	0.532	0.751	1.460	2.116	0.385	0.309	1.756
+7n4j_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_011	0.710	0.503	0.959	1.486	2.136	0.425	0.216	1.661
+7n4j_unrelaxed_rank_038_alphafold2_multimer_v3_model_1_seed_004	0.731	0.521	0.856	1.449	2.188	0.380	0.270	1.695
+7n4j_unrelaxed_rank_053_alphafold2_multimer_v3_model_5_seed_006	0.704	0.506	1.059	1.505	2.280	0.385	0.236	1.666
+7n4j_unrelaxed_rank_021_alphafold2_multimer_v3_model_3_seed_008	0.700	0.516	0.908	1.464	2.333	0.352	0.236	1.592
+7n4j_unrelaxed_rank_015_alphafold2_multimer_v3_model_4_seed_008	0.715	0.501	0.916	1.500	2.182	0.418	0.256	1.689
+7n4j_unrelaxed_rank_039_alphafold2_multimer_v3_model_5_seed_014	0.704	0.511	1.022	1.494	2.378	0.363	0.244	1.624
+7n4j_unrelaxed_rank_043_alphafold2_multimer_v3_model_3_seed_007	0.706	0.506	0.821	1.491	2.239	0.380	0.229	1.604
+7n4j_unrelaxed_rank_036_alphafold2_multimer_v3_model_5_seed_001	0.700	0.510	1.048	1.496	2.185	0.388	0.241	1.622
+7n4j_unrelaxed_rank_050_alphafold2_multimer_v3_model_5_seed_002	0.701	0.489	1.122	1.545	2.069	0.505	0.222	1.703
+7n4j_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_014	0.733	0.535	0.925	1.506	2.108	0.351	0.264	1.693
+7n4j_unrelaxed_rank_020_alphafold2_multimer_v3_model_4_seed_000	0.736	0.507	0.988	1.513	1.936	0.384	0.242	1.736
+7n4j_unrelaxed_rank_008_alphafold2_multimer_v3_model_4_seed_001	0.705	0.498	1.019	1.493	2.391	0.337	0.251	1.639
+7n4j_unrelaxed_rank_029_alphafold2_multimer_v3_model_1_seed_003	0.719	0.522	0.887	1.456	2.233	0.358	0.279	1.679
+7n4j_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_000	0.708	0.516	0.979	1.503	2.315	0.347	0.260	1.644
+7n4j_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_006	0.714	0.511	0.834	1.448	2.315	0.375	0.300	1.667
+7n4j_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_013	0.696	0.499	0.990	1.486	2.336	0.348	0.244	1.622
+7n4j_unrelaxed_rank_027_alphafold2_multimer_v3_model_1_seed_010	0.733	0.505	0.822	1.452	3.192	0.406	0.275	1.705
+7n4j_unrelaxed_rank_057_alphafold2_multimer_v3_model_5_seed_004	0.718	0.501	1.061	1.527	2.105	0.532	0.224	1.699
+7n4j_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_007	0.735	0.527	0.908	1.461	5.329	0.346	0.277	1.688
+7n4j_unrelaxed_rank_035_alphafold2_multimer_v3_model_1_seed_013	0.728	0.531	0.897	1.467	2.244	0.359	0.272	1.653
+7n4j_unrelaxed_rank_065_alphafold2_multimer_v3_model_2_seed_004	0.754	0.535	0.753	1.437	2.188	0.389	0.311	1.757
+7n4j_unrelaxed_rank_070_alphafold2_multimer_v3_model_2_seed_011	0.831	0.528	0.792	1.437	2.483	1.517	0.307	1.766
+7n4j_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_008	0.717	0.507	0.785	1.444	2.177	0.361	0.278	1.671
+7n4j_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_000	0.735	0.521	1.033	1.505	2.013	0.480	0.210	1.698
+7n4j_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_004	0.721	0.542	0.925	1.503	2.288	0.307	0.272	1.651
+7n4j_unrelaxed_rank_045_alphafold2_multimer_v3_model_3_seed_006	0.710	0.520	0.974	1.467	2.613	0.383	0.224	1.602
+7n4j_unrelaxed_rank_058_alphafold2_multimer_v3_model_2_seed_010	0.730	0.506	0.803	1.451	2.187	0.406	0.302	1.743
+7n4j_unrelaxed_rank_032_alphafold2_multimer_v3_model_3_seed_005	0.712	0.526	0.970	1.494	1.824	0.391	0.216	1.625
+7n4j_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_011	0.709	0.494	0.949	1.464	2.568	0.398	0.268	1.683
+7n4j_unrelaxed_rank_055_alphafold2_multimer_v3_model_1_seed_011	0.811	0.516	0.824	1.453	2.325	1.451	0.266	1.701
+7n4j_unrelaxed_rank_040_alphafold2_multimer_v3_model_3_seed_014	0.698	0.513	0.919	1.484	1.770	0.387	0.233	1.595
+7n4j_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_012	0.732	0.512	0.939	1.479	2.247	0.309	0.270	1.703
+7n4j_unrelaxed_rank_060_alphafold2_multimer_v3_model_5_seed_010	0.713	0.485	1.068	1.515	2.006	0.577	0.215	1.721
+7n4j_unrelaxed_rank_061_alphafold2_multimer_v3_model_2_seed_000	0.748	0.533	0.790	1.434	2.270	0.383	0.306	1.743
+7n4j_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_005	0.735	0.528	0.934	1.467	2.384	0.395	0.289	1.723
+7n4j_unrelaxed_rank_037_alphafold2_multimer_v3_model_1_seed_001	0.731	0.565	0.875	1.455	2.176	0.369	0.277	1.685
+7n4j_unrelaxed_rank_028_alphafold2_multimer_v3_model_3_seed_003	0.700	0.507	0.971	1.465	2.597	0.356	0.237	1.605
+7n4j_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_005	0.732	0.527	1.055	1.505	2.294	0.392	0.250	1.709
+7n4j_unrelaxed_rank_044_alphafold2_multimer_v3_model_5_seed_007	0.715	0.498	0.995	1.498	2.101	0.403	0.243	1.692
+7phw_unrelaxed_rank_027_alphafold2_multimer_v3_model_3_seed_005	0.855	0.727	0.631	0.664	2.848	1.006	0.555	2.366
+7phw_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_002	0.982	0.675	0.723	0.731	2.834	1.008	0.624	2.790
+7phw_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_010	0.937	0.744	0.634	0.644	2.993	0.969	0.674	2.558
+7phw_unrelaxed_rank_057_alphafold2_multimer_v3_model_3_seed_007	1.150	0.667	0.629	0.659	5.341	0.998	0.503	3.501
+7phw_unrelaxed_rank_069_alphafold2_multimer_v3_model_4_seed_009	1.027	0.561	0.696	0.626	2.613	0.989	0.498	3.008
+7phw_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_012	0.917	0.730	0.621	0.687	3.665	0.964	0.683	2.538
+7phw_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_013	0.862	0.717	0.659	0.706	3.664	0.918	0.646	2.354
+7phw_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_000	0.863	0.713	0.622	0.678	3.530	0.895	0.650	2.358
+7phw_unrelaxed_rank_044_alphafold2_multimer_v3_model_3_seed_014	1.272	0.733	0.510	0.759	4.258	0.848	0.521	3.919
+7phw_unrelaxed_rank_034_alphafold2_multimer_v3_model_3_seed_011	1.011	0.751	0.661	0.709	2.981	1.019	0.597	2.878
+7phw_unrelaxed_rank_002_alphafold2_multimer_v3_model_5_seed_005	1.043	0.548	0.705	0.667	3.131	0.951	0.543	3.091
+7phw_unrelaxed_rank_040_alphafold2_multimer_v3_model_2_seed_007	0.895	0.750	0.627	0.633	2.928	0.969	0.659	2.400
+7phw_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_012	1.059	0.571	0.696	0.691	3.126	1.045	0.565	3.117
+7phw_unrelaxed_rank_063_alphafold2_multimer_v3_model_4_seed_011	0.955	0.629	0.674	0.614	2.918	1.048	0.555	2.762
+7phw_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_001	0.874	0.709	0.635	0.676	3.497	0.912	0.620	2.423
+7phw_unrelaxed_rank_031_alphafold2_multimer_v3_model_2_seed_003	0.871	0.758	0.645	0.651	2.891	1.016	0.670	2.309
+7phw_unrelaxed_rank_047_alphafold2_multimer_v3_model_2_seed_006	0.901	0.737	0.608	0.614	2.892	0.958	0.659	2.450
+7phw_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_014	0.972	0.736	0.600	0.611	3.009	0.969	0.641	2.718
+7phw_unrelaxed_rank_026_alphafold2_multimer_v3_model_3_seed_002	0.967	0.716	0.633	0.663	2.847	0.983	0.577	2.765
+7phw_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_012	1.143	0.764	0.603	0.655	4.094	0.942	0.705	3.341
+7phw_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_001	1.013	0.706	0.701	0.723	2.893	1.038	0.579	2.937
+7phw_unrelaxed_rank_035_alphafold2_multimer_v3_model_1_seed_007	0.606	0.694	0.606	0.643	2.699	0.935	0.582	1.378
+7phw_unrelaxed_rank_045_alphafold2_multimer_v3_model_2_seed_005	0.859	0.736	0.602	0.619	2.860	1.007	0.637	2.283
+7phw_unrelaxed_rank_013_alphafold2_multimer_v3_model_5_seed_004	1.062	0.570	0.735	0.708	3.126	1.047	0.581	3.126
+7phw_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_003	0.718	0.704	0.597	0.652	3.076	0.948	0.589	1.837
+7phw_unrelaxed_rank_065_alphafold2_multimer_v3_model_4_seed_001	1.062	0.590	0.757	0.679	3.054	1.056	0.558	3.144
+7phw_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_008	0.961	0.696	0.689	0.739	2.835	1.007	0.593	2.746
+7phw_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_010	0.860	0.687	0.618	0.638	2.901	0.959	0.536	2.421
+7phw_unrelaxed_rank_061_alphafold2_multimer_v3_model_4_seed_003	1.044	0.552	0.666	0.605	3.182	0.985	0.487	3.082
+7phw_unrelaxed_rank_039_alphafold2_multimer_v3_model_2_seed_011	0.915	0.744	0.619	0.592	2.928	0.976	0.657	2.496
+7phw_unrelaxed_rank_068_alphafold2_multimer_v3_model_2_seed_009	0.969	0.749	0.627	0.632	2.928	0.991	0.675	2.681
+7phw_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_002	0.752	0.696	0.632	0.648	3.286	0.933	0.600	1.964
+7phw_unrelaxed_rank_029_alphafold2_multimer_v3_model_3_seed_008	0.822	0.696	0.611	0.622	2.755	0.989	0.530	2.303
+7phw_unrelaxed_rank_038_alphafold2_multimer_v3_model_4_seed_006	0.731	0.545	0.686	0.622	2.608	0.944	0.496	1.915
+7phw_unrelaxed_rank_037_alphafold2_multimer_v3_model_2_seed_008	0.892	0.744	0.627	0.644	2.876	1.007	0.660	2.390
+7phw_unrelaxed_rank_050_alphafold2_multimer_v3_model_4_seed_004	0.995	0.599	0.724	0.674	3.353	1.049	0.574	2.890
+7phw_unrelaxed_rank_062_alphafold2_multimer_v3_model_3_seed_003	1.180	0.715	0.614	0.819	3.212	0.968	0.590	3.454
+7phw_unrelaxed_rank_042_alphafold2_multimer_v3_model_4_seed_007	0.967	0.591	0.743	0.647	4.424	0.987	0.562	2.768
+7phw_unrelaxed_rank_055_alphafold2_multimer_v3_model_2_seed_000	0.985	0.746	0.637	0.630	3.174	0.988	0.664	2.741
+7phw_unrelaxed_rank_074_alphafold2_multimer_v3_model_2_seed_013	1.002	0.744	0.636	0.652	3.523	0.980	0.665	2.821
+7phw_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_010	0.920	0.738	0.626	0.673	3.404	0.930	0.673	2.553
+7phw_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_011	0.819	0.713	0.600	0.660	3.344	0.908	0.625	2.191
+7phw_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_001	0.909	0.718	0.631	0.650	2.999	0.966	0.537	2.559
+7phw_unrelaxed_rank_048_alphafold2_multimer_v3_model_5_seed_000	0.948	0.599	0.671	0.696	2.904	0.990	0.575	2.681
+7phw_unrelaxed_rank_066_alphafold2_multimer_v3_model_4_seed_008	1.124	0.591	0.686	0.653	3.382	1.017	0.532	3.328
+7phw_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_009	1.085	0.706	0.639	0.782	2.659	0.988	0.575	3.115
+7phw_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_011	1.046	0.692	0.719	0.729	2.937	1.065	0.628	3.026
+7phw_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_010	1.210	0.625	0.734	0.744	3.296	1.026	0.622	3.569
+7phw_unrelaxed_rank_073_alphafold2_multimer_v3_model_2_seed_004	1.048	0.760	0.649	0.659	3.328	1.020	0.697	2.961
+7phw_unrelaxed_rank_028_alphafold2_multimer_v3_model_5_seed_003	1.036	0.557	0.686	0.671	3.024	0.993	0.533	3.058
+7phw_unrelaxed_rank_024_alphafold2_multimer_v3_model_3_seed_012	0.887	0.703	0.603	0.618	2.928	1.008	0.523	2.517
+7phw_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_004	0.803	0.693	0.567	0.633	3.226	0.896	0.608	2.163
+7phw_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_006	0.790	0.699	0.610	0.627	3.313	0.912	0.623	2.103
+7phw_unrelaxed_rank_046_alphafold2_multimer_v3_model_4_seed_005	0.869	0.644	0.709	0.678	2.912	1.037	0.535	2.409
+7phw_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_005	0.720	0.704	0.591	0.659	3.242	0.916	0.578	1.833
+7phw_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_008	0.755	0.693	0.594	0.636	2.967	0.916	0.582	1.977
+7phw_unrelaxed_rank_032_alphafold2_multimer_v3_model_4_seed_014	0.969	0.562	0.723	0.653	2.847	1.039	0.532	2.795
+7phw_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_007	1.095	0.609	0.647	0.769	3.230	0.971	0.596	3.171
+7phw_unrelaxed_rank_036_alphafold2_multimer_v3_model_3_seed_006	0.787	0.702	0.594	0.633	2.736	0.957	0.529	2.134
+7phw_unrelaxed_rank_025_alphafold2_multimer_v3_model_3_seed_004	0.973	0.699	0.635	0.657	2.851	0.976	0.563	2.822
+7phw_unrelaxed_rank_007_alphafold2_multimer_v3_model_5_seed_013	1.053	0.585	0.782	0.765	3.349	1.050	0.600	3.059
+7phw_unrelaxed_rank_070_alphafold2_multimer_v3_model_2_seed_001	1.027	0.744	0.635	0.638	3.337	1.007	0.651	2.907
+7phw_unrelaxed_rank_041_alphafold2_multimer_v3_model_2_seed_002	0.872	0.758	0.664	0.649	3.011	1.024	0.673	2.316
+7phw_unrelaxed_rank_056_alphafold2_multimer_v3_model_4_seed_002	0.954	0.551	0.683	0.581	3.042	0.960	0.498	2.751
+7phw_unrelaxed_rank_030_alphafold2_multimer_v3_model_5_seed_010	0.994	0.651	0.716	0.752	2.918	1.012	0.595	2.861
+7phw_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_013	0.941	0.669	0.632	0.643	3.015	0.988	0.541	2.726
+7phw_unrelaxed_rank_071_alphafold2_multimer_v3_model_4_seed_000	1.079	0.569	0.681	0.706	3.342	0.958	0.513	3.233
+7phw_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_014	0.796	0.704	0.579	0.656	3.374	0.905	0.603	2.142
+7phw_unrelaxed_rank_075_alphafold2_multimer_v3_model_5_seed_014	1.252	0.643	0.642	0.873	4.598	0.977	0.688	3.727
+7phw_unrelaxed_rank_058_alphafold2_multimer_v3_model_5_seed_009	1.035	0.562	0.643	0.681	3.244	0.945	0.493	3.033
+7phw_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_009	0.935	0.712	0.616	0.651	3.445	0.930	0.632	2.643
+7phw_unrelaxed_rank_049_alphafold2_multimer_v3_model_3_seed_000	0.816	0.684	0.556	0.603	2.897	0.927	0.500	2.250
+7phw_unrelaxed_rank_072_alphafold2_multimer_v3_model_4_seed_012	1.096	0.577	0.714	0.698	3.509	0.979	0.552	3.258
+7phw_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_013	1.052	0.565	0.747	0.649	2.930	1.072	0.547	3.088
+7phw_unrelaxed_rank_053_alphafold2_multimer_v3_model_5_seed_006	0.869	0.545	0.634	0.622	2.762	0.948	0.499	2.432
+7nx3_unrelaxed_rank_075_alphafold2_multimer_v3_model_5_seed_001	13.091	19.125	15.034	11.542	19.059	33.180	16.019	26.202
+7nx3_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_000	0.399	0.722	1.212	0.947	2.694	1.027	0.660	0.696
+7nx3_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_002	0.374	0.655	1.058	0.793	2.616	0.804	0.572	0.609
+7nx3_unrelaxed_rank_053_alphafold2_multimer_v3_model_2_seed_005	0.360	0.736	1.109	0.867	2.671	0.967	0.664	0.722
+7nx3_unrelaxed_rank_060_alphafold2_multimer_v3_model_3_seed_012	7.491	9.492	0.659	0.479	8.859	0.606	0.617	9.397
+7nx3_unrelaxed_rank_014_alphafold2_multimer_v3_model_2_seed_003	0.386	0.732	1.069	0.883	3.005	0.881	0.606	0.643
+7nx3_unrelaxed_rank_073_alphafold2_multimer_v3_model_5_seed_006	13.277	18.879	18.699	14.754	22.075	30.724	15.493	25.766
+7nx3_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_005	0.386	0.713	1.208	0.915	2.598	0.994	0.665	0.748
+7nx3_unrelaxed_rank_040_alphafold2_multimer_v3_model_2_seed_000	0.382	0.767	1.237	0.968	2.660	1.086	0.736	0.716
+7nx3_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_000	0.380	0.709	1.255	0.939	2.506	1.008	0.700	0.664
+7nx3_unrelaxed_rank_015_alphafold2_multimer_v3_model_3_seed_005	0.353	0.656	1.105	0.790	2.608	0.834	0.616	0.711
+7nx3_unrelaxed_rank_029_alphafold2_multimer_v3_model_2_seed_011	0.372	0.731	1.056	0.885	2.931	0.891	0.620	0.618
+7nx3_unrelaxed_rank_050_alphafold2_multimer_v3_model_2_seed_001	0.377	0.779	1.174	0.926	2.638	1.027	0.701	0.766
+7nx3_unrelaxed_rank_034_alphafold2_multimer_v3_model_3_seed_000	0.351	0.645	1.004	0.705	2.430	0.761	0.577	0.670
+7nx3_unrelaxed_rank_042_alphafold2_multimer_v3_model_2_seed_002	0.370	0.681	1.092	0.884	2.933	0.863	0.592	0.627
+7nx3_unrelaxed_rank_062_alphafold2_multimer_v3_model_4_seed_008	7.357	9.442	0.720	1.073	9.407	1.240	0.807	8.854
+7nx3_unrelaxed_rank_045_alphafold2_multimer_v3_model_2_seed_004	0.380	0.689	1.092	0.857	2.743	0.864	0.588	0.659
+7nx3_unrelaxed_rank_046_alphafold2_multimer_v3_model_3_seed_008	0.361	0.641	1.079	0.809	2.589	0.808	0.598	0.650
+7nx3_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_001	0.403	0.738	1.325	1.050	4.700	1.155	0.715	0.611
+7nx3_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_007	0.368	0.741	1.088	0.823	2.582	0.923	0.661	0.746
+7nx3_unrelaxed_rank_063_alphafold2_multimer_v3_model_4_seed_010	7.334	9.462	1.040	1.247	9.781	2.284	1.214	8.767
+7nx3_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_014	0.364	0.644	0.934	0.670	2.550	0.715	0.525	0.654
+7nx3_unrelaxed_rank_027_alphafold2_multimer_v3_model_2_seed_012	0.372	0.725	1.041	0.841	2.973	0.875	0.594	0.624
+7nx3_unrelaxed_rank_024_alphafold2_multimer_v3_model_5_seed_009	0.389	0.721	1.230	0.967	2.750	1.019	0.680	0.696
+7nx3_unrelaxed_rank_043_alphafold2_multimer_v3_model_3_seed_002	0.359	0.662	1.142	0.825	2.675	0.876	0.631	0.696
+7nx3_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_009	0.368	0.703	1.001	0.813	3.128	0.826	0.581	0.616
+7nx3_unrelaxed_rank_037_alphafold2_multimer_v3_model_3_seed_014	0.346	0.646	1.020	0.725	2.515	0.783	0.583	0.695
+7nx3_unrelaxed_rank_020_alphafold2_multimer_v3_model_5_seed_014	0.389	0.721	1.223	0.954	2.697	0.995	0.675	0.723
+7nx3_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_013	0.352	0.648	1.001	0.736	2.413	0.728	0.546	0.655
+7nx3_unrelaxed_rank_064_alphafold2_multimer_v3_model_4_seed_007	7.336	9.439	0.781	1.136	9.532	1.685	0.946	8.797
+7nx3_unrelaxed_rank_074_alphafold2_multimer_v3_model_5_seed_010	13.016	19.097	15.377	12.286	19.970	33.483	16.500	26.486
+7nx3_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_012	7.509	9.505	0.866	0.614	9.203	0.516	0.644	9.317
+7nx3_unrelaxed_rank_022_alphafold2_multimer_v3_model_5_seed_004	0.395	0.732	1.229	0.965	2.741	1.003	0.682	0.744
+7nx3_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_009	0.372	0.673	1.072	0.805	2.631	0.822	0.591	0.643
+7nx3_unrelaxed_rank_049_alphafold2_multimer_v3_model_1_seed_001	7.469	9.476	0.679	0.571	8.989	0.522	0.555	9.540
+7nx3_unrelaxed_rank_065_alphafold2_multimer_v3_model_4_seed_002	7.279	9.429	1.078	1.321	12.001	2.253	1.228	8.769
+7nx3_unrelaxed_rank_071_alphafold2_multimer_v3_model_5_seed_008	13.141	19.244	14.176	11.091	18.747	33.426	15.982	26.269
+7nx3_unrelaxed_rank_030_alphafold2_multimer_v3_model_5_seed_007	0.402	0.734	1.260	1.010	2.846	1.093	0.696	0.710
+7nx3_unrelaxed_rank_016_alphafold2_multimer_v3_model_1_seed_003	0.384	0.695	1.140	0.900	2.827	0.881	0.615	0.621
+7nx3_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_003	0.416	0.724	1.305	1.023	2.727	1.152	0.649	0.580
+7nx3_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_010	0.366	0.713	0.993	0.847	2.845	0.887	0.618	0.625
+7nx3_unrelaxed_rank_055_alphafold2_multimer_v3_model_4_seed_000	0.384	0.750	1.296	1.020	2.600	1.151	0.713	0.734
+7nx3_unrelaxed_rank_044_alphafold2_multimer_v3_model_3_seed_007	0.353	0.643	0.965	0.691	2.460	0.764	0.593	0.694
+7nx3_unrelaxed_rank_039_alphafold2_multimer_v3_model_3_seed_004	0.353	0.643	1.043	0.745	2.457	0.735	0.568	0.660
+7nx3_unrelaxed_rank_066_alphafold2_multimer_v3_model_4_seed_006	7.323	9.429	0.692	1.118	9.374	1.518	0.916	8.798
+7nx3_unrelaxed_rank_069_alphafold2_multimer_v3_model_4_seed_013	13.168	19.037	18.071	14.286	21.296	32.136	16.087	26.339
+7nx3_unrelaxed_rank_070_alphafold2_multimer_v3_model_4_seed_011	13.282	18.830	18.620	14.662	22.301	30.568	15.550	25.769
+7nx3_unrelaxed_rank_058_alphafold2_multimer_v3_model_1_seed_008	7.482	9.485	0.615	0.510	11.199	0.566	0.579	9.525
+7nx3_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_006	0.371	0.650	1.040	0.793	3.116	0.838	0.581	0.567
+7nx3_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_010	7.490	9.494	0.792	0.523	9.029	0.454	0.603	9.430
+7nx3_unrelaxed_rank_019_alphafold2_multimer_v3_model_2_seed_007	0.376	0.734	1.042	0.856	3.037	0.906	0.611	0.671
+7nx3_unrelaxed_rank_061_alphafold2_multimer_v3_model_4_seed_009	7.496	9.494	0.818	0.758	11.348	0.737	0.598	9.332
+7nx3_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_002	0.393	0.729	1.269	0.997	2.661	1.067	0.696	0.745
+7nx3_unrelaxed_rank_057_alphafold2_multimer_v3_model_3_seed_013	0.369	0.687	1.158	0.844	2.806	1.006	0.669	0.654
+7nx3_unrelaxed_rank_056_alphafold2_multimer_v3_model_4_seed_004	0.381	0.726	1.242	0.971	3.214	1.096	0.656	0.600
+7nx3_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_003	0.389	0.736	1.256	1.013	2.705	1.040	0.696	0.747
+7nx3_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_005	0.371	0.679	1.090	0.824	2.623	0.850	0.618	0.652
+7nx3_unrelaxed_rank_072_alphafold2_multimer_v3_model_5_seed_012	13.174	19.234	14.367	11.070	18.658	33.280	15.899	26.222
+7nx3_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_012	7.496	9.503	0.760	0.478	9.032	0.438	0.610	9.351
+7nx3_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_006	7.491	9.495	0.771	0.519	8.964	0.455	0.603	9.404
+7nx3_unrelaxed_rank_038_alphafold2_multimer_v3_model_3_seed_003	0.366	0.661	1.067	0.815	2.742	0.875	0.630	0.669
+7nx3_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_001	0.345	0.642	0.946	0.672	2.103	0.726	0.569	0.748
+7nx3_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_004	0.383	0.701	1.153	0.867	2.640	0.860	0.628	0.675
+7nx3_unrelaxed_rank_001_alphafold2_multimer_v3_model_4_seed_005	7.537	9.528	0.894	0.627	9.159	0.523	0.651	9.289
+7nx3_unrelaxed_rank_041_alphafold2_multimer_v3_model_2_seed_014	0.380	0.713	1.146	0.912	2.728	0.925	0.628	0.661
+7nx3_unrelaxed_rank_026_alphafold2_multimer_v3_model_5_seed_011	0.402	0.702	1.172	0.944	2.346	0.989	0.635	0.617
+7nx3_unrelaxed_rank_031_alphafold2_multimer_v3_model_3_seed_011	0.372	0.661	1.048	0.821	2.768	0.859	0.606	0.634
+7nx3_unrelaxed_rank_033_alphafold2_multimer_v3_model_2_seed_013	0.374	0.690	1.066	0.866	3.051	0.860	0.576	0.629
+7nx3_unrelaxed_rank_068_alphafold2_multimer_v3_model_5_seed_013	13.174	19.291	14.261	11.045	18.495	33.426	15.945	26.240
+7nx3_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_006	0.361	0.708	0.948	0.768	4.186	0.879	0.594	0.630
+7nx3_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_008	0.379	0.741	1.091	0.885	2.887	0.945	0.633	0.677
+7nx3_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_011	0.381	0.726	1.090	0.869	2.797	0.900	0.634	0.625
+7nx3_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_010	7.340	9.409	0.514	0.862	8.686	0.909	0.731	9.431
+7nx3_unrelaxed_rank_047_alphafold2_multimer_v3_model_4_seed_014	0.389	0.766	1.368	1.051	2.423	1.179	0.741	0.758
+7nx3_unrelaxed_rank_018_alphafold2_multimer_v3_model_3_seed_009	0.366	0.666	1.109	0.826	2.741	0.895	0.630	0.664
+7ps6_unrelaxed_rank_028_alphafold2_multimer_v3_model_2_seed_004	0.506	0.610	1.699	0.892	2.147	1.228	0.491	0.549
+7ps6_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_004	0.497	0.582	0.597	0.845	2.700	1.166	0.416	0.543
+7ps6_unrelaxed_rank_008_alphafold2_multimer_v3_model_5_seed_000	0.512	0.573	0.551	0.886	2.585	1.237	0.417	0.534
+7ps6_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_010	0.495	0.578	0.646	0.861	3.090	1.160	0.350	0.551
+7ps6_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_013	0.491	0.568	0.557	0.863	2.074	1.199	0.492	0.616
+7ps6_unrelaxed_rank_037_alphafold2_multimer_v3_model_1_seed_006	0.490	0.657	0.601	0.920	1.792	1.167	0.385	0.619
+7ps6_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_012	0.506	0.596	0.644	0.939	3.015	1.386	0.608	0.694
+7ps6_unrelaxed_rank_012_alphafold2_multimer_v3_model_5_seed_010	0.504	0.570	0.552	0.935	2.359	1.219	0.419	0.527
+7ps6_unrelaxed_rank_058_alphafold2_multimer_v3_model_1_seed_001	0.497	0.588	0.619	0.875	2.587	1.124	0.334	0.553
+7ps6_unrelaxed_rank_013_alphafold2_multimer_v3_model_2_seed_007	0.511	0.590	1.582	0.934	1.507	1.255	0.499	0.591
+7ps6_unrelaxed_rank_035_alphafold2_multimer_v3_model_4_seed_003	0.487	0.596	0.699	1.058	2.193	1.382	0.634	0.670
+7ps6_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_009	0.508	0.578	0.595	0.851	2.473	1.226	0.438	0.528
+7ps6_unrelaxed_rank_019_alphafold2_multimer_v3_model_5_seed_007	0.507	0.570	0.557	0.871	2.297	1.225	0.423	0.524
+7ps6_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_003	0.496	0.570	0.638	0.898	2.608	1.117	0.337	0.546
+7ps6_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_012	0.507	0.568	0.569	0.854	1.705	1.206	0.444	0.576
+7ps6_unrelaxed_rank_057_alphafold2_multimer_v3_model_1_seed_005	0.494	0.558	0.568	0.877	2.921	1.100	0.340	0.565
+7ps6_unrelaxed_rank_048_alphafold2_multimer_v3_model_5_seed_011	0.486	0.563	0.531	0.965	2.939	1.168	0.441	0.608
+7ps6_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_014	0.489	0.572	0.578	0.838	2.676	1.103	0.349	0.504
+7ps6_unrelaxed_rank_034_alphafold2_multimer_v3_model_2_seed_005	0.504	0.687	1.694	0.760	2.912	1.178	0.425	0.561
+7ps6_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_011	0.497	0.587	0.605	0.991	1.991	1.243	0.574	0.674
+7ps6_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_004	0.487	0.595	0.630	0.983	3.250	1.388	0.631	0.721
+7ps6_unrelaxed_rank_038_alphafold2_multimer_v3_model_3_seed_002	0.511	0.583	0.575	0.790	2.680	1.247	0.451	0.539
+7ps6_unrelaxed_rank_067_alphafold2_multimer_v3_model_1_seed_000	0.489	0.589	0.634	0.953	2.998	1.127	0.380	0.578
+7ps6_unrelaxed_rank_044_alphafold2_multimer_v3_model_2_seed_010	0.496	0.606	1.734	0.739	2.538	1.139	0.406	0.542
+7ps6_unrelaxed_rank_015_alphafold2_multimer_v3_model_2_seed_008	0.498	0.627	1.692	0.751	2.983	1.175	0.451	0.596
+7ps6_unrelaxed_rank_027_alphafold2_multimer_v3_model_5_seed_006	0.500	0.566	0.548	0.905	2.480	1.186	0.376	0.499
+7ps6_unrelaxed_rank_021_alphafold2_multimer_v3_model_5_seed_001	0.509	0.572	0.552	0.907	2.732	1.216	0.404	0.531
+7ps6_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_000	0.501	0.629	1.691	0.884	1.791	1.198	0.467	0.568
+7ps6_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_008	0.476	0.610	0.622	0.944	3.144	1.326	0.567	0.606
+7ps6_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_000	0.512	0.605	0.644	0.800	2.404	1.267	0.477	0.556
+7ps6_unrelaxed_rank_029_alphafold2_multimer_v3_model_3_seed_003	0.511	0.587	0.575	0.847	2.571	1.280	0.491	0.538
+7ps6_unrelaxed_rank_024_alphafold2_multimer_v3_model_5_seed_013	0.507	0.568	0.540	0.824	2.983	1.202	0.414	0.528
+7ps6_unrelaxed_rank_017_alphafold2_multimer_v3_model_5_seed_003	0.508	0.568	0.543	0.921	2.661	1.216	0.426	0.525
+7ps6_unrelaxed_rank_073_alphafold2_multimer_v3_model_4_seed_005	0.464	0.538	1.628	0.862	3.155	1.221	0.502	0.704
+7ps6_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_001	0.513	0.571	0.613	0.797	2.270	1.228	0.425	0.570
+7ps6_unrelaxed_rank_039_alphafold2_multimer_v3_model_5_seed_014	0.507	0.556	0.534	0.864	2.014	1.175	0.389	0.536
+7ps6_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_007	0.494	0.580	0.640	0.902	2.416	1.158	0.389	0.590
+7ps6_unrelaxed_rank_046_alphafold2_multimer_v3_model_2_seed_012	0.510	0.606	1.722	0.837	2.015	1.241	0.486	0.603
+7ps6_unrelaxed_rank_009_alphafold2_multimer_v3_model_4_seed_011	0.496	0.617	0.697	1.052	3.167	1.444	0.613	0.713
+7ps6_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_008	0.506	0.592	0.595	0.848	3.476	1.246	0.465	0.590
+7ps6_unrelaxed_rank_011_alphafold2_multimer_v3_model_3_seed_004	0.516	0.573	0.574	0.820	2.310	1.244	0.396	0.562
+7ps6_unrelaxed_rank_065_alphafold2_multimer_v3_model_4_seed_009	0.477	0.549	0.605	0.974	2.984	1.318	0.564	0.647
+7ps6_unrelaxed_rank_030_alphafold2_multimer_v3_model_5_seed_002	0.510	0.573	0.553	0.921	2.537	1.210	0.423	0.519
+7ps6_unrelaxed_rank_014_alphafold2_multimer_v3_model_5_seed_004	0.506	0.570	0.549	0.915	2.424	1.200	0.410	0.522
+7ps6_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_014	0.502	0.597	1.670	0.778	3.011	1.236	0.518	0.550
+7ps6_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_009	0.508	0.573	0.544	0.871	2.632	1.202	0.405	0.517
+7ps6_unrelaxed_rank_055_alphafold2_multimer_v3_model_1_seed_002	0.479	0.561	0.639	0.886	2.442	1.040	0.344	0.592
+7ps6_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_007	0.493	0.560	0.880	1.006	2.781	1.330	0.511	0.679
+7ps6_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_008	0.495	0.591	0.636	0.939	3.121	1.262	0.530	0.617
+7ps6_unrelaxed_rank_075_alphafold2_multimer_v3_model_4_seed_006	0.463	0.532	1.592	0.919	2.909	1.189	0.449	0.663
+7ps6_unrelaxed_rank_047_alphafold2_multimer_v3_model_2_seed_001	0.493	0.571	1.736	0.823	1.841	1.074	0.325	0.510
+7ps6_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_006	0.509	0.585	0.586	0.805	2.359	1.212	0.404	0.563
+7ps6_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_012	0.507	0.566	0.586	0.839	2.782	1.206	0.413	0.523
+7ps6_unrelaxed_rank_025_alphafold2_multimer_v3_model_2_seed_009	0.514	0.608	1.704	0.777	2.091	1.252	0.501	0.602
+7ps6_unrelaxed_rank_066_alphafold2_multimer_v3_model_4_seed_014	0.480	0.577	0.623	0.951	3.068	1.337	0.563	0.690
+7ps6_unrelaxed_rank_040_alphafold2_multimer_v3_model_3_seed_010	0.513	0.578	0.563	0.847	2.702	1.249	0.474	0.545
+7ps6_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_000	0.470	0.589	0.635	0.837	3.003	1.303	0.539	0.568
+7ps6_unrelaxed_rank_072_alphafold2_multimer_v3_model_2_seed_006	0.508	0.688	1.622	0.914	2.187	1.215	0.502	0.648
+7ps6_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_011	0.508	0.622	1.665	1.028	1.863	1.309	0.556	0.698
+7ps6_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_007	0.518	0.583	0.624	0.812	2.377	1.259	0.474	0.553
+7ps6_unrelaxed_rank_020_alphafold2_multimer_v3_model_4_seed_013	0.497	0.630	0.673	0.976	3.189	1.502	0.662	0.742
+7ps6_unrelaxed_rank_050_alphafold2_multimer_v3_model_1_seed_009	0.504	0.596	0.594	0.952	2.993	1.165	0.433	0.618
+7ps6_unrelaxed_rank_056_alphafold2_multimer_v3_model_1_seed_011	0.497	0.595	0.619	0.997	3.135	1.131	0.347	0.589
+7ps6_unrelaxed_rank_042_alphafold2_multimer_v3_model_1_seed_012	0.501	0.566	0.623	0.844	3.271	1.103	0.320	0.640
+7ps6_unrelaxed_rank_026_alphafold2_multimer_v3_model_5_seed_005	0.497	0.553	0.542	0.874	1.596	1.136	0.377	0.503
+7ps6_unrelaxed_rank_032_alphafold2_multimer_v3_model_4_seed_001	0.485	0.575	0.608	0.979	2.265	1.357	0.605	0.662
+7ps6_unrelaxed_rank_043_alphafold2_multimer_v3_model_2_seed_013	0.503	0.606	1.624	0.916	3.519	1.229	0.498	0.546
+7ps6_unrelaxed_rank_031_alphafold2_multimer_v3_model_2_seed_002	0.501	0.687	1.707	0.857	2.511	1.188	0.443	0.548
+7ps6_unrelaxed_rank_045_alphafold2_multimer_v3_model_1_seed_013	0.492	0.581	0.605	0.857	2.202	1.123	0.391	0.613
+7ps6_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_005	0.509	0.578	0.593	0.738	2.224	1.201	0.419	0.582
+7ps6_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_008	0.506	0.587	0.574	0.785	2.653	1.267	0.456	0.559
+7ps6_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_002	0.486	0.589	0.667	1.014	3.148	1.375	0.574	0.725
+7ps6_unrelaxed_rank_069_alphafold2_multimer_v3_model_4_seed_010	0.467	0.536	0.723	0.963	3.223	1.257	0.379	0.621
+7ps6_unrelaxed_rank_049_alphafold2_multimer_v3_model_3_seed_014	0.509	0.580	0.568	0.785	2.562	1.235	0.441	0.533
+7ps6_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_003	0.506	0.591	1.680	0.875	3.028	1.196	0.454	0.593
+7qny_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_012	0.424	0.710	0.781	1.889	5.382	0.660	0.432	0.541
+7qny_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_001	0.425	0.720	0.801	1.895	5.370	0.698	0.476	0.538
+7qny_unrelaxed_rank_064_alphafold2_multimer_v3_model_5_seed_010	0.435	0.655	0.778	1.909	5.277	0.686	0.309	0.473
+7qny_unrelaxed_rank_050_alphafold2_multimer_v3_model_2_seed_010	0.429	0.686	0.807	1.910	5.340	0.687	0.473	0.503
+7qny_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_005	0.416	0.682	0.812	1.905	5.517	0.685	0.462	0.492
+7qny_unrelaxed_rank_027_alphafold2_multimer_v3_model_4_seed_002	0.429	0.653	0.851	1.906	5.321	0.581	0.334	0.439
+7qny_unrelaxed_rank_069_alphafold2_multimer_v3_model_5_seed_011	0.437	0.673	0.766	1.907	5.189	0.700	0.281	0.473
+7qny_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_008	0.426	0.655	0.728	1.914	5.527	0.594	0.341	0.487
+7qny_unrelaxed_rank_051_alphafold2_multimer_v3_model_5_seed_009	0.426	0.685	0.929	1.896	5.445	0.696	0.396	0.536
+7qny_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_007	0.418	0.646	0.720	1.920	5.446	0.581	0.323	0.514
+7qny_unrelaxed_rank_057_alphafold2_multimer_v3_model_3_seed_009	0.422	0.644	0.733	1.911	5.376	0.604	0.297	0.500
+7qny_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_004	0.424	0.676	0.787	1.900	5.363	0.630	0.432	0.481
+7qny_unrelaxed_rank_018_alphafold2_multimer_v3_model_4_seed_003	0.428	0.675	0.838	1.871	5.571	0.680	0.308	0.467
+7qny_unrelaxed_rank_072_alphafold2_multimer_v3_model_5_seed_006	0.432	0.669	0.754	1.908	5.154	0.676	0.293	0.491
+7qny_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_010	0.434	0.713	0.787	1.897	5.399	0.693	0.472	0.530
+7qny_unrelaxed_rank_045_alphafold2_multimer_v3_model_2_seed_014	0.424	0.675	0.789	1.911	5.396	0.699	0.472	0.487
+7qny_unrelaxed_rank_062_alphafold2_multimer_v3_model_3_seed_000	0.422	0.652	0.693	1.915	4.970	0.568	0.264	0.527
+7qny_unrelaxed_rank_056_alphafold2_multimer_v3_model_5_seed_000	0.425	0.685	0.805	1.903	5.522	0.723	0.319	0.483
+7qny_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_003	0.417	0.649	0.720	1.916	5.350	0.571	0.319	0.491
+7qny_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_006	0.424	0.666	0.825	1.890	5.458	0.636	0.323	0.470
+7qny_unrelaxed_rank_060_alphafold2_multimer_v3_model_3_seed_005	0.421	0.654	0.719	1.913	5.269	0.648	0.303	0.479
+7qny_unrelaxed_rank_017_alphafold2_multimer_v3_model_1_seed_006	0.430	0.710	0.774	1.906	5.346	0.698	0.470	0.546
+7qny_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_000	0.444	0.671	0.798	1.880	5.438	0.654	0.326	0.495
+7qny_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_004	0.423	0.693	0.713	1.905	5.316	0.667	0.418	0.530
+7qny_unrelaxed_rank_037_alphafold2_multimer_v3_model_2_seed_013	0.415	0.681	0.801	1.913	5.283	0.674	0.451	0.478
+7qny_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_005	0.428	0.707	0.784	1.900	5.342	0.687	0.458	0.553
+7qny_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_002	0.430	0.715	0.721	1.897	5.127	0.710	0.447	0.534
+7qny_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_001	0.436	0.678	0.816	1.910	5.398	0.724	0.365	0.484
+7qny_unrelaxed_rank_038_alphafold2_multimer_v3_model_2_seed_001	0.418	0.686	0.784	1.920	5.171	0.669	0.451	0.475
+7qny_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_014	0.418	0.635	0.699	1.915	5.261	0.580	0.285	0.491
+7qny_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_004	0.421	0.648	0.709	1.904	5.235	0.573	0.263	0.506
+7qny_unrelaxed_rank_021_alphafold2_multimer_v3_model_4_seed_012	0.429	0.682	0.837	1.886	5.588	0.632	0.321	0.474
+7qny_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_007	0.428	0.668	0.790	1.918	5.414	0.672	0.349	0.513
+7qny_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_007	0.428	0.661	0.811	1.880	5.539	0.645	0.302	0.475
+7qny_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_013	0.422	0.656	0.707	1.908	5.463	0.637	0.304	0.487
+7qny_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_014	0.424	0.673	0.788	1.901	5.457	0.704	0.326	0.484
+7qny_unrelaxed_rank_048_alphafold2_multimer_v3_model_2_seed_000	0.424	0.678	0.787	1.905	5.278	0.650	0.449	0.469
+7qny_unrelaxed_rank_034_alphafold2_multimer_v3_model_5_seed_013	0.429	0.690	0.866	1.893	5.469	0.768	0.416	0.505
+7qny_unrelaxed_rank_061_alphafold2_multimer_v3_model_2_seed_007	0.425	0.662	0.770	1.897	5.227	0.604	0.392	0.499
+7qny_unrelaxed_rank_044_alphafold2_multimer_v3_model_2_seed_009	0.419	0.671	0.799	1.909	5.306	0.662	0.428	0.484
+7qny_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_008	0.435	0.663	0.814	1.888	5.408	0.622	0.302	0.467
+7qny_unrelaxed_rank_035_alphafold2_multimer_v3_model_5_seed_012	0.427	0.680	0.828	1.907	5.350	0.706	0.365	0.494
+7qny_unrelaxed_rank_026_alphafold2_multimer_v3_model_2_seed_008	0.427	0.662	0.806	1.901	5.388	0.622	0.492	0.447
+7qny_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_006	0.422	0.646	0.712	1.915	5.309	0.547	0.280	0.529
+7qny_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_014	0.431	0.674	0.814	1.887	5.630	0.663	0.310	0.471
+7qny_unrelaxed_rank_046_alphafold2_multimer_v3_model_2_seed_002	0.417	0.678	0.769	1.926	5.088	0.691	0.472	0.484
+7qny_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_004	0.432	0.669	0.795	1.876	5.582	0.628	0.280	0.481
+7qny_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_011	0.430	0.709	0.770	1.895	5.353	0.677	0.456	0.528
+7qny_unrelaxed_rank_074_alphafold2_multimer_v3_model_5_seed_002	0.634	0.671	0.839	1.917	5.437	2.005	0.390	0.539
+7qny_unrelaxed_rank_025_alphafold2_multimer_v3_model_4_seed_013	0.435	0.680	0.833	1.898	5.612	0.680	0.348	0.467
+7qny_unrelaxed_rank_039_alphafold2_multimer_v3_model_5_seed_003	0.416	0.671	0.808	1.890	5.418	0.694	0.319	0.485
+7qny_unrelaxed_rank_041_alphafold2_multimer_v3_model_2_seed_003	0.423	0.679	0.789	1.905	5.228	0.669	0.478	0.486
+7qny_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_009	0.438	0.713	0.801	1.897	5.370	0.696	0.458	0.538
+7qny_unrelaxed_rank_073_alphafold2_multimer_v3_model_5_seed_004	0.434	0.666	0.741	1.900	5.135	0.694	0.273	0.508
+7qny_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_007	0.428	0.701	0.772	1.897	5.350	0.669	0.446	0.537
+7qny_unrelaxed_rank_042_alphafold2_multimer_v3_model_2_seed_006	0.420	0.678	0.787	1.915	5.350	0.672	0.477	0.493
+7qny_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_000	0.428	0.702	0.757	1.890	5.312	0.655	0.440	0.531
+7qny_unrelaxed_rank_031_alphafold2_multimer_v3_model_4_seed_009	0.424	0.674	0.876	1.881	5.486	0.665	0.325	0.476
+7qny_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_002	0.670	0.666	0.742	1.936	5.512	2.136	0.362	0.564
+7qny_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_011	0.418	0.676	0.776	1.916	5.351	0.671	0.449	0.477
+7qny_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_008	0.427	0.700	0.754	1.891	5.400	0.678	0.455	0.525
+7qny_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_012	0.426	0.656	0.715	1.911	5.308	0.610	0.288	0.506
+7qny_unrelaxed_rank_030_alphafold2_multimer_v3_model_4_seed_001	0.435	0.686	0.830	1.900	5.346	0.667	0.327	0.474
+7qny_unrelaxed_rank_059_alphafold2_multimer_v3_model_5_seed_008	0.448	0.681	0.738	1.910	5.138	0.761	0.299	0.506
+7qny_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_005	0.430	0.674	0.833	1.891	5.464	0.643	0.307	0.474
+7qny_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_013	0.422	0.708	0.771	1.883	5.324	0.672	0.469	0.515
+7qny_unrelaxed_rank_055_alphafold2_multimer_v3_model_3_seed_010	0.421	0.654	0.714	1.914	5.371	0.645	0.305	0.489
+7qny_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_001	0.422	0.647	0.694	1.910	4.841	0.566	0.258	0.522
+7qny_unrelaxed_rank_032_alphafold2_multimer_v3_model_2_seed_012	0.419	0.692	0.826	1.907	5.437	0.687	0.485	0.495
+7qny_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_005	0.422	0.674	0.834	1.895	5.481	0.716	0.351	0.481
+7qny_unrelaxed_rank_049_alphafold2_multimer_v3_model_3_seed_011	0.422	0.633	0.660	1.912	5.087	0.543	0.238	0.541
+7qny_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_014	0.429	0.702	0.753	1.894	5.326	0.670	0.431	0.524
+7qny_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_011	0.437	0.668	0.793	1.882	5.612	0.641	0.292	0.474
+7qny_unrelaxed_rank_019_alphafold2_multimer_v3_model_4_seed_010	0.436	0.674	0.810	1.880	5.527	0.643	0.302	0.477
+7qny_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_003	0.427	0.705	0.776	1.885	5.382	0.687	0.468	0.536
+7msq_unrelaxed_rank_019_alphafold2_multimer_v3_model_4_seed_011	0.459	0.488	1.013	0.730	8.801	0.821	0.366	0.748
+7msq_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_007	0.449	0.489	0.969	0.654	8.651	0.738	0.364	0.656
+7msq_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_006	0.469	0.587	1.048	0.790	10.470	0.388	0.262	0.384
+7msq_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_002	0.491	0.508	0.731	0.649	8.376	0.665	0.276	0.629
+7msq_unrelaxed_rank_026_alphafold2_multimer_v3_model_4_seed_008	0.396	0.448	0.966	0.736	8.288	0.735	0.356	0.692
+7msq_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_013	0.460	0.588	0.705	0.813	10.314	0.337	0.273	0.412
+7msq_unrelaxed_rank_065_alphafold2_multimer_v3_model_5_seed_013	0.451	0.566	1.066	0.627	9.106	0.342	0.222	0.641
+7msq_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_000	0.471	0.550	0.741	0.876	10.103	0.458	0.197	0.422
+7msq_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_010	0.465	0.562	1.071	0.730	9.213	0.407	0.189	0.457
+7msq_unrelaxed_rank_042_alphafold2_multimer_v3_model_1_seed_009	0.462	0.567	1.093	0.766	9.277	0.427	0.201	0.483
+7msq_unrelaxed_rank_027_alphafold2_multimer_v3_model_3_seed_007	0.471	0.505	0.710	0.826	8.775	0.656	0.284	0.588
+7msq_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_003	0.467	0.490	0.965	0.677	8.768	0.779	0.370	0.706
+7msq_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_002	0.487	0.519	0.628	0.697	8.327	0.695	0.221	0.610
+7msq_unrelaxed_rank_053_alphafold2_multimer_v3_model_4_seed_000	0.439	0.506	1.054	0.865	10.280	0.581	0.229	0.544
+7msq_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_004	0.458	0.665	1.179	0.807	9.816	0.440	0.484	0.601
+7msq_unrelaxed_rank_031_alphafold2_multimer_v3_model_5_seed_006	0.503	0.529	0.698	0.600	8.355	0.718	0.272	0.634
+7msq_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_001	0.480	0.626	1.011	0.810	8.876	0.550	0.194	0.570
+7msq_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_000	0.473	0.577	1.089	0.863	9.203	0.459	0.199	0.456
+7msq_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_002	0.471	0.534	1.052	0.685	9.794	0.394	0.181	0.496
+7msq_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_012	0.468	0.494	0.986	0.724	8.778	0.713	0.288	0.679
+7msq_unrelaxed_rank_015_alphafold2_multimer_v3_model_4_seed_010	0.453	0.484	0.992	0.663	8.448	0.777	0.360	0.699
+7msq_unrelaxed_rank_035_alphafold2_multimer_v3_model_5_seed_005	0.478	0.512	0.621	0.621	7.737	0.618	0.242	0.579
+7msq_unrelaxed_rank_052_alphafold2_multimer_v3_model_2_seed_000	0.494	0.564	1.052	0.737	9.104	0.510	0.166	0.566
+7msq_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_006	0.497	0.523	1.054	0.754	8.898	0.595	0.228	0.631
+7msq_unrelaxed_rank_041_alphafold2_multimer_v3_model_1_seed_002	0.472	0.568	1.066	0.742	9.699	0.372	0.203	0.526
+7msq_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_014	0.456	0.596	0.840	0.876	10.315	0.409	0.326	0.485
+7msq_unrelaxed_rank_049_alphafold2_multimer_v3_model_2_seed_007	0.479	0.535	1.047	0.653	9.523	0.488	0.176	0.551
+7msq_unrelaxed_rank_004_alphafold2_multimer_v3_model_5_seed_010	0.487	0.514	0.634	0.593	7.711	0.670	0.234	0.599
+7msq_unrelaxed_rank_028_alphafold2_multimer_v3_model_1_seed_013	0.469	0.569	1.061	0.716	9.278	0.421	0.187	0.462
+7msq_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_007	0.464	0.491	0.735	0.621	8.029	0.518	0.237	0.534
+7msq_unrelaxed_rank_055_alphafold2_multimer_v3_model_2_seed_010	0.478	0.548	1.054	0.693	9.142	0.438	0.170	0.538
+7msq_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_003	0.477	0.547	1.030	0.801	8.819	0.502	0.195	0.544
+7msq_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_007	0.477	0.549	1.024	0.697	8.692	0.518	0.195	0.537
+7msq_unrelaxed_rank_056_alphafold2_multimer_v3_model_4_seed_014	0.450	0.571	1.147	0.834	10.314	0.577	0.209	0.512
+7msq_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_005	0.460	0.516	1.063	0.696	7.905	0.688	0.229	0.635
+7msq_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_012	0.469	0.534	0.948	0.810	9.630	0.509	0.185	0.464
+7msq_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_014	0.477	0.700	1.078	0.804	9.860	0.437	0.212	0.429
+7msq_unrelaxed_rank_039_alphafold2_multimer_v3_model_3_seed_001	0.486	0.544	0.619	0.754	8.351	0.643	0.195	0.568
+7msq_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_005	0.470	0.532	0.620	0.785	8.915	0.587	0.209	0.546
+7msq_unrelaxed_rank_063_alphafold2_multimer_v3_model_2_seed_011	0.478	0.549	1.078	0.738	9.999	0.383	0.194	0.510
+7msq_unrelaxed_rank_067_alphafold2_multimer_v3_model_2_seed_005	0.473	0.550	1.051	0.698	9.230	0.463	0.175	0.548
+7msq_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_013	0.467	0.557	1.071	0.691	9.012	0.354	0.223	0.453
+7msq_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_004	0.460	0.487	0.994	0.666	9.038	0.736	0.348	0.691
+7msq_unrelaxed_rank_054_alphafold2_multimer_v3_model_2_seed_012	0.486	0.575	1.062	0.793	9.144	0.437	0.189	0.488
+7msq_unrelaxed_rank_048_alphafold2_multimer_v3_model_4_seed_013	0.429	0.505	1.019	0.721	10.145	0.544	0.213	0.545
+7msq_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_009	0.463	0.573	0.898	0.869	9.667	0.367	0.373	0.601
+7msq_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_004	0.453	0.573	1.013	0.788	9.681	0.399	0.221	0.457
+7msq_unrelaxed_rank_060_alphafold2_multimer_v3_model_2_seed_004	0.475	0.551	1.071	0.664	9.947	0.356	0.196	0.497
+7msq_unrelaxed_rank_046_alphafold2_multimer_v3_model_4_seed_009	0.452	0.516	1.036	0.838	9.344	0.576	0.246	0.564
+7msq_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_005	0.467	0.557	1.018	0.746	9.236	0.462	0.179	0.489
+7msq_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_008	0.474	0.529	1.021	0.701	8.831	0.574	0.204	0.564
+7msq_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_003	0.469	0.506	0.622	0.909	9.240	0.599	0.228	0.545
+7msq_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_006	0.469	0.493	1.048	0.713	8.879	0.790	0.381	0.702
+7msq_unrelaxed_rank_023_alphafold2_multimer_v3_model_5_seed_011	0.485	0.517	0.645	0.596	8.226	0.685	0.248	0.618
+7msq_unrelaxed_rank_066_alphafold2_multimer_v3_model_5_seed_003	0.470	0.548	0.646	0.633	9.146	0.395	0.160	0.493
+7msq_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_004	0.471	0.516	0.678	0.590	8.806	0.409	0.147	0.499
+7msq_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_001	0.459	0.484	1.006	0.672	8.543	0.745	0.326	0.694
+7msq_unrelaxed_rank_036_alphafold2_multimer_v3_model_1_seed_012	0.467	0.606	1.104	0.835	9.881	0.422	0.282	0.433
+7msq_unrelaxed_rank_068_alphafold2_multimer_v3_model_5_seed_000	0.459	0.546	0.743	0.789	9.809	0.372	0.195	0.542
+7msq_unrelaxed_rank_021_alphafold2_multimer_v3_model_2_seed_003	0.486	0.524	1.039	0.754	8.541	0.614	0.239	0.610
+7msq_unrelaxed_rank_034_alphafold2_multimer_v3_model_1_seed_006	0.459	0.582	1.082	0.746	9.980	0.387	0.220	0.497
+7msq_unrelaxed_rank_044_alphafold2_multimer_v3_model_5_seed_012	0.456	0.494	0.760	0.759	7.805	0.357	0.139	0.470
+7msq_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_014	0.475	0.521	0.767	0.703	9.143	0.553	0.222	0.536
+7msq_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_009	0.485	0.526	1.019	0.662	8.781	0.547	0.216	0.551
+7msq_unrelaxed_rank_006_alphafold2_multimer_v3_model_5_seed_008	0.492	0.524	0.613	0.614	7.781	0.688	0.233	0.613
+7msq_unrelaxed_rank_012_alphafold2_multimer_v3_model_4_seed_002	0.450	0.500	0.987	0.682	7.636	0.721	0.245	0.648
+7msq_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_008	0.483	0.519	1.049	0.689	8.832	0.586	0.239	0.601
+7msq_unrelaxed_rank_022_alphafold2_multimer_v3_model_3_seed_011	0.478	0.508	0.620	0.678	8.358	0.692	0.237	0.608
+7msq_unrelaxed_rank_050_alphafold2_multimer_v3_model_2_seed_009	0.478	0.579	1.066	0.757	9.553	0.418	0.180	0.484
+7msq_unrelaxed_rank_033_alphafold2_multimer_v3_model_1_seed_011	0.472	0.545	1.047	0.745	9.362	0.404	0.161	0.528
+7msq_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_014	0.463	0.567	1.067	0.797	9.323	0.449	0.207	0.465
+7msq_unrelaxed_rank_040_alphafold2_multimer_v3_model_2_seed_001	0.493	0.547	1.038	0.718	8.916	0.572	0.199	0.602
+7msq_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_001	0.473	0.510	0.708	0.727	7.847	0.564	0.255	0.552
+7msq_unrelaxed_rank_057_alphafold2_multimer_v3_model_3_seed_010	0.483	0.516	0.584	0.602	8.170	0.658	0.277	0.618
+7msq_unrelaxed_rank_025_alphafold2_multimer_v3_model_3_seed_008	0.478	0.508	0.689	0.811	8.531	0.678	0.264	0.614
+7pr0_unrelaxed_rank_068_alphafold2_multimer_v3_model_2_seed_002	0.891	0.676	0.491	0.590	3.673	0.793	0.326	2.479
+7pr0_unrelaxed_rank_028_alphafold2_multimer_v3_model_4_seed_014	0.908	0.609	0.607	0.605	9.514	0.854	0.324	2.569
+7pr0_unrelaxed_rank_027_alphafold2_multimer_v3_model_5_seed_001	0.915	0.603	0.661	0.605	9.891	0.712	0.305	2.577
+7pr0_unrelaxed_rank_014_alphafold2_multimer_v3_model_4_seed_011	0.914	0.608	0.610	0.631	10.467	0.896	0.324	2.556
+7pr0_unrelaxed_rank_020_alphafold2_multimer_v3_model_4_seed_007	0.919	0.612	0.612	0.639	9.702	0.863	0.313	2.588
+7pr0_unrelaxed_rank_034_alphafold2_multimer_v3_model_5_seed_003	0.917	0.614	0.648	0.588	10.205	0.781	0.340	2.631
+7pr0_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_006	0.930	0.744	0.682	0.655	10.007	1.030	0.295	2.561
+7pr0_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_006	0.906	0.606	0.575	0.651	10.477	0.939	0.324	2.480
+7pr0_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_002	0.913	0.621	0.565	0.606	9.631	0.869	0.332	2.631
+7pr0_unrelaxed_rank_057_alphafold2_multimer_v3_model_2_seed_004	0.886	0.781	0.413	0.591	3.897	0.904	0.377	2.491
+7pr0_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_009	0.899	0.627	0.462	0.553	5.419	0.710	0.346	2.555
+7pr0_unrelaxed_rank_042_alphafold2_multimer_v3_model_3_seed_001	0.928	0.610	0.626	0.641	9.683	0.772	0.337	2.614
+7pr0_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_012	0.911	0.645	0.500	0.592	3.737	0.770	0.341	2.527
+7pr0_unrelaxed_rank_059_alphafold2_multimer_v3_model_3_seed_010	0.954	0.652	0.535	0.653	5.341	0.814	0.380	2.592
+7pr0_unrelaxed_rank_043_alphafold2_multimer_v3_model_1_seed_007	1.010	0.734	0.585	0.707	9.879	1.097	0.330	2.886
+7pr0_unrelaxed_rank_054_alphafold2_multimer_v3_model_3_seed_011	0.924	0.624	0.563	0.630	9.818	0.761	0.313	2.596
+7pr0_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_006	0.966	0.640	0.576	0.689	5.898	0.874	0.371	2.629
+7pr0_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_000	1.035	0.652	0.597	0.728	9.629	1.084	0.325	2.977
+7pr0_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_006	0.912	0.613	0.642	0.600	10.068	0.786	0.324	2.594
+7pr0_unrelaxed_rank_062_alphafold2_multimer_v3_model_2_seed_003	0.889	0.742	0.691	0.640	8.887	0.917	0.383	2.564
+7pr0_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_004	0.923	0.655	0.555	0.619	9.562	0.984	0.306	2.615
+7pr0_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_002	0.932	0.647	0.542	0.616	4.828	0.753	0.327	2.569
+7pr0_unrelaxed_rank_029_alphafold2_multimer_v3_model_5_seed_014	0.931	0.606	0.709	0.621	9.918	0.729	0.325	2.632
+7pr0_unrelaxed_rank_075_alphafold2_multimer_v3_model_2_seed_012	0.929	0.656	0.560	0.646	9.490	0.867	0.318	2.609
+7pr0_unrelaxed_rank_004_alphafold2_multimer_v3_model_4_seed_000	0.906	0.628	0.548	0.602	9.353	0.895	0.341	2.618
+7pr0_unrelaxed_rank_067_alphafold2_multimer_v3_model_2_seed_011	0.897	0.753	0.629	0.631	8.811	0.915	0.363	2.527
+7pr0_unrelaxed_rank_053_alphafold2_multimer_v3_model_1_seed_009	0.989	0.761	0.585	0.672	10.096	1.146	0.344	2.805
+7pr0_unrelaxed_rank_016_alphafold2_multimer_v3_model_1_seed_012	0.994	0.719	0.671	0.694	9.723	1.049	0.339	2.861
+7pr0_unrelaxed_rank_006_alphafold2_multimer_v3_model_4_seed_005	0.916	0.617	0.618	0.615	9.798	0.852	0.300	2.582
+7pr0_unrelaxed_rank_035_alphafold2_multimer_v3_model_5_seed_012	0.920	0.608	0.701	0.584	10.195	0.780	0.326	2.613
+7pr0_unrelaxed_rank_044_alphafold2_multimer_v3_model_2_seed_000	0.881	0.763	0.482	0.598	5.493	0.963	0.385	2.488
+7pr0_unrelaxed_rank_055_alphafold2_multimer_v3_model_5_seed_000	0.900	0.612	0.682	0.587	10.174	0.765	0.322	2.562
+7pr0_unrelaxed_rank_046_alphafold2_multimer_v3_model_3_seed_014	0.940	0.643	0.548	0.633	4.752	0.733	0.329	2.578
+7pr0_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_007	0.940	0.657	0.681	0.720	5.796	0.801	0.393	2.520
+7pr0_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_005	1.083	0.746	0.596	0.719	9.586	1.102	0.304	3.085
+7pr0_unrelaxed_rank_040_alphafold2_multimer_v3_model_1_seed_014	1.052	0.748	0.664	0.715	10.102	1.108	0.308	2.993
+7pr0_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_001	1.059	0.673	0.382	0.700	4.685	1.019	0.359	3.100
+7pr0_unrelaxed_rank_038_alphafold2_multimer_v3_model_5_seed_010	0.910	0.613	0.657	0.582	10.240	0.791	0.332	2.596
+7pr0_unrelaxed_rank_039_alphafold2_multimer_v3_model_3_seed_009	0.918	0.649	0.473	0.563	3.954	0.745	0.329	2.561
+7pr0_unrelaxed_rank_021_alphafold2_multimer_v3_model_4_seed_012	0.901	0.609	0.550	0.588	10.608	0.817	0.309	2.524
+7pr0_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_000	0.936	0.630	0.585	0.622	10.320	0.826	0.348	2.624
+7pr0_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_002	0.919	0.609	0.689	0.600	10.051	0.752	0.312	2.605
+7pr0_unrelaxed_rank_071_alphafold2_multimer_v3_model_2_seed_014	0.892	0.741	0.738	0.647	9.339	0.884	0.338	2.516
+7pr0_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_002	1.066	0.732	0.618	0.701	9.573	1.091	0.314	3.037
+7pr0_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_013	0.910	0.644	0.480	0.574	4.312	0.745	0.328	2.574
+7pr0_unrelaxed_rank_060_alphafold2_multimer_v3_model_2_seed_005	0.876	0.660	0.447	0.614	3.428	0.890	0.334	2.437
+7pr0_unrelaxed_rank_018_alphafold2_multimer_v3_model_1_seed_013	0.983	0.663	0.617	0.681	10.044	1.117	0.354	2.803
+7pr0_unrelaxed_rank_051_alphafold2_multimer_v3_model_2_seed_008	0.912	0.673	0.393	0.589	3.849	0.798	0.338	2.551
+7pr0_unrelaxed_rank_045_alphafold2_multimer_v3_model_3_seed_005	0.946	0.642	0.578	0.674	4.500	0.822	0.350	2.568
+7pr0_unrelaxed_rank_072_alphafold2_multimer_v3_model_2_seed_010	1.052	0.789	0.407	0.683	4.538	0.993	0.337	3.028
+7pr0_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_003	0.951	0.651	0.737	0.765	11.245	0.793	0.359	2.535
+7pr0_unrelaxed_rank_017_alphafold2_multimer_v3_model_4_seed_008	0.921	0.609	0.618	0.641	10.732	0.863	0.330	2.599
+7pr0_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_007	1.104	0.772	0.640	0.806	8.569	1.087	0.387	3.215
+7pr0_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_001	1.067	0.652	0.628	0.722	9.721	1.050	0.293	3.035
+7pr0_unrelaxed_rank_047_alphafold2_multimer_v3_model_5_seed_011	0.920	0.614	0.639	0.599	10.057	0.742	0.310	2.584
+7pr0_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_010	0.911	0.615	0.542	0.612	9.478	0.875	0.309	2.567
+7pr0_unrelaxed_rank_031_alphafold2_multimer_v3_model_5_seed_013	0.921	0.612	0.646	0.591	9.834	0.722	0.315	2.590
+7pr0_unrelaxed_rank_010_alphafold2_multimer_v3_model_4_seed_009	0.913	0.610	0.595	0.628	10.415	0.871	0.318	2.571
+7pr0_unrelaxed_rank_002_alphafold2_multimer_v3_model_4_seed_004	0.919	0.624	0.516	0.589	10.246	0.869	0.287	2.575
+7pr0_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_005	0.908	0.627	0.455	0.540	4.291	0.682	0.296	2.589
+7pr0_unrelaxed_rank_074_alphafold2_multimer_v3_model_2_seed_009	1.079	0.770	0.522	0.725	8.488	1.042	0.346	3.158
+7pr0_unrelaxed_rank_007_alphafold2_multimer_v3_model_4_seed_001	0.913	0.603	0.619	0.625	10.177	0.808	0.306	2.579
+7pr0_unrelaxed_rank_065_alphafold2_multimer_v3_model_5_seed_007	0.984	0.608	0.601	0.628	9.728	0.781	0.327	2.835
+7pr0_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_010	0.903	0.704	0.584	0.628	9.573	1.003	0.289	2.496
+7pr0_unrelaxed_rank_050_alphafold2_multimer_v3_model_3_seed_008	0.922	0.649	0.488	0.583	3.707	0.738	0.320	2.563
+7pr0_unrelaxed_rank_026_alphafold2_multimer_v3_model_3_seed_004	0.910	0.643	0.481	0.592	4.102	0.762	0.348	2.524
+7pr0_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_013	0.889	0.784	0.442	0.573	4.240	0.937	0.384	2.502
+7pr0_unrelaxed_rank_073_alphafold2_multimer_v3_model_2_seed_006	0.894	0.649	0.631	0.636	8.641	0.924	0.337	2.490
+7pr0_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_008	0.928	0.606	0.690	0.615	9.999	0.750	0.321	2.629
+7pr0_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_003	0.973	0.761	0.553	0.641	9.435	1.085	0.368	2.822
+7pr0_unrelaxed_rank_019_alphafold2_multimer_v3_model_4_seed_013	0.905	0.616	0.557	0.601	9.898	0.854	0.316	2.554
+7pr0_unrelaxed_rank_041_alphafold2_multimer_v3_model_1_seed_008	1.077	0.642	0.660	0.731	9.765	0.995	0.304	3.117
+7pr0_unrelaxed_rank_009_alphafold2_multimer_v3_model_5_seed_004	0.923	0.616	0.664	0.602	9.659	0.761	0.316	2.645
+7pr0_unrelaxed_rank_032_alphafold2_multimer_v3_model_1_seed_011	1.016	0.649	0.638	0.729	9.871	1.103	0.321	2.891
+7pr0_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_003	0.921	0.617	0.563	0.601	9.666	0.817	0.304	2.648
+7np1_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_012	0.969	0.873	0.974	1.043	5.592	1.990	0.773	2.161
+7np1_unrelaxed_rank_047_alphafold2_multimer_v3_model_3_seed_002	0.940	0.788	0.929	1.156	5.208	1.722	0.507	2.026
+7np1_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_001	0.924	0.837	0.996	1.287	5.079	1.718	0.388	1.983
+7np1_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_011	0.949	0.861	0.965	1.205	5.061	1.757	0.459	2.139
+7np1_unrelaxed_rank_017_alphafold2_multimer_v3_model_1_seed_012	0.935	0.873	0.999	1.266	5.070	1.742	0.378	2.000
+7np1_unrelaxed_rank_036_alphafold2_multimer_v3_model_3_seed_006	0.908	0.787	0.888	1.049	5.180	1.549	0.357	1.974
+7np1_unrelaxed_rank_038_alphafold2_multimer_v3_model_4_seed_003	0.927	0.814	0.984	1.237	5.086	1.697	0.401	1.910
+7np1_unrelaxed_rank_028_alphafold2_multimer_v3_model_5_seed_013	0.942	0.793	0.871	1.154	5.113	1.697	0.437	2.015
+7np1_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_010	0.954	0.833	0.868	0.928	5.510	1.890	0.752	2.141
+7np1_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_010	0.914	0.811	0.959	1.243	5.089	1.698	0.372	1.950
+7np1_unrelaxed_rank_049_alphafold2_multimer_v3_model_2_seed_009	0.934	0.830	0.944	1.385	5.122	1.727	0.384	1.935
+7np1_unrelaxed_rank_031_alphafold2_multimer_v3_model_5_seed_009	0.934	0.787	0.855	1.165	5.106	1.673	0.406	1.999
+7np1_unrelaxed_rank_062_alphafold2_multimer_v3_model_4_seed_002	0.920	0.813	0.963	1.190	5.095	1.689	0.406	1.909
+7np1_unrelaxed_rank_029_alphafold2_multimer_v3_model_2_seed_012	0.968	0.875	0.988	1.348	5.249	1.783	0.442	2.056
+7np1_unrelaxed_rank_057_alphafold2_multimer_v3_model_4_seed_012	0.939	0.831	0.993	1.217	5.108	1.730	0.372	1.947
+7np1_unrelaxed_rank_070_alphafold2_multimer_v3_model_5_seed_008	0.962	0.831	0.965	1.144	5.008	1.940	0.713	2.206
+7np1_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_007	0.921	0.814	0.970	1.293	5.074	1.707	0.392	1.948
+7np1_unrelaxed_rank_058_alphafold2_multimer_v3_model_5_seed_007	0.955	0.773	0.888	1.122	5.330	1.734	0.526	2.117
+7np1_unrelaxed_rank_055_alphafold2_multimer_v3_model_4_seed_006	0.922	0.807	1.003	1.238	5.115	1.703	0.414	1.907
+7np1_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_006	0.947	0.798	0.960	1.243	5.117	1.712	0.465	2.116
+7np1_unrelaxed_rank_026_alphafold2_multimer_v3_model_4_seed_011	0.921	0.798	0.912	0.991	5.139	1.586	0.321	1.971
+7np1_unrelaxed_rank_066_alphafold2_multimer_v3_model_2_seed_000	0.927	0.854	0.935	1.412	5.105	1.726	0.385	1.894
+7np1_unrelaxed_rank_018_alphafold2_multimer_v3_model_5_seed_000	0.905	0.776	0.810	1.099	5.062	1.582	0.402	1.922
+7np1_unrelaxed_rank_061_alphafold2_multimer_v3_model_2_seed_011	0.931	0.829	0.946	1.351	5.167	1.692	0.385	1.913
+7np1_unrelaxed_rank_006_alphafold2_multimer_v3_model_5_seed_014	0.970	0.819	0.899	1.229	5.095	1.821	0.472	2.160
+7np1_unrelaxed_rank_016_alphafold2_multimer_v3_model_5_seed_004	0.947	0.772	0.836	1.107	5.042	1.696	0.463	2.044
+7np1_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_014	0.967	0.866	0.976	1.028	5.828	1.959	0.783	2.388
+7np1_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_003	0.921	0.816	0.999	1.270	5.054	1.714	0.410	1.951
+7np1_unrelaxed_rank_046_alphafold2_multimer_v3_model_4_seed_014	0.936	0.812	1.006	1.240	5.100	1.734	0.417	1.958
+7np1_unrelaxed_rank_037_alphafold2_multimer_v3_model_2_seed_006	0.955	0.836	0.919	1.323	5.119	1.757	0.459	2.048
+7np1_unrelaxed_rank_023_alphafold2_multimer_v3_model_2_seed_014	0.987	0.855	1.057	1.479	5.335	1.872	0.537	2.159
+7np1_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_003	0.954	0.784	0.950	1.157	5.444	1.689	0.487	2.132
+7np1_unrelaxed_rank_032_alphafold2_multimer_v3_model_4_seed_013	0.933	0.813	0.975	1.247	5.094	1.699	0.401	1.942
+7np1_unrelaxed_rank_042_alphafold2_multimer_v3_model_3_seed_009	0.949	0.799	0.964	1.205	5.297	1.763	0.548	2.063
+7np1_unrelaxed_rank_044_alphafold2_multimer_v3_model_3_seed_007	0.946	0.793	0.932	1.164	5.137	1.706	0.459	2.062
+7np1_unrelaxed_rank_020_alphafold2_multimer_v3_model_3_seed_008	0.949	0.807	0.938	1.202	5.179	1.746	0.492	2.095
+7np1_unrelaxed_rank_045_alphafold2_multimer_v3_model_5_seed_010	0.937	0.797	0.886	1.168	5.021	1.749	0.495	2.003
+7np1_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_004	0.906	0.809	0.899	0.984	6.006	1.743	0.630	1.925
+7np1_unrelaxed_rank_065_alphafold2_multimer_v3_model_2_seed_013	0.943	0.842	0.944	1.393	5.127	1.737	0.414	1.968
+7np1_unrelaxed_rank_060_alphafold2_multimer_v3_model_2_seed_005	0.961	0.842	1.006	1.451	5.123	1.778	0.435	2.061
+7np1_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_005	0.933	0.779	0.963	1.240	5.029	1.682	0.432	2.079
+7np1_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_001	0.934	0.789	0.864	1.176	5.012	1.729	0.480	1.990
+7np1_unrelaxed_rank_030_alphafold2_multimer_v3_model_4_seed_004	0.933	0.814	0.966	1.233	5.076	1.702	0.400	1.935
+7np1_unrelaxed_rank_048_alphafold2_multimer_v3_model_2_seed_003	0.938	0.841	0.973	1.443	5.132	1.730	0.399	1.897
+7np1_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_002	0.941	0.793	0.881	1.202	4.987	1.731	0.468	1.994
+7np1_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_004	0.923	0.858	0.992	1.290	5.095	1.717	0.360	1.927
+7np1_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_009	0.921	0.805	0.948	1.274	5.079	1.679	0.379	1.944
+7np1_unrelaxed_rank_014_alphafold2_multimer_v3_model_5_seed_005	0.969	0.811	0.908	1.253	5.068	1.780	0.507	2.170
+7np1_unrelaxed_rank_025_alphafold2_multimer_v3_model_5_seed_006	0.909	0.769	0.809	1.083	5.055	1.585	0.370	1.913
+7np1_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_013	0.971	0.846	0.915	1.005	5.215	1.909	0.750	2.189
+7np1_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_013	0.928	0.822	0.977	1.286	5.088	1.711	0.409	1.987
+7np1_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_011	0.952	0.878	0.827	0.921	5.530	1.905	0.705	2.270
+7np1_unrelaxed_rank_054_alphafold2_multimer_v3_model_2_seed_002	0.921	0.819	0.953	1.378	5.141	1.662	0.353	1.876
+7np1_unrelaxed_rank_059_alphafold2_multimer_v3_model_2_seed_004	0.937	0.828	0.936	1.341	5.117	1.687	0.375	1.915
+7np1_unrelaxed_rank_015_alphafold2_multimer_v3_model_5_seed_012	0.941	0.793	0.858	1.136	5.091	1.708	0.386	2.028
+7np1_unrelaxed_rank_050_alphafold2_multimer_v3_model_4_seed_000	0.930	0.812	0.934	1.223	5.111	1.704	0.438	1.944
+7np1_unrelaxed_rank_039_alphafold2_multimer_v3_model_4_seed_009	0.928	0.806	0.945	1.221	5.099	1.683	0.394	1.916
+7np1_unrelaxed_rank_053_alphafold2_multimer_v3_model_4_seed_005	0.928	0.822	0.989	1.267	5.103	1.722	0.412	1.924
+7np1_unrelaxed_rank_075_alphafold2_multimer_v3_model_3_seed_001	0.936	0.950	1.013	1.329	5.489	2.132	0.779	2.530
+7np1_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_001	0.921	0.799	0.952	1.217	5.119	1.676	0.413	1.934
+7np1_unrelaxed_rank_034_alphafold2_multimer_v3_model_5_seed_011	0.967	0.817	0.887	1.195	5.049	1.841	0.554	2.135
+7np1_unrelaxed_rank_027_alphafold2_multimer_v3_model_3_seed_005	0.943	0.784	0.940	1.141	5.193	1.716	0.511	2.075
+7np1_unrelaxed_rank_022_alphafold2_multimer_v3_model_4_seed_008	0.928	0.807	0.985	1.253	5.098	1.701	0.385	1.919
+7np1_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_000	0.925	0.849	0.978	1.312	5.060	1.738	0.412	1.980
+7np1_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_008	0.949	0.822	1.024	1.415	5.191	1.752	0.450	2.016
+7np1_unrelaxed_rank_024_alphafold2_multimer_v3_model_4_seed_010	0.921	0.802	0.941	1.195	5.134	1.688	0.379	1.911
+7np1_unrelaxed_rank_064_alphafold2_multimer_v3_model_2_seed_001	0.925	0.828	0.946	1.362	5.135	1.695	0.391	1.913
+7np1_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_000	0.899	0.802	0.793	0.894	5.608	1.633	0.572	1.980
+7np1_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_008	0.944	0.815	0.978	1.263	5.002	1.720	0.417	2.070
+7np1_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_007	0.929	0.807	0.969	1.236	5.118	1.700	0.392	1.926
+7np1_unrelaxed_rank_063_alphafold2_multimer_v3_model_2_seed_007	0.940	0.836	0.921	1.371	5.116	1.742	0.384	1.969
+7np1_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_002	0.914	0.873	0.983	1.286	5.073	1.694	0.358	1.921
+7np1_unrelaxed_rank_056_alphafold2_multimer_v3_model_2_seed_010	0.924	0.818	0.943	1.334	5.161	1.676	0.379	1.872
+7np1_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_003	0.937	0.788	0.879	1.177	5.045	1.690	0.460	1.992
+7np1_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_014	0.962	0.842	1.009	1.239	5.103	1.809	0.477	2.149
+7phu_unrelaxed_rank_016_alphafold2_multimer_v3_model_2_seed_008	0.409	0.460	0.675	0.485	3.746	0.609	0.448	0.734
+7phu_unrelaxed_rank_054_alphafold2_multimer_v3_model_4_seed_003	0.421	0.460	0.734	0.627	4.297	0.628	0.407	0.918
+7phu_unrelaxed_rank_021_alphafold2_multimer_v3_model_2_seed_005	0.395	0.448	0.738	0.490	3.945	0.543	0.465	0.630
+7phu_unrelaxed_rank_062_alphafold2_multimer_v3_model_3_seed_010	0.432	0.466	0.761	0.634	4.224	0.598	0.346	1.064
+7phu_unrelaxed_rank_073_alphafold2_multimer_v3_model_3_seed_001	0.436	0.463	0.743	0.621	4.286	0.668	0.359	0.965
+7phu_unrelaxed_rank_036_alphafold2_multimer_v3_model_2_seed_014	0.410	0.463	0.780	0.498	4.013	0.592	0.455	0.775
+7phu_unrelaxed_rank_018_alphafold2_multimer_v3_model_2_seed_012	0.404	0.461	0.721	0.536	3.942	0.637	0.481	0.643
+7phu_unrelaxed_rank_012_alphafold2_multimer_v3_model_1_seed_012	0.407	0.468	0.698	0.607	3.703	0.648	0.483	0.551
+7phu_unrelaxed_rank_030_alphafold2_multimer_v3_model_2_seed_013	0.416	0.459	0.688	0.513	3.669	0.628	0.492	0.672
+7phu_unrelaxed_rank_025_alphafold2_multimer_v3_model_5_seed_000	0.446	0.454	0.668	0.529	4.437	0.583	0.415	0.801
+7phu_unrelaxed_rank_068_alphafold2_multimer_v3_model_3_seed_006	0.438	0.460	0.764	0.623	4.117	0.633	0.353	0.990
+7phu_unrelaxed_rank_006_alphafold2_multimer_v3_model_1_seed_009	0.402	0.474	0.737	0.607	3.739	0.583	0.475	0.513
+7phu_unrelaxed_rank_057_alphafold2_multimer_v3_model_4_seed_007	0.423	0.445	0.711	0.584	4.295	0.571	0.368	0.864
+7phu_unrelaxed_rank_022_alphafold2_multimer_v3_model_2_seed_001	0.408	0.454	0.717	0.500	3.814	0.592	0.505	0.632
+7phu_unrelaxed_rank_047_alphafold2_multimer_v3_model_4_seed_010	0.402	0.451	0.619	0.564	4.095	0.596	0.345	0.703
+7phu_unrelaxed_rank_017_alphafold2_multimer_v3_model_2_seed_011	0.406	0.459	0.755	0.496	4.004	0.563	0.448	0.637
+7phu_unrelaxed_rank_065_alphafold2_multimer_v3_model_3_seed_009	0.444	0.464	0.762	0.621	4.164	0.729	0.382	0.941
+7phu_unrelaxed_rank_011_alphafold2_multimer_v3_model_1_seed_011	0.410	0.467	0.727	0.577	3.874	0.650	0.489	0.535
+7phu_unrelaxed_rank_039_alphafold2_multimer_v3_model_4_seed_008	0.408	0.455	0.599	0.587	4.316	0.616	0.358	0.732
+7phu_unrelaxed_rank_023_alphafold2_multimer_v3_model_2_seed_007	0.400	0.447	0.758	0.528	3.803	0.580	0.482	0.627
+7phu_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_008	0.432	0.456	0.686	0.574	4.134	0.695	0.342	0.803
+7phu_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_004	0.435	0.442	0.710	0.554	4.159	0.561	0.406	0.863
+7phu_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_011	0.404	0.443	0.638	0.569	4.234	0.582	0.355	0.747
+7phu_unrelaxed_rank_046_alphafold2_multimer_v3_model_5_seed_011	0.432	0.454	0.678	0.498	4.544	0.531	0.343	0.815
+7phu_unrelaxed_rank_007_alphafold2_multimer_v3_model_1_seed_001	0.406	0.455	0.676	0.584	3.789	0.650	0.485	0.557
+7phu_unrelaxed_rank_045_alphafold2_multimer_v3_model_4_seed_013	0.413	0.457	0.612	0.582	4.132	0.621	0.354	0.701
+7phu_unrelaxed_rank_060_alphafold2_multimer_v3_model_4_seed_014	0.419	0.452	0.716	0.546	4.281	0.536	0.339	0.936
+7phu_unrelaxed_rank_050_alphafold2_multimer_v3_model_3_seed_007	0.446	0.455	0.666	0.593	4.072	0.831	0.369	0.729
+7phu_unrelaxed_rank_027_alphafold2_multimer_v3_model_2_seed_003	0.412	0.452	0.705	0.465	3.917	0.559	0.451	0.704
+7phu_unrelaxed_rank_003_alphafold2_multimer_v3_model_1_seed_005	0.405	0.458	0.713	0.612	3.743	0.634	0.469	0.589
+7phu_unrelaxed_rank_008_alphafold2_multimer_v3_model_1_seed_003	0.406	0.473	0.695	0.577	3.915	0.601	0.470	0.559
+7phu_unrelaxed_rank_032_alphafold2_multimer_v3_model_5_seed_008	0.428	0.456	0.620	0.522	4.458	0.599	0.420	0.698
+7phu_unrelaxed_rank_052_alphafold2_multimer_v3_model_5_seed_014	0.442	0.478	0.844	0.507	4.800	0.569	0.382	1.034
+7phu_unrelaxed_rank_026_alphafold2_multimer_v3_model_5_seed_005	0.427	0.447	0.689	0.521	4.492	0.551	0.415	0.738
+7phu_unrelaxed_rank_038_alphafold2_multimer_v3_model_2_seed_010	0.400	0.463	0.843	0.521	3.800	0.582	0.477	0.697
+7phu_unrelaxed_rank_070_alphafold2_multimer_v3_model_2_seed_004	0.420	0.484	0.683	0.485	4.223	0.627	0.399	0.837
+7phu_unrelaxed_rank_015_alphafold2_multimer_v3_model_1_seed_004	0.407	0.459	0.680	0.618	3.792	0.760	0.490	0.527
+7phu_unrelaxed_rank_066_alphafold2_multimer_v3_model_4_seed_002	0.418	0.452	0.729	0.567	4.343	0.573	0.353	0.895
+7phu_unrelaxed_rank_053_alphafold2_multimer_v3_model_4_seed_012	0.414	0.446	0.653	0.567	4.249	0.614	0.372	0.801
+7phu_unrelaxed_rank_067_alphafold2_multimer_v3_model_3_seed_012	0.428	0.464	0.757	0.628	4.163	0.632	0.347	0.890
+7phu_unrelaxed_rank_009_alphafold2_multimer_v3_model_1_seed_014	0.404	0.466	0.724	0.574	3.832	0.640	0.468	0.576
+7phu_unrelaxed_rank_071_alphafold2_multimer_v3_model_3_seed_002	0.438	0.473	0.774	0.613	4.426	0.690	0.373	1.045
+7phu_unrelaxed_rank_024_alphafold2_multimer_v3_model_2_seed_000	0.419	0.472	0.777	0.503	3.834	0.568	0.435	0.798
+7phu_unrelaxed_rank_051_alphafold2_multimer_v3_model_4_seed_006	0.416	0.449	0.719	0.601	4.185	0.549	0.382	0.860
+7phu_unrelaxed_rank_042_alphafold2_multimer_v3_model_5_seed_007	0.441	0.458	0.749	0.550	4.490	0.553	0.417	0.876
+7phu_unrelaxed_rank_019_alphafold2_multimer_v3_model_2_seed_009	0.404	0.459	0.776	0.507	3.788	0.566	0.486	0.633
+7phu_unrelaxed_rank_075_alphafold2_multimer_v3_model_4_seed_004	0.434	0.467	0.783	0.637	4.274	0.669	0.380	1.202
+7phu_unrelaxed_rank_034_alphafold2_multimer_v3_model_5_seed_002	0.432	0.454	0.724	0.507	4.503	0.592	0.419	0.823
+7phu_unrelaxed_rank_072_alphafold2_multimer_v3_model_3_seed_013	0.435	0.463	0.669	0.563	4.057	0.661	0.340	0.860
+7phu_unrelaxed_rank_063_alphafold2_multimer_v3_model_3_seed_005	0.422	0.450	0.682	0.575	4.102	0.587	0.338	0.819
+7phu_unrelaxed_rank_048_alphafold2_multimer_v3_model_4_seed_000	0.420	0.459	0.647	0.593	4.240	0.584	0.353	0.829
+7phu_unrelaxed_rank_033_alphafold2_multimer_v3_model_5_seed_003	0.440	0.452	0.671	0.522	4.392	0.593	0.436	0.751
+7phu_unrelaxed_rank_031_alphafold2_multimer_v3_model_5_seed_010	0.427	0.446	0.697	0.510	4.239	0.514	0.367	0.819
+7phu_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_006	0.423	0.451	0.735	0.527	4.298	0.533	0.399	0.792
+7phu_unrelaxed_rank_020_alphafold2_multimer_v3_model_2_seed_006	0.398	0.448	0.734	0.533	3.933	0.543	0.481	0.629
+7phu_unrelaxed_rank_061_alphafold2_multimer_v3_model_3_seed_000	0.445	0.476	0.688	0.588	4.276	0.636	0.329	1.036
+7phu_unrelaxed_rank_004_alphafold2_multimer_v3_model_1_seed_000	0.410	0.479	0.735	0.592	3.822	0.642	0.479	0.565
+7phu_unrelaxed_rank_059_alphafold2_multimer_v3_model_3_seed_011	0.442	0.464	0.694	0.573	4.233	0.628	0.341	0.928
+7phu_unrelaxed_rank_055_alphafold2_multimer_v3_model_4_seed_009	0.418	0.457	0.684	0.592	4.248	0.584	0.342	0.850
+7phu_unrelaxed_rank_058_alphafold2_multimer_v3_model_4_seed_001	0.425	0.464	0.741	0.584	4.273	0.572	0.369	0.925
+7phu_unrelaxed_rank_005_alphafold2_multimer_v3_model_1_seed_008	0.402	0.464	0.633	0.627	3.794	0.696	0.501	0.533
+7phu_unrelaxed_rank_028_alphafold2_multimer_v3_model_5_seed_013	0.436	0.456	0.641	0.526	4.168	0.613	0.444	0.662
+7phu_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_014	0.427	0.457	0.695	0.594	4.124	0.656	0.371	0.793
+7phu_unrelaxed_rank_010_alphafold2_multimer_v3_model_1_seed_013	0.410	0.465	0.663	0.583	3.734	0.692	0.503	0.535
+7phu_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_007	0.409	0.469	0.733	0.570	4.113	0.570	0.454	0.583
+7phu_unrelaxed_rank_044_alphafold2_multimer_v3_model_5_seed_001	0.427	0.451	0.695	0.519	4.324	0.534	0.383	0.752
+7phu_unrelaxed_rank_069_alphafold2_multimer_v3_model_3_seed_003	0.437	0.459	0.719	0.606	4.125	0.677	0.377	0.855
+7phu_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_002	0.409	0.462	0.733	0.588	3.951	0.637	0.476	0.590
+7phu_unrelaxed_rank_040_alphafold2_multimer_v3_model_5_seed_012	0.425	0.453	0.675	0.516	4.549	0.524	0.384	0.784
+7phu_unrelaxed_rank_035_alphafold2_multimer_v3_model_2_seed_002	0.406	0.460	0.780	0.514	3.994	0.594	0.473	0.688
+7phu_unrelaxed_rank_074_alphafold2_multimer_v3_model_3_seed_004	0.433	0.467	0.754	0.644	4.187	0.686	0.357	0.998
+7phu_unrelaxed_rank_013_alphafold2_multimer_v3_model_1_seed_010	0.415	0.468	0.704	0.638	3.517	0.632	0.509	0.643
+7phu_unrelaxed_rank_037_alphafold2_multimer_v3_model_5_seed_009	0.435	0.454	0.671	0.501	4.180	0.594	0.385	0.741
+7phu_unrelaxed_rank_041_alphafold2_multimer_v3_model_4_seed_005	0.403	0.443	0.621	0.563	4.327	0.608	0.363	0.698
+7phu_unrelaxed_rank_002_alphafold2_multimer_v3_model_1_seed_006	0.401	0.452	0.713	0.608	3.789	0.604	0.499	0.527
+7rfb_unrelaxed_rank_018_alphafold2_multimer_v3_model_4_seed_000	7.091	9.277	1.782	1.693	12.918	0.965	0.947	5.187
+7rfb_unrelaxed_rank_045_alphafold2_multimer_v3_model_3_seed_007	0.501	0.607	1.038	0.747	6.901	0.930	0.323	0.555
+7rfb_unrelaxed_rank_040_alphafold2_multimer_v3_model_4_seed_004	0.499	0.633	0.926	0.634	6.441	0.880	0.381	0.560
+7rfb_unrelaxed_rank_033_alphafold2_multimer_v3_model_3_seed_002	0.514	0.545	0.958	0.490	4.960	0.947	0.457	0.587
+7rfb_unrelaxed_rank_021_alphafold2_multimer_v3_model_1_seed_001	0.507	0.635	0.943	0.638	6.841	0.966	0.314	0.651
+7rfb_unrelaxed_rank_027_alphafold2_multimer_v3_model_1_seed_008	0.511	0.673	0.971	0.681	5.535	0.971	0.342	0.692
+7rfb_unrelaxed_rank_003_alphafold2_multimer_v3_model_2_seed_007	0.477	0.623	0.901	0.577	4.879	0.742	0.428	0.461
+7rfb_unrelaxed_rank_038_alphafold2_multimer_v3_model_4_seed_012	0.503	0.592	0.916	0.609	7.099	0.854	0.388	0.531
+7rfb_unrelaxed_rank_005_alphafold2_multimer_v3_model_2_seed_000	0.495	0.646	0.930	0.629	5.013	0.825	0.404	0.532
+7rfb_unrelaxed_rank_041_alphafold2_multimer_v3_model_1_seed_005	0.589	0.550	0.955	0.570	5.838	0.939	0.365	0.906
+7rfb_unrelaxed_rank_016_alphafold2_multimer_v3_model_4_seed_002	0.498	0.597	0.896	0.506	5.642	0.903	0.329	0.543
+7rfb_unrelaxed_rank_001_alphafold2_multimer_v3_model_2_seed_002	0.498	0.573	0.872	0.491	7.158	0.822	0.458	0.494
+7rfb_unrelaxed_rank_068_alphafold2_multimer_v3_model_4_seed_014	0.861	0.524	0.947	0.588	6.944	0.830	0.453	2.393
+7rfb_unrelaxed_rank_042_alphafold2_multimer_v3_model_4_seed_006	0.492	0.659	0.963	0.651	5.807	0.868	0.427	0.574
+7rfb_unrelaxed_rank_050_alphafold2_multimer_v3_model_5_seed_005	0.506	0.644	1.035	0.719	6.775	0.958	0.357	0.606
+7rfb_unrelaxed_rank_073_alphafold2_multimer_v3_model_5_seed_002	0.911	0.524	1.076	0.649	5.673	0.780	0.403	2.545
+7rfb_unrelaxed_rank_032_alphafold2_multimer_v3_model_1_seed_012	0.508	0.668	0.981	0.684	5.484	0.939	0.350	0.656
+7rfb_unrelaxed_rank_070_alphafold2_multimer_v3_model_3_seed_006	0.945	0.475	0.930	0.502	5.964	0.969	0.476	2.773
+7rfb_unrelaxed_rank_012_alphafold2_multimer_v3_model_2_seed_009	0.504	0.590	0.924	0.517	4.659	0.886	0.356	0.507
+7rfb_unrelaxed_rank_060_alphafold2_multimer_v3_model_3_seed_011	0.511	0.601	1.016	0.744	7.113	0.903	0.325	0.552
+7rfb_unrelaxed_rank_013_alphafold2_multimer_v3_model_4_seed_010	7.124	9.281	1.497	1.410	13.445	1.099	0.761	5.327
+7rfb_unrelaxed_rank_026_alphafold2_multimer_v3_model_2_seed_008	0.508	0.624	0.991	0.664	6.940	0.940	0.327	0.558
+7rfb_unrelaxed_rank_072_alphafold2_multimer_v3_model_5_seed_014	0.646	0.534	0.993	0.635	6.012	0.781	0.427	1.407
+7rfb_unrelaxed_rank_015_alphafold2_multimer_v3_model_2_seed_011	0.505	0.582	0.933	0.517	6.681	0.904	0.340	0.494
+7rfb_unrelaxed_rank_014_alphafold2_multimer_v3_model_1_seed_010	0.516	0.620	0.967	0.622	6.833	0.989	0.303	0.666
+7rfb_unrelaxed_rank_074_alphafold2_multimer_v3_model_5_seed_013	0.901	0.509	1.054	0.616	6.143	0.767	0.391	2.534
+7rfb_unrelaxed_rank_056_alphafold2_multimer_v3_model_3_seed_004	0.519	0.563	0.901	0.561	6.062	0.869	0.395	0.610
+7rfb_unrelaxed_rank_025_alphafold2_multimer_v3_model_1_seed_014	0.502	0.672	0.949	0.670	6.023	0.949	0.325	0.678
+7rfb_unrelaxed_rank_036_alphafold2_multimer_v3_model_4_seed_009	7.098	9.281	1.592	1.545	13.169	1.031	0.871	5.221
+7rfb_unrelaxed_rank_071_alphafold2_multimer_v3_model_5_seed_006	0.967	0.525	1.010	0.641	6.872	0.757	0.430	2.814
+7rfb_unrelaxed_rank_020_alphafold2_multimer_v3_model_1_seed_006	0.501	0.644	0.941	0.642	5.344	0.940	0.323	0.652
+7rfb_unrelaxed_rank_049_alphafold2_multimer_v3_model_5_seed_010	0.509	0.617	1.023	0.715	6.656	0.885	0.351	0.512
+7rfb_unrelaxed_rank_044_alphafold2_multimer_v3_model_1_seed_007	0.575	0.576	0.978	0.603	5.884	0.950	0.412	0.868
+7rfb_unrelaxed_rank_051_alphafold2_multimer_v3_model_3_seed_013	0.498	0.597	1.003	0.749	6.023	0.928	0.317	0.541
+7rfb_unrelaxed_rank_022_alphafold2_multimer_v3_model_1_seed_004	0.510	0.629	0.936	0.606	6.862	0.948	0.321	0.630
+7rfb_unrelaxed_rank_067_alphafold2_multimer_v3_model_5_seed_007	0.871	0.544	1.014	0.635	6.281	0.815	0.423	2.373
+7rfb_unrelaxed_rank_034_alphafold2_multimer_v3_model_1_seed_013	0.505	0.604	0.906	0.542	6.796	0.942	0.320	0.606
+7rfb_unrelaxed_rank_055_alphafold2_multimer_v3_model_3_seed_009	0.502	0.591	0.989	0.670	6.509	0.880	0.319	0.547
+7rfb_unrelaxed_rank_058_alphafold2_multimer_v3_model_3_seed_001	0.510	0.582	0.965	0.649	6.555	0.960	0.325	0.546
+7rfb_unrelaxed_rank_007_alphafold2_multimer_v3_model_2_seed_004	0.506	0.588	0.900	0.492	6.687	0.920	0.333	0.538
+7rfb_unrelaxed_rank_011_alphafold2_multimer_v3_model_2_seed_014	0.498	0.569	0.890	0.471	6.769	0.857	0.403	0.486
+7rfb_unrelaxed_rank_066_alphafold2_multimer_v3_model_5_seed_001	0.914	0.542	1.020	0.655	6.244	0.869	0.418	2.516
+7rfb_unrelaxed_rank_062_alphafold2_multimer_v3_model_5_seed_012	0.527	0.552	1.019	0.720	6.625	0.828	0.348	0.632
+7rfb_unrelaxed_rank_024_alphafold2_multimer_v3_model_1_seed_009	0.511	0.656	0.980	0.688	6.799	0.947	0.335	0.650
+7rfb_unrelaxed_rank_004_alphafold2_multimer_v3_model_2_seed_012	0.509	0.605	0.880	0.506	6.845	0.873	0.450	0.502
+7rfb_unrelaxed_rank_030_alphafold2_multimer_v3_model_1_seed_003	0.502	0.603	0.945	0.580	6.768	0.943	0.307	0.608
+7rfb_unrelaxed_rank_047_alphafold2_multimer_v3_model_3_seed_000	0.515	0.641	1.049	0.764	6.163	0.942	0.357	0.586
+7rfb_unrelaxed_rank_035_alphafold2_multimer_v3_model_4_seed_007	0.505	0.651	1.006	0.758	7.697	0.874	0.407	0.567
+7rfb_unrelaxed_rank_037_alphafold2_multimer_v3_model_4_seed_005	7.075	9.266	1.665	1.650	13.307	1.124	0.944	5.230
+7rfb_unrelaxed_rank_023_alphafold2_multimer_v3_model_4_seed_008	7.102	9.280	1.570	1.511	13.070	1.009	0.854	5.259
+7rfb_unrelaxed_rank_046_alphafold2_multimer_v3_model_3_seed_010	0.517	0.605	0.986	0.665	6.580	1.001	0.316	0.591
+7rfb_unrelaxed_rank_069_alphafold2_multimer_v3_model_5_seed_008	0.980	0.522	0.985	0.600	6.120	0.802	0.436	2.878
+7rfb_unrelaxed_rank_075_alphafold2_multimer_v3_model_5_seed_011	7.142	9.323	1.439	1.979	13.359	1.673	0.992	4.820
+7rfb_unrelaxed_rank_006_alphafold2_multimer_v3_model_2_seed_010	0.498	0.591	0.892	0.512	6.899	0.809	0.388	0.450
+7rfb_unrelaxed_rank_048_alphafold2_multimer_v3_model_3_seed_003	0.514	0.612	1.004	0.728	6.235	0.979	0.325	0.605
+7rfb_unrelaxed_rank_029_alphafold2_multimer_v3_model_4_seed_001	7.096	9.271	1.446	1.370	12.698	1.005	0.773	5.484
+7rfb_unrelaxed_rank_039_alphafold2_multimer_v3_model_4_seed_011	7.107	9.285	1.472	1.667	13.364	1.154	0.872	5.094
+7rfb_unrelaxed_rank_043_alphafold2_multimer_v3_model_5_seed_003	7.118	9.279	1.565	1.859	13.411	1.429	0.991	4.989
+7rfb_unrelaxed_rank_019_alphafold2_multimer_v3_model_1_seed_002	0.509	0.600	0.911	0.510	6.618	0.965	0.329	0.604
+7rfb_unrelaxed_rank_059_alphafold2_multimer_v3_model_3_seed_005	0.507	0.583	0.956	0.632	5.653	0.855	0.355	0.545
+7rfb_unrelaxed_rank_008_alphafold2_multimer_v3_model_2_seed_013	0.501	0.591	0.882	0.468	6.905	0.852	0.441	0.484
+7rfb_unrelaxed_rank_057_alphafold2_multimer_v3_model_5_seed_009	0.515	0.612	1.044	0.729	6.931	0.848	0.367	0.525
+7rfb_unrelaxed_rank_064_alphafold2_multimer_v3_model_3_seed_008	0.512	0.593	0.980	0.734	7.638	0.796	0.372	0.609
+7rfb_unrelaxed_rank_028_alphafold2_multimer_v3_model_2_seed_006	0.500	0.594	0.920	0.547	6.676	0.881	0.363	0.488
+7rfb_unrelaxed_rank_061_alphafold2_multimer_v3_model_4_seed_013	0.592	0.537	0.984	0.616	6.845	0.872	0.419	1.064
+7rfb_unrelaxed_rank_063_alphafold2_multimer_v3_model_5_seed_000	0.829	0.576	1.014	0.708	6.623	0.850	0.450	2.158
+7rfb_unrelaxed_rank_065_alphafold2_multimer_v3_model_1_seed_011	0.712	0.557	0.926	0.561	6.893	0.878	0.448	1.640
+7rfb_unrelaxed_rank_010_alphafold2_multimer_v3_model_2_seed_001	0.506	0.576	0.898	0.454	6.737	0.890	0.396	0.486
+7rfb_unrelaxed_rank_017_alphafold2_multimer_v3_model_1_seed_000	0.558	0.678	0.959	0.685	7.030	1.085	0.392	0.812
+7rfb_unrelaxed_rank_002_alphafold2_multimer_v3_model_2_seed_005	0.492	0.609	0.869	0.554	7.126	0.781	0.451	0.425
+7rfb_unrelaxed_rank_009_alphafold2_multimer_v3_model_2_seed_003	0.494	0.571	1.049	0.452	7.033	0.811	0.393	0.434
+7rfb_unrelaxed_rank_053_alphafold2_multimer_v3_model_3_seed_014	0.497	0.597	1.000	0.739	5.824	0.859	0.339	0.530
+7rfb_unrelaxed_rank_054_alphafold2_multimer_v3_model_5_seed_004	0.508	0.618	1.027	0.738	6.783	0.905	0.342	0.512
+7rfb_unrelaxed_rank_052_alphafold2_multimer_v3_model_3_seed_012	0.509	0.618	1.003	0.742	5.915	0.982	0.323	0.582
+7rfb_unrelaxed_rank_031_alphafold2_multimer_v3_model_4_seed_003	7.116	9.288	1.455	1.455	12.969	0.949	0.815	5.270
